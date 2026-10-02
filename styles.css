@@ -91,3 +91,69 @@ body {
 }
 .tab span { font-size: 11px; }
 .tab.active { color: var(--primary); }
+
+/* ===== 阅读模块 ===== */
+.section-title { font-size: 16px; margin: 8px 4px 10px; }
+
+.badge {
+  display: inline-block; font-size: 12px; color: var(--primary);
+  background: var(--primary-light); border-radius: 6px;
+  padding: 3px 8px; margin-bottom: 10px; font-weight: 600;
+}
+.today-card { cursor: pointer; }
+.article-title { font-size: 17px; font-weight: 700; line-height: 1.4; }
+.article-title.small { font-size: 15px; }
+.article-meta { color: var(--text-sub); font-size: 12px; margin: 6px 0; }
+.article-summary { font-size: 14px; line-height: 1.6; color: #374151; margin: 8px 0; }
+.article-item { cursor: pointer; }
+.hint.center { text-align: center; margin-top: 10px; }
+
+/* 版块筛选 */
+.chips { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 10px; margin-bottom: 4px; }
+.chip {
+  flex: none; border: 1px solid #e5e7eb; background: #fff;
+  border-radius: 999px; padding: 6px 14px; font-size: 13px; color: var(--text-sub);
+}
+.chip.active { background: var(--primary); border-color: var(--primary); color: #fff; }
+
+/* 阅读浮层 */
+.overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,.45);
+  z-index: 40; display: flex; align-items: flex-end; justify-content: center;
+}
+.overlay-panel {
+  background: #fff; width: 100%; max-width: 560px; max-height: 82vh;
+  border-radius: 20px 20px 0 0; padding: 20px 20px 36px;
+  overflow-y: auto; position: relative;
+}
+.overlay-close {
+  position: absolute; top: 12px; right: 12px; border: none;
+  background: #f3f4f6; border-radius: 50%; width: 32px; height: 32px;
+  font-size: 14px; color: var(--text-sub);
+}
+.reader-title { font-size: 20px; line-height: 1.45; margin: 8px 0 14px; }
+.reader-summary { font-size: 16px; line-height: 1.9; }
+.reader-link { display: block; text-decoration: none; text-align: center; margin-top: 20px; }
+
+/* 可点查的单词 */
+.w { border-bottom: 1px dashed transparent; cursor: pointer; }
+.w:active { background: var(--primary-light); border-radius: 3px; }
+
+/* 词典弹窗 */
+.dict-popup {
+  position: fixed; left: 12px; right: 12px; bottom: 90px;
+  max-width: 536px; margin: 0 auto; z-index: 50;
+}
+.dict-body {
+  background: #fff; border-radius: 16px; padding: 16px;
+  box-shadow: 0 8px 30px rgba(0,0,0,.18); font-size: 14px;
+}
+.dict-head { display: flex; align-items: baseline; gap: 8px; margin-bottom: 8px; }
+.dict-head b { font-size: 18px; }
+.phonetic { color: var(--text-sub); font-size: 13px; }
+.dict-close {
+  margin-left: auto; border: none; background: none;
+  font-size: 14px; color: var(--text-sub);
+}
+.dict-trans { line-height: 1.7; color: #374151; margin-bottom: 12px; }
+.dict-sentence-btn { background: var(--primary-light); color: var(--primary); font-size: 14px; padding: 10px; }

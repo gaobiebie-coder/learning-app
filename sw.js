@@ -7,9 +7,12 @@ const ASSETS = [
   './index.html',
   './styles.css',
   './app.js',
+  './reading.js',
   './manifest.webmanifest',
   './icons/icon-192.png',
   './icons/icon-512.png',
+  './data/articles.json',
+  './data/dict.json',
 ];
 
 self.addEventListener('install', (e) => {

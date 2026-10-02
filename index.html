@@ -40,12 +40,37 @@
     <button class="btn primary" id="btn-next">学会了，下一个</button>
   </section>
 
+  <!-- 阅读页：经济学人 -->
+  <section class="page" id="page-reading">
+    <header class="page-header">
+      <h1>经济学人 · 每日精读</h1>
+      <p class="sub" id="reading-updated">加载中…</p>
+    </header>
+
+    <div id="today-card"></div>
+
+    <h2 class="section-title">目录</h2>
+    <div class="chips" id="section-chips"></div>
+    <div id="article-list"></div>
+
+    <!-- 文章详情浮层 -->
+    <div class="overlay hidden" id="reader">
+      <div class="overlay-panel">
+        <button class="overlay-close" id="reader-close">✕</button>
+        <div id="reader-content"></div>
+      </div>
+    </div>
+
+    <!-- 词典弹窗 -->
+    <div class="dict-popup hidden" id="dict-popup"></div>
+  </section>
+
   <!-- 学习页 -->
   <section class="page" id="page-study">
     <header class="page-header"><h1>学习模块</h1></header>
     <div class="card list-item"><span class="icon">🔤</span><div><b>英语单词</b><p>核心 2000 词</p></div><span class="chev">›</span></div>
     <div class="card list-item"><span class="icon">🧮</span><div><b>数学刷题</b><p>每日 10 题</p></div><span class="chev">›</span></div>
-    <div class="card list-item"><span class="icon">📖</span><div><b>阅读理解</b><p>短篇精读</p></div><span class="chev">›</span></div>
+    <div class="card list-item"><span class="icon">📰</span><div><b>经济学人</b><p>每日精读一篇</p></div><span class="chev">›</span></div>
     <div class="card list-item"><span class="icon">🔖</span><div><b>错题本</b><p>复习薄弱点</p></div><span class="chev">›</span></div>
   </section>
 
@@ -62,10 +87,12 @@
   <!-- 底部导航 -->
   <nav class="tabbar">
     <button class="tab active" data-page="home">🏠<span>首页</span></button>
+    <button class="tab" data-page="reading">📰<span>阅读</span></button>
     <button class="tab" data-page="study">📚<span>学习</span></button>
     <button class="tab" data-page="me">👤<span>我的</span></button>
   </nav>
 
   <script src="app.js"></script>
+  <script src="reading.js"></script>
 </body>
 </html>
