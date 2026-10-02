@@ -24,6 +24,11 @@ jobs:
 
       - uses: actions/configure-pages@v5
 
+      # 把本次提交的哈希写进 sw.js 版本号，
+      # 保证每次部署都会生成新的 Service Worker，触发浏览器后台更新
+      - name: 注入版本号
+        run: sed -i "s/__VERSION__/${{ github.sha }}/" sw.js
+
       - name: 打包站点文件
         uses: actions/upload-pages-artifact@v3
         with:

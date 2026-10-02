@@ -1,5 +1,7 @@
 // 离线缓存 Service Worker
-const CACHE = 'learning-app-v1';
+// __VERSION__ 由 GitHub Actions 部署时替换为提交哈希，
+// 每次更新代码都会生成新 sw.js，触发浏览器后台静默更新。
+const CACHE = 'learning-app-__VERSION__';
 const ASSETS = [
   './',
   './index.html',
@@ -12,7 +14,7 @@ const ASSETS = [
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)));
-  self.skipWaiting();
+  self.skipWaiting(); // 新版本立即接管，不等待旧页面关闭
 });
 
 self.addEventListener('activate', (e) => {
@@ -24,18 +26,16 @@ self.addEventListener('activate', (e) => {
   self.clients.claim();
 });
 
-// 缓存优先，网络兜底并回写缓存
+// 网络优先：有网时永远拿最新版本；断网时回退到缓存（离线可用）
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   e.respondWith(
-    caches.match(e.request).then(
-      (hit) =>
-        hit ||
-        fetch(e.request).then((res) => {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(e.request, copy));
-          return res;
-        })
-    )
+    fetch(e.request)
+      .then((res) => {
+        const copy = res.clone();
+        caches.open(CACHE).then((c) => c.put(e.request, copy));
+        return res;
+      })
+      .catch(() => caches.match(e.request))
   );
 });

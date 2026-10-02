@@ -94,7 +94,12 @@ renderProgress();
 renderWord();
 renderCheckin();
 
-// ===== 注册 Service Worker（离线可用）=====
+// ===== 注册 Service Worker（离线可用 + 后台静默更新）=====
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js');
+  // 新版本部署后，Service Worker 在后台完成更新并接管，
+  // 此时自动刷新一次页面加载新代码，无需手动清缓存
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    location.reload();
+  });
 }
