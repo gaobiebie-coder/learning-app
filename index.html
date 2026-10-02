@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#4f46e5">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>每日学习</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- 首页 -->
+  <section class="page active" id="page-home">
+    <header class="page-header">
+      <h1>你好，同学 👋</h1>
+      <p class="sub">今天也要坚持学习哦</p>
+    </header>
+
+    <div class="card">
+      <h2>今日目标</h2>
+      <div class="progress"><div class="progress-bar" id="progress-bar"></div></div>
+      <p id="progress-text">已学 0 / 20 个单词</p>
+    </div>
+
+    <div class="card word-card" id="word-card">
+      <div id="word-front">
+        <div class="word" id="word-text">persistence</div>
+        <div class="hint">点击查看释义</div>
+      </div>
+      <div id="word-back" class="hidden">
+        <div class="meaning" id="meaning-text"></div>
+        <div class="example" id="example-text"></div>
+      </div>
+    </div>
+
+    <button class="btn primary" id="btn-next">学会了，下一个</button>
+  </section>
+
+  <!-- 学习页 -->
+  <section class="page" id="page-study">
+    <header class="page-header"><h1>学习模块</h1></header>
+    <div class="card list-item"><span class="icon">🔤</span><div><b>英语单词</b><p>核心 2000 词</p></div><span class="chev">›</span></div>
+    <div class="card list-item"><span class="icon">🧮</span><div><b>数学刷题</b><p>每日 10 题</p></div><span class="chev">›</span></div>
+    <div class="card list-item"><span class="icon">📖</span><div><b>阅读理解</b><p>短篇精读</p></div><span class="chev">›</span></div>
+    <div class="card list-item"><span class="icon">🔖</span><div><b>错题本</b><p>复习薄弱点</p></div><span class="chev">›</span></div>
+  </section>
+
+  <!-- 我的 -->
+  <section class="page" id="page-me">
+    <header class="page-header"><h1>我的</h1></header>
+    <div class="card checkin-card">
+      <h2>连续学习</h2>
+      <div class="streak" id="streak-days">0 天</div>
+      <button class="btn primary" id="btn-checkin">打卡</button>
+    </div>
+  </section>
+
+  <!-- 底部导航 -->
+  <nav class="tabbar">
+    <button class="tab active" data-page="home">🏠<span>首页</span></button>
+    <button class="tab" data-page="study">📚<span>学习</span></button>
+    <button class="tab" data-page="me">👤<span>我的</span></button>
+  </nav>
+
+  <script src="app.js"></script>
+</body>
+</html>

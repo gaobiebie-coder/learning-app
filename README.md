@@ -1,37 +1,42 @@
 # 每日学习（learning-app）
 
-一款手机学习软件，由 Kimi 协助开发。
+一款 PWA 手机学习软件，由 Kimi 协助开发。
 
-## 当前功能（v0.1）
+## 在线访问
 
-- 📇 **每日单词卡**：点击翻面查看释义和例句
-- 🎯 **今日目标**：学习进度条追踪
+**https://gaobiebie-coder.github.io/learning-app/**
+
+手机浏览器打开后，可以"添加到主屏幕"，像普通 App 一样使用，支持离线打开。
+
+## 当前功能（v0.2 PWA 版）
+
+- 📇 **每日单词卡**：点击翻面查看释义和例句（内置 10 个核心词，持续扩充）
+- 🎯 **今日目标**：进度条追踪，数据按天自动保存
 - 📚 **学习模块**：单词、刷题、阅读、错题本入口
-- ✅ **每日打卡**：连续学习天数统计
+- ✅ **每日打卡**：连续学习天数统计（断签自动重计）
+- 📴 **离线可用**：Service Worker 缓存，没网也能打开
 
 ## 技术架构
 
-- **框架**：Flutter（一套代码，可出 Android / iOS）
-- **本地**：只存放纯 Dart 代码（`lib/`、`test/`、`pubspec.yaml`）
-- **云端**：GitHub Actions 自动生成平台脚手架、跑测试、打包 APK
+纯静态 PWA：无框架、无构建步骤，HTML + CSS + 原生 JS。
 
-## 每次推送后自动发生
-
-1. 静态检查（`flutter analyze`）
-2. 单元测试（`flutter test`）
-3. 打包 Android 安装包（APK），在 Actions 页面可下载
-
-## 如何下载安装包到手机
-
-1. 手机打开 `github.com/gaobiebie-coder/learning-app`
-2. 进入 **Actions** 页签 → 点最新一次成功的构建
-3. 在 **Artifacts** 下载 `app-debug-apk`
-4. 安卓手机解压后直接安装（iOS 需要 Apple 开发者账号，后续再配）
+- **托管**：GitHub Pages（免费）
+- **部署**：推送到 main 分支 → GitHub Actions 自动发布，约 1 分钟生效
+- **数据**：学习进度存在手机本地（localStorage），不上传服务器
 
 ## 目录结构
 
 ```
-lib/main.dart          全部界面代码（起步期单文件，后续拆分）
-test/widget_test.dart  界面测试
-.github/workflows/     云端构建配置
+index.html              页面结构
+styles.css              样式
+app.js                  交互逻辑（单词卡、进度、打卡、导航）
+sw.js                   Service Worker（离线缓存）
+manifest.webmanifest    PWA 配置（图标、名称、全屏模式）
+icons/                  App 图标
+.github/workflows/      自动部署配置
 ```
+
+## 如何安装到手机主屏幕
+
+- **iPhone（Safari）**：打开网址 → 分享按钮 → 添加到主屏幕
+- **安卓（Chrome）**：打开网址 → 右上角菜单 → 安装应用 / 添加到主屏幕
