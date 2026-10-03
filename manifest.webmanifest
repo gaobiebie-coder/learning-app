@@ -1,13 +1,13 @@
 {
   "name": "每日学习",
   "short_name": "每日学习",
-  "description": "每日单词、刷题、打卡的手机学习软件",
+  "description": "每日单词、外刊阅读、原著精读的手机学习软件",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f9fafb",
-  "theme_color": "#4f46e5",
+  "background_color": "#F5F7FA",
+  "theme_color": "#8EC4DE",
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
