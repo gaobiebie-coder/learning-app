@@ -159,6 +159,19 @@ renderProgress();
 renderWord();
 renderCheckin();
 
+// ===== 版本与手动更新 =====
+// __VERSION__ 由 GitHub Actions 部署时替换为提交哈希
+const APP_VERSION = '__VERSION__';
+document.getElementById('app-version').textContent =
+  APP_VERSION === '__' + 'VERSION__' ? '开发版' : APP_VERSION.slice(0, 7);
+document.getElementById('btn-update').addEventListener('click', async () => {
+  const regs = await navigator.serviceWorker.getRegistrations();
+  await Promise.all(regs.map((r) => r.unregister()));
+  const keys = await caches.keys();
+  await Promise.all(keys.map((k) => caches.delete(k)));
+  location.reload();
+});
+
 // ===== 注册 Service Worker（离线可用 + 后台静默更新）=====
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('sw.js');

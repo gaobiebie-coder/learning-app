@@ -305,6 +305,12 @@ document.getElementById('book-toc-btn').addEventListener('click', () => {
   renderTocList();
   document.getElementById('toc-overlay').classList.remove('hidden');
 });
+// 底部导航栏的目录按钮（手机上拇指可及，与顶栏按钮同功能）
+document.getElementById('book-toc-btn2').addEventListener('click', () => {
+  if (!curBook) return;
+  renderTocList();
+  document.getElementById('toc-overlay').classList.remove('hidden');
+});
 document.getElementById('toc-close').addEventListener('click', () => {
   document.getElementById('toc-overlay').classList.add('hidden');
 });
