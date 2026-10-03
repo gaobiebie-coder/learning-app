@@ -337,3 +337,46 @@ body {
   background: var(--grad-active);
   color: var(--blue-600); font-weight: 600;
 }
+
+/* ===== 首页模式切换 ===== */
+.mode-tabs { display: flex; gap: 8px; margin-bottom: 12px; }
+.mode-tab {
+  flex: 1; padding: 9px; border-radius: var(--r-sm);
+  border: 1px solid var(--rule); background: #fff;
+  font-size: 13px; color: var(--muted);
+  transition: all .2s var(--ease-ios);
+}
+.mode-tab.active {
+  background: var(--grad-active); border-color: transparent;
+  color: var(--blue-600); font-weight: 600;
+}
+
+/* ===== 目录/书签面板 ===== */
+.toc-tabs { display: flex; gap: 8px; margin-bottom: 10px; }
+.toc-tab {
+  flex: 1; padding: 8px; border-radius: var(--r-sm);
+  border: 1px solid var(--rule); background: #fff;
+  font-size: 13px; color: var(--muted);
+}
+.toc-tab.active {
+  background: var(--grad-active); border-color: transparent;
+  color: var(--blue-600); font-weight: 600;
+}
+.toc-meta { float: right; color: var(--tertiary); font-size: 12px; }
+.topbar-btn.active { background: var(--yellow-100); }
+
+/* ===== 摘抄 ===== */
+#excerpt-fab {
+  position: fixed; left: 50%; transform: translateX(-50%);
+  bottom: 100px; z-index: 60; border: none; border-radius: 999px;
+  background: var(--purple-accent); color: #fff;
+  padding: 11px 20px; font-size: 14px; font-weight: 600;
+  box-shadow: var(--shadow-pop);
+}
+.excerpt-panel { text-align: center; }
+#excerpt-img {
+  width: 100%; border-radius: var(--r-md);
+  border: 1px solid var(--rule);
+  box-shadow: var(--shadow-card); margin-bottom: 10px;
+}
+.excerpt-panel .btn { display: block; text-decoration: none; }

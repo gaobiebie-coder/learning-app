@@ -219,7 +219,41 @@ function renderChapter() {
   document.getElementById('book-content').scrollTop = 0;
   applyFontSize();
   setProgress(curBook.id, idx);
+  renderMarkBtn();
 }
+
+// ---------- 书签 ----------
+function getBookmarks(id) {
+  try { return (JSON.parse(localStorage.getItem('book-bookmarks')) || {})[id] || []; }
+  catch { return []; }
+}
+function saveBookmarks(id, list) {
+  const all = JSON.parse(localStorage.getItem('book-bookmarks') || '{}');
+  all[id] = list;
+  localStorage.setItem('book-bookmarks', JSON.stringify(all));
+}
+function renderMarkBtn() {
+  const btn = document.getElementById('book-mark-btn');
+  const marked = curBook && getBookmarks(curBook.id).some((b) => b.chapter === curBook.idx);
+  btn.textContent = marked ? '🔖' : '☆';
+  btn.classList.toggle('active', !!marked);
+}
+document.getElementById('book-mark-btn').addEventListener('click', () => {
+  if (!curBook) return;
+  const list = getBookmarks(curBook.id);
+  const i = list.findIndex((b) => b.chapter === curBook.idx);
+  if (i >= 0) {
+    list.splice(i, 1);
+  } else {
+    list.push({
+      chapter: curBook.idx,
+      title: chapterTitle(curBook.chapters[curBook.idx], curBook.idx),
+      time: Date.now(),
+    });
+  }
+  saveBookmarks(curBook.id, list);
+  renderMarkBtn();
+});
 
 async function openBook(id) {
   document.getElementById('book-title').textContent = '';
@@ -245,16 +279,40 @@ async function openBook(id) {
   }
 }
 
-// ---------- 目录 ----------
+// ---------- 目录 / 书签面板 ----------
+let tocMode = 'chapters';
+
+function renderTocList() {
+  const list = document.getElementById('toc-list');
+  document.querySelectorAll('.toc-tab').forEach((t) =>
+    t.classList.toggle('active', t.dataset.toc === tocMode));
+  if (tocMode === 'chapters') {
+    list.innerHTML = curBook.chapters.map((blocks, i) =>
+      `<button class="toc-item${i === curBook.idx ? ' active' : ''}" data-i="${i}">${esc(chapterTitle(blocks, i))}</button>`
+    ).join('');
+  } else {
+    const marks = getBookmarks(curBook.id).sort((a, b) => a.chapter - b.chapter);
+    list.innerHTML = marks.length
+      ? marks.map((m) =>
+        `<button class="toc-item" data-i="${m.chapter}">🔖 ${esc(m.title)}<span class="toc-meta">第 ${m.chapter + 1} 章</span></button>`
+      ).join('')
+      : '<p class="hint center">还没有书签<br>阅读时点顶栏 ☆ 收藏当前章节</p>';
+  }
+}
+
 document.getElementById('book-toc-btn').addEventListener('click', () => {
   if (!curBook) return;
-  document.getElementById('toc-list').innerHTML = curBook.chapters.map((blocks, i) =>
-    `<button class="toc-item${i === curBook.idx ? ' active' : ''}" data-i="${i}">${esc(chapterTitle(blocks, i))}</button>`
-  ).join('');
+  renderTocList();
   document.getElementById('toc-overlay').classList.remove('hidden');
 });
 document.getElementById('toc-close').addEventListener('click', () => {
   document.getElementById('toc-overlay').classList.add('hidden');
+});
+document.querySelectorAll('.toc-tab').forEach((tab) => {
+  tab.addEventListener('click', () => {
+    tocMode = tab.dataset.toc;
+    renderTocList();
+  });
 });
 document.getElementById('toc-list').addEventListener('click', (e) => {
   const item = e.target.closest('.toc-item');
@@ -338,5 +396,132 @@ document.getElementById('book-content').addEventListener('click', (e) => {
   const w = e.target.closest('.w');
   if (w) lookupWord(w.textContent, Number(w.dataset.s));
 });
+
+// ---------- 摘抄卡片 ----------
+const excerptFab = document.getElementById('excerpt-fab');
+
+// 选中正文文字时，显示"生成摘录卡片"按钮
+document.addEventListener('selectionchange', () => {
+  const sel = window.getSelection();
+  const content = document.getElementById('book-content');
+  const show = !bookOverlay.classList.contains('hidden')
+    && sel && !sel.isCollapsed
+    && sel.toString().trim().length >= 10
+    && content.contains(sel.anchorNode);
+  excerptFab.classList.toggle('hidden', !show);
+});
+
+excerptFab.addEventListener('click', () => {
+  const text = window.getSelection().toString().replace(/\s+/g, ' ').trim().slice(0, 280);
+  window.getSelection().removeAllRanges();
+  excerptFab.classList.add('hidden');
+  if (text) makeExcerptCard(text);
+});
+
+document.getElementById('excerpt-close').addEventListener('click', () => {
+  document.getElementById('excerpt-overlay').classList.add('hidden');
+});
+
+function roundRectPath(ctx, x, y, w, h, r) {
+  ctx.beginPath();
+  ctx.moveTo(x + r, y);
+  ctx.arcTo(x + w, y, x + w, y + h, r);
+  ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r);
+  ctx.arcTo(x, y, x + w, y, r);
+  ctx.closePath();
+}
+
+function wrapLines(ctx, text, maxWidth) {
+  const tokens = text.split(/(\s+)/);
+  const lines = [];
+  let line = '';
+  for (const t of tokens) {
+    if (line && ctx.measureText(line + t).width > maxWidth) {
+      lines.push(line.trimEnd());
+      line = t.trimStart();
+    } else {
+      line += t;
+    }
+  }
+  if (line.trim()) lines.push(line.trim());
+  return lines;
+}
+
+function makeExcerptCard(text) {
+  const W = 750, H = 1000;
+  const canvas = document.createElement('canvas');
+  canvas.width = W;
+  canvas.height = H;
+  const ctx = canvas.getContext('2d');
+
+  // 蓝粉渐变背景 + 装饰
+  const bg = ctx.createLinearGradient(0, 0, W, H);
+  bg.addColorStop(0, '#E6F3FA');
+  bg.addColorStop(1, '#FDE8F0');
+  ctx.fillStyle = bg;
+  ctx.fillRect(0, 0, W, H);
+  ctx.globalAlpha = 0.45;
+  ctx.fillStyle = '#A8D4EC';
+  ctx.beginPath(); ctx.arc(70, 110, 95, 0, 7); ctx.fill();
+  ctx.fillStyle = '#F5B8D4';
+  ctx.beginPath(); ctx.arc(710, 900, 120, 0, 7); ctx.fill();
+  ctx.fillStyle = '#FAECC7';
+  ctx.beginPath(); ctx.arc(660, 90, 45, 0, 7); ctx.fill();
+  ctx.globalAlpha = 1;
+
+  // 白色卡片
+  const cx = 70, cy = 110, cw = W - 140, ch = H - 220;
+  ctx.save();
+  ctx.shadowColor = 'rgba(0,0,0,.10)';
+  ctx.shadowBlur = 40;
+  ctx.shadowOffsetY = 12;
+  ctx.fillStyle = '#ffffff';
+  roundRectPath(ctx, cx, cy, cw, ch, 32);
+  ctx.fill();
+  ctx.restore();
+
+  // 大引号
+  ctx.fillStyle = '#8EC4DE';
+  ctx.font = 'bold 110px Georgia, serif';
+  ctx.fillText('“', cx + 44, cy + 128);
+
+  // 摘录正文（最多 9 行）
+  ctx.fillStyle = '#1F2937';
+  ctx.font = '29px Georgia, "Times New Roman", serif';
+  const lines = wrapLines(ctx, text, cw - 130).slice(0, 9);
+  let y = cy + 195;
+  for (const l of lines) { ctx.fillText(l, cx + 62, y); y += 54; }
+
+  // 分割线
+  const fy = cy + ch - 155;
+  ctx.strokeStyle = '#E8EAED';
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(cx + 60, fy);
+  ctx.lineTo(cx + cw - 60, fy);
+  ctx.stroke();
+
+  // 书名 · 作者 · 日期
+  ctx.fillStyle = '#1F2937';
+  ctx.font = 'bold 27px Georgia, serif';
+  ctx.fillText(curBook ? curBook.info.title : '', cx + 62, fy + 58);
+  ctx.fillStyle = '#6B7280';
+  ctx.font = '22px -apple-system, "PingFang SC", sans-serif';
+  const dateStr = new Date().toISOString().slice(0, 10);
+  ctx.fillText((curBook ? curBook.info.author : '') + '  ·  ' + dateStr, cx + 62, fy + 98);
+  ctx.fillStyle = '#9CA3AF';
+  ctx.font = '20px -apple-system, "PingFang SC", sans-serif';
+  ctx.textAlign = 'right';
+  ctx.fillText('每日学习 · 摘抄', cx + cw - 62, fy + 98);
+  ctx.textAlign = 'left';
+
+  canvas.toBlob((blob) => {
+    const url = URL.createObjectURL(blob);
+    document.getElementById('excerpt-img').src = url;
+    document.getElementById('excerpt-download').href = url;
+    document.getElementById('excerpt-overlay').classList.remove('hidden');
+  }, 'image/png');
+}
 
 renderShelf();

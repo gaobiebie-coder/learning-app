@@ -26,6 +26,11 @@
       <p id="progress-text">已学 0 / 20 个单词</p>
     </div>
 
+    <div class="mode-tabs">
+      <button class="mode-tab active" data-mode="ielts">雅思新词</button>
+      <button class="mode-tab" data-mode="vocab">生词复习<span id="vocab-mode-count"></span></button>
+    </div>
+
     <div class="card word-card" id="word-card">
       <div id="word-front">
         <div class="word" id="word-text">persistence</div>
@@ -81,9 +86,10 @@
             <div id="book-title"></div>
             <div class="book-chapter-info" id="book-chapter-info"></div>
           </div>
+          <button class="topbar-btn" id="book-mark-btn" title="书签">☆</button>
           <button class="topbar-btn" id="font-dec">A-</button>
           <button class="topbar-btn" id="font-inc">A+</button>
-          <button class="topbar-btn" id="book-toc-btn">☰</button>
+          <button class="topbar-btn" id="book-toc-btn">目录</button>
         </div>
         <div class="book-content" id="book-content"></div>
         <div class="book-nav">
@@ -92,13 +98,30 @@
         </div>
       </div>
 
-      <!-- 章节目录 -->
+      <!-- 章节目录 / 书签 -->
       <div class="overlay hidden" id="toc-overlay">
         <div class="overlay-panel toc-panel">
           <button class="overlay-close" id="toc-close">✕</button>
-          <h2 class="section-title">目录</h2>
+          <div class="toc-tabs">
+            <button class="toc-tab active" data-toc="chapters">目录</button>
+            <button class="toc-tab" data-toc="bookmarks">书签</button>
+          </div>
           <div id="toc-list"></div>
         </div>
+      </div>
+    </div>
+
+    <!-- 摘录按钮（选中文字时出现） -->
+    <button id="excerpt-fab" class="hidden">✂️ 生成摘录卡片</button>
+
+    <!-- 摘录卡片浮层 -->
+    <div class="overlay hidden" id="excerpt-overlay">
+      <div class="overlay-panel excerpt-panel">
+        <button class="overlay-close" id="excerpt-close">✕</button>
+        <h2 class="section-title">摘录卡片</h2>
+        <img id="excerpt-img" alt="摘录卡片">
+        <p class="hint center">长按图片可直接保存到手机相册</p>
+        <a class="btn primary" id="excerpt-download" download="摘录.png">保存图片</a>
       </div>
     </div>
   </section>
