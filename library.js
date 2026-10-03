@@ -69,6 +69,11 @@ async function parseEpub(zip) {
   };
 }
 
+// 部分 epub 实体被双重编码（&amp; → 显示成 &），解析时还原
+function decodeEntities(t) {
+  return t.replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+}
+
 // 章节内容解析为块：[{text, heading}]
 function xhtmlToBlocks(text) {
   const doc = new DOMParser().parseFromString(text, 'text/html');
@@ -76,12 +81,12 @@ function xhtmlToBlocks(text) {
   const blocks = doc.querySelectorAll('p,h1,h2,h3,h4,h5,h6,blockquote,li');
   let out = [...blocks]
     .map((b) => ({
-      text: b.textContent.replace(/\s+/g, ' ').trim(),
+      text: decodeEntities(b.textContent.replace(/\s+/g, ' ').trim()),
       heading: /^H[1-6]$/.test(b.tagName),
     }))
     .filter((b) => b.text.length > 0);
   if (!out.length) {
-    const t = doc.body ? doc.body.textContent.replace(/\s+/g, ' ').trim() : '';
+    const t = doc.body ? decodeEntities(doc.body.textContent.replace(/\s+/g, ' ').trim()) : '';
     out = t ? [{ text: t, heading: false }] : [];
   }
   return out;
