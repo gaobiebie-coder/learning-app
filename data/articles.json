@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02 17:19 UTC",
+ "updated": "2026-10-03 01:11 UTC",
  "articles": [
   {
    "title": "Should you be using a tongue-scraper?",
@@ -13,6 +13,13 @@
    "summary": "What happens when states combine ineptitude with the death penalty",
    "link": "https://www.economist.com/united-states/2026/10/02/americas-grim-record-of-failed-executions",
    "section": "美国",
+   "date": "2026-10-02"
+  },
+  {
+   "title": "Schoolyard protests are setting France ablaze",
+   "summary": "Six months from an election, the mood is tense",
+   "link": "https://www.economist.com/europe/2026/10/02/schoolyard-protests-are-setting-france-ablaze",
+   "section": "欧洲",
    "date": "2026-10-02"
   },
   {
@@ -412,13 +419,6 @@
    "summary": "Oliver Jones, a news editor, explores the legacy of Vasily Grossman",
    "link": "https://www.economist.com/international/2026/09/25/the-war-room-newsletter-the-soviet-unions-greatest-war-reporter",
    "section": "国际",
-   "date": "2026-09-25"
-  },
-  {
-   "title": "Hollywood’s novel obsession with literary adaptations",
-   "summary": "Why new film and TV releases resemble a highbrow reading list",
-   "link": "https://www.economist.com/culture/2026/09/25/hollywoods-novel-obsession-with-literary-adaptations",
-   "section": "文化",
    "date": "2026-09-25"
   }
  ]
