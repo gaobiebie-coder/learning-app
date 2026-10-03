@@ -116,11 +116,12 @@ body {
 }
 .chip.active { background: var(--primary); border-color: var(--primary); color: #fff; }
 
-/* 阅读浮层 */
+/* 阅读浮层（默认 display:none，去掉 .hidden 时才显示） */
 .overlay {
   position: fixed; inset: 0; background: rgba(0,0,0,.45);
-  z-index: 40; display: flex; align-items: flex-end; justify-content: center;
+  z-index: 40; display: none; align-items: flex-end; justify-content: center;
 }
+.overlay:not(.hidden) { display: flex; }
 .overlay-panel {
   background: #fff; width: 100%; max-width: 560px; max-height: 82vh;
   border-radius: 20px 20px 0 0; padding: 20px 20px 36px;
