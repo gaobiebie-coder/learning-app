@@ -6,6 +6,7 @@ let articlesData = null;
 let dictData = null;
 let dictLoading = null;
 let currentSection = '全部';
+let currentArticleTitle = '';
 
 const readingPage = document.getElementById('page-reading');
 const dictPopup = document.getElementById('dict-popup');
@@ -86,6 +87,7 @@ function openReader(link) {
       阅读原文（economist.com）
     </a>
     <p class="hint center">正文中点击任意单词查词典</p>`;
+  currentArticleTitle = a.title;
   document.getElementById('reader').classList.remove('hidden');
 }
 
@@ -144,7 +146,11 @@ async function lookupWord(raw, sentIndex) {
   }
   const found = findEntry(word);
   const [phonetic, trans] = found ? found[1] : ['', ''];
-  const transHtml = trans ? esc(trans).replace(/\n/g, '<br>') : '';
+  const transHtml = trans ? esc(trans).replace(/\\n/g, '<br>') : '';
+  // 查到释义的单词自动收藏进生词本
+  const added = found && window.Vocab
+    ? Vocab.add(found[0], phonetic, trans, currentArticleTitle)
+    : false;
   dictPopup.innerHTML = `
     <div class="dict-body">
       <div class="dict-head">
@@ -153,6 +159,7 @@ async function lookupWord(raw, sentIndex) {
         <button class="dict-close">✕</button>
       </div>
       ${transHtml ? `<div class="dict-trans">${transHtml}</div>` : '<div class="dict-trans">内置词典未收录</div>'}
+      ${added ? '<div class="vocab-note">已加入生词本 📒</div>' : ''}
       <button class="btn dict-sentence-btn" data-s="${sentIndex}">翻译整句（在线）</button>
     </div>`;
   dictPopup.querySelector('.dict-close').onclick = hideDict;

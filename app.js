@@ -39,9 +39,23 @@ function renderProgress() {
 }
 
 // ===== 首页：单词卡 =====
+// 生词本有词时优先循环复习生词（复习少的排前面），否则用内置词库
 let flipped = false;
+
+function cardQueue() {
+  if (window.Vocab && Vocab.count() > 0) {
+    return Vocab.queue().map((i) => ({
+      word: i.w,
+      meaning: i.t.split('\\n')[0],
+      example: i.p ? '/' + i.p + '/' : '',
+    }));
+  }
+  return WORDS;
+}
+
 function renderWord() {
-  const w = WORDS[state.wordIndex % WORDS.length];
+  const q = cardQueue();
+  const w = q[state.wordIndex % q.length];
   document.getElementById('word-text').textContent = w.word;
   document.getElementById('meaning-text').textContent = w.meaning;
   document.getElementById('example-text').textContent = w.example;
@@ -55,6 +69,10 @@ document.getElementById('word-card').addEventListener('click', () => {
 });
 
 document.getElementById('btn-next').addEventListener('click', () => {
+  const q = cardQueue();
+  if (window.Vocab && Vocab.count() > 0) {
+    Vocab.markReviewed(q[state.wordIndex % q.length].word);
+  }
   if (state.learned < GOAL) state.learned++;
   state.wordIndex++;
   flipped = false;

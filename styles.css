@@ -158,3 +158,27 @@ body {
 }
 .dict-trans { line-height: 1.7; color: #374151; margin-bottom: 12px; }
 .dict-sentence-btn { background: var(--primary-light); color: var(--primary); font-size: 14px; padding: 10px; }
+
+/* ===== 生词本 ===== */
+#vocab-card { cursor: pointer; }
+.vocab-note {
+  color: var(--primary); font-size: 13px; font-weight: 600;
+  margin: -4px 0 12px;
+}
+.vocab-item {
+  position: relative; padding: 12px;
+  border: 1px solid #e5e7eb; border-radius: 12px; margin-bottom: 10px;
+}
+.vocab-word { display: flex; align-items: baseline; gap: 8px; }
+.vocab-word b { font-size: 16px; }
+.vocab-reviews { margin-left: auto; font-size: 11px; color: var(--text-sub); padding-right: 24px; }
+.vocab-trans { font-size: 13px; color: #374151; margin-top: 4px; line-height: 1.5; }
+.vocab-src {
+  font-size: 11px; color: var(--text-sub); margin-top: 4px;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.vocab-del {
+  position: absolute; top: 10px; right: 10px;
+  border: none; background: none; color: var(--text-sub); font-size: 13px;
+  padding: 4px;
+}
