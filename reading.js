@@ -7,6 +7,7 @@ let dictData = null;
 let dictLoading = null;
 let currentSection = '全部';
 let currentArticleTitle = '';
+let currentSentences = []; // 当前正文的句子列表，供整句翻译使用（书架模块也会写入）
 
 const readingPage = document.getElementById('page-reading');
 const dictPopup = document.getElementById('dict-popup');
@@ -88,6 +89,7 @@ function openReader(link) {
     </a>
     <p class="hint center">正文中点击任意单词查词典</p>`;
   currentArticleTitle = a.title;
+  currentSentences = a.summary.split(/(?<=[.!?])\s+/);
   document.getElementById('reader').classList.remove('hidden');
 }
 
@@ -171,9 +173,8 @@ function hideDict() { dictPopup.classList.add('hidden'); }
 
 // ===== 整句翻译（MyMemory 免费接口）=====
 async function translateSentence(sentIndex) {
-  const summary = document.getElementById('reader-summary');
-  if (!summary) return;
-  const text = summary.textContent.split(/(?<=[.!?])\s+/)[sentIndex] || '';
+  const text = currentSentences[sentIndex] || '';
+  if (!text) return;
   const btn = dictPopup.querySelector('.dict-sentence-btn');
   btn.disabled = true;
   btn.textContent = '翻译中…';

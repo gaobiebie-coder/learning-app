@@ -10,6 +10,8 @@ const ASSETS = [
   './reading.js',
   './vocab.js',
   './ielts.js',
+  './library.js',
+  './vendor/jszip.min.js',
   './manifest.webmanifest',
   './icons/icon-192.png',
   './icons/icon-512.png',

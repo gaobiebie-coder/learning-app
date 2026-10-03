@@ -60,9 +60,33 @@
         <div id="reader-content"></div>
       </div>
     </div>
+  </section>
 
-    <!-- 词典弹窗 -->
-    <div class="dict-popup hidden" id="dict-popup"></div>
+  <!-- 书架页：本地 epub 阅读器 -->
+  <section class="page" id="page-library">
+    <header class="page-header">
+      <h1>书架</h1>
+      <p class="sub">epub 只保存在本机，离线阅读，点词翻译</p>
+    </header>
+    <button class="btn primary" id="btn-import">＋ 导入 epub 电子书</button>
+    <input type="file" id="file-input" accept=".epub" class="hidden">
+    <div class="book-grid" id="book-grid"></div>
+
+    <!-- 读书浮层 -->
+    <div class="overlay hidden" id="book-overlay">
+      <div class="overlay-panel book-panel">
+        <button class="overlay-close" id="book-close">✕</button>
+        <div class="book-header">
+          <div class="book-title" id="book-title"></div>
+          <div class="book-chapter-info" id="book-chapter-info"></div>
+        </div>
+        <div class="book-content" id="book-content"></div>
+        <div class="book-nav">
+          <button class="btn" id="book-prev">← 上一章</button>
+          <button class="btn" id="book-next">下一章 →</button>
+        </div>
+      </div>
+    </div>
   </section>
 
   <!-- 学习页 -->
@@ -107,13 +131,19 @@
   <nav class="tabbar">
     <button class="tab active" data-page="home">🏠<span>首页</span></button>
     <button class="tab" data-page="reading">📰<span>阅读</span></button>
+    <button class="tab" data-page="library">📖<span>书架</span></button>
     <button class="tab" data-page="study">📚<span>学习</span></button>
     <button class="tab" data-page="me">👤<span>我的</span></button>
   </nav>
 
+  <!-- 词典弹窗（全局，阅读页和书架共用） -->
+  <div class="dict-popup hidden" id="dict-popup"></div>
+
+  <script src="vendor/jszip.min.js"></script>
   <script src="app.js"></script>
   <script src="reading.js"></script>
   <script src="vocab.js"></script>
   <script src="ielts.js"></script>
+  <script src="library.js"></script>
 </body>
 </html>
