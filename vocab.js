@@ -43,6 +43,9 @@ const Vocab = (() => {
   return { add, remove, markReviewed, queue, count, all };
 })();
 
+// 暴露给其他脚本（const 顶层声明不会挂到 window）
+window.Vocab = Vocab;
+
 // ===== 生词本界面 =====
 function renderVocabUI() {
   const countEl = document.getElementById('vocab-count');
