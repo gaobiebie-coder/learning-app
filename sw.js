@@ -17,7 +17,10 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)));
+  // no-cache：绕过浏览器 HTTP 缓存，确保预缓存的一定是最新文件
+  e.waitUntil(caches.open(CACHE).then((c) =>
+    c.addAll(ASSETS.map((u) => new Request(u, { cache: 'no-cache' })))
+  ));
   self.skipWaiting(); // 新版本立即接管，不等待旧页面关闭
 });
 
@@ -31,10 +34,11 @@ self.addEventListener('activate', (e) => {
 });
 
 // 网络优先：有网时永远拿最新版本；断网时回退到缓存（离线可用）
+// no-cache：每次都向服务器校验（未变化返回 304，很快），避免拿到过期的 HTTP 缓存
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
   e.respondWith(
-    fetch(e.request)
+    fetch(e.request, { cache: 'no-cache' })
       .then((res) => {
         const copy = res.clone();
         caches.open(CACHE).then((c) => c.put(e.request, copy));
