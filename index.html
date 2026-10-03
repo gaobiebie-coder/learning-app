@@ -69,10 +69,8 @@
   <section class="page" id="page-study">
     <header class="page-header"><h1>学习模块</h1></header>
     <div class="card list-item" id="vocab-card"><span class="icon">📒</span><div><b>生词本</b><p id="vocab-count">阅读查词自动收藏</p></div><span class="chev">›</span></div>
-    <div class="card list-item"><span class="icon">🔤</span><div><b>英语单词</b><p>核心 2000 词</p></div><span class="chev">›</span></div>
-    <div class="card list-item"><span class="icon">🧮</span><div><b>数学刷题</b><p>每日 10 题</p></div><span class="chev">›</span></div>
-    <div class="card list-item"><span class="icon">📰</span><div><b>经济学人</b><p>每日精读一篇</p></div><span class="chev">›</span></div>
-    <div class="card list-item"><span class="icon">🔖</span><div><b>错题本</b><p>复习薄弱点</p></div><span class="chev">›</span></div>
+    <div class="card list-item" id="ielts-card"><span class="icon">🔤</span><div><b>雅思核心词</b><p>4000 词 · 按词频排序</p></div><span class="chev">›</span></div>
+    <div class="card list-item" id="econ-card"><span class="icon">📰</span><div><b>经济学人</b><p>每日精读一篇</p></div><span class="chev">›</span></div>
 
     <!-- 生词本浮层 -->
     <div class="overlay hidden" id="vocab-overlay">
@@ -81,6 +79,16 @@
         <h2 class="section-title">📒 生词本</h2>
         <p class="hint">查过的单词会自动加入首页单词卡循环复习</p>
         <div id="vocab-list"></div>
+      </div>
+    </div>
+
+    <!-- 雅思词库浮层 -->
+    <div class="overlay hidden" id="ielts-overlay">
+      <div class="overlay-panel">
+        <button class="overlay-close" id="ielts-close">✕</button>
+        <h2 class="section-title">🔤 雅思核心 4000 词</h2>
+        <input class="ielts-search" id="ielts-search" type="search" placeholder="搜索单词…">
+        <div id="ielts-list"></div>
       </div>
     </div>
   </section>
@@ -106,5 +114,6 @@
   <script src="app.js"></script>
   <script src="reading.js"></script>
   <script src="vocab.js"></script>
+  <script src="ielts.js"></script>
 </body>
 </html>

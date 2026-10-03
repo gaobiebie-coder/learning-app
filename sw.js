@@ -9,11 +9,13 @@ const ASSETS = [
   './app.js',
   './reading.js',
   './vocab.js',
+  './ielts.js',
   './manifest.webmanifest',
   './icons/icon-192.png',
   './icons/icon-512.png',
   './data/articles.json',
   './data/dict.json',
+  './data/ielts.json',
 ];
 
 self.addEventListener('install', (e) => {

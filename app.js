@@ -39,8 +39,15 @@ function renderProgress() {
 }
 
 // ===== 首页：单词卡 =====
-// 生词本有词时优先循环复习生词（复习少的排前面），否则用内置词库
+// 优先循环复习生词本的词（复习少的排前面）；
+// 否则学雅思核心四千词，每天自动换新的一批 20 个
 let flipped = false;
+let IELTS_WORDS = null;
+
+fetch('data/ielts.json')
+  .then((r) => r.json())
+  .then((d) => { IELTS_WORDS = d; renderWord(); })
+  .catch(() => {}); // 离线首次加载失败时用内置兜底词库
 
 function cardQueue() {
   if (window.Vocab && Vocab.count() > 0) {
@@ -49,6 +56,21 @@ function cardQueue() {
       meaning: i.t.split('\\n')[0],
       example: i.p ? '/' + i.p + '/' : '',
     }));
+  }
+  if (IELTS_WORDS) {
+    const dayOfYear = Math.floor(
+      (Date.now() - new Date(new Date().getFullYear(), 0, 0)) / 864e5);
+    const start = (dayOfYear * GOAL) % IELTS_WORDS.length;
+    const toCard = ([w, p, t]) => ({
+      word: w,
+      meaning: t.split('\\n')[0],
+      example: p ? '/' + p + '/' : '',
+    });
+    const batch = [];
+    for (let i = 0; i < GOAL; i++) {
+      batch.push(toCard(IELTS_WORDS[(start + i) % IELTS_WORDS.length]));
+    }
+    return batch;
   }
   return WORDS;
 }
