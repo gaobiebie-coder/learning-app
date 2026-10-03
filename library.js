@@ -200,8 +200,7 @@ function renderChapter() {
     const inner = parts.map((s) => {
       const si = sentences.length;
       sentences.push(s);
-      return esc(s).replace(/[A-Za-z][A-Za-z'’-]*/g, (w) =>
-        `<span class="w" data-s="${si}">${w}</span>`);
+      return linkifyWords(s, si); // reading.js 提供的切词+转义函数
     }).join(' ');
     const tag = b.heading ? 'h3' : 'p';
     return `<div class="parablock"><${tag}>${inner}</${tag}>`

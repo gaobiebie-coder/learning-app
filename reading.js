@@ -18,14 +18,20 @@ function esc(s) {
   return d.innerHTML;
 }
 
-// 把英文文本切成「单词 + 标点」，单词包上可点击的 span
+// 把句子切成「单词 + 标点」，单词包上可点击的 span。
+// 注意：必须先切词再转义，否则正则会把 &amp; 里的 amp 也包成 span，实体被切碎
+function linkifyWords(sent, si) {
+  return sent.split(/([A-Za-z][A-Za-z'’-]*)/).map((part) =>
+    /^[A-Za-z]/.test(part)
+      ? `<span class="w" data-s="${si}">${esc(part)}</span>`
+      : esc(part)
+  ).join('');
+}
+
 // data-s 记录所属句子序号，供整句翻译使用
 function linkify(text) {
   const sentences = text.split(/(?<=[.!?])\s+/);
-  return sentences.map((sent, si) =>
-    esc(sent).replace(/[A-Za-z][A-Za-z'’-]*/g, (w) =>
-      `<span class="w" data-s="${si}">${w}</span>`)
-  ).join(' ');
+  return sentences.map((sent, si) => linkifyWords(sent, si)).join(' ');
 }
 
 // ===== 加载文章数据 =====
