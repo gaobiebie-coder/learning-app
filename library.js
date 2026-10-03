@@ -405,8 +405,10 @@ document.getElementById('book-content').addEventListener('click', (e) => {
 
 // ---------- 摘抄卡片 ----------
 const excerptFab = document.getElementById('excerpt-fab');
+let lastExcerptText = '';
 
-// 选中正文文字时，显示"生成摘录卡片"按钮
+// 选中正文文字时，显示"生成摘录卡片"按钮。
+// 注意：手机上点按钮的瞬间系统会先清空选区，所以选中文本要在此时就存好
 document.addEventListener('selectionchange', () => {
   const sel = window.getSelection();
   const content = document.getElementById('book-content');
@@ -414,13 +416,17 @@ document.addEventListener('selectionchange', () => {
     && sel && !sel.isCollapsed
     && sel.toString().trim().length >= 10
     && content.contains(sel.anchorNode);
+  if (show) {
+    lastExcerptText = sel.toString().replace(/\s+/g, ' ').trim().slice(0, 280);
+  }
   excerptFab.classList.toggle('hidden', !show);
 });
 
 excerptFab.addEventListener('click', () => {
-  const text = window.getSelection().toString().replace(/\s+/g, ' ').trim().slice(0, 280);
+  const text = lastExcerptText; // 用选区变化时存好的文本，而不是现场读选区
   window.getSelection().removeAllRanges();
   excerptFab.classList.add('hidden');
+  lastExcerptText = '';
   if (text) makeExcerptCard(text);
 });
 
