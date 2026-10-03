@@ -104,6 +104,7 @@ document.querySelectorAll('.tab').forEach(tab => {
     document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
     tab.classList.add('active');
     document.getElementById('page-' + tab.dataset.page).classList.add('active');
+    if (tab.dataset.page === 'home') renderWord(); // 生词本更新后刷新单词卡
   });
 });
 
