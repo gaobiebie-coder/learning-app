@@ -149,24 +149,32 @@ async function lookupWord(raw, sentIndex) {
   const found = findEntry(word);
   const [phonetic, trans] = found ? found[1] : ['', ''];
   const transHtml = trans ? esc(trans).replace(/\\n/g, '<br>') : '';
-  // 查到释义的单词自动收藏进生词本
-  const added = found && window.Vocab
-    ? Vocab.add(found[0], phonetic, trans, currentArticleTitle)
-    : false;
+  const lemma = found ? found[0] : word;
+  const inVocab = found && window.Vocab && Vocab.all().some((i) => i.w === lemma);
   dictPopup.innerHTML = `
     <div class="dict-body">
       <div class="dict-head">
-        <b>${esc(found ? found[0] : word)}</b>
+        <b>${esc(lemma)}</b>
         ${phonetic ? `<span class="phonetic">/${esc(phonetic)}/</span>` : ''}
         <button class="dict-close">✕</button>
       </div>
       ${transHtml ? `<div class="dict-trans">${transHtml}</div>` : '<div class="dict-trans">内置词典未收录</div>'}
-      ${added ? '<div class="vocab-note">已加入生词本 📒</div>' : ''}
-      <button class="btn dict-sentence-btn" data-s="${sentIndex}">翻译整句（在线）</button>
+      <div class="dict-actions">
+        <button class="btn dict-sentence-btn" data-s="${sentIndex}">翻译整句</button>
+        ${found ? `<button class="btn dict-vocab-btn" ${inVocab ? 'disabled' : ''}>${inVocab ? '已在生词本' : '☆ 加入生词本'}</button>` : ''}
+      </div>
     </div>`;
   dictPopup.querySelector('.dict-close').onclick = hideDict;
   dictPopup.querySelector('.dict-sentence-btn').onclick = (e) =>
     translateSentence(Number(e.target.dataset.s));
+  const vocabBtn = dictPopup.querySelector('.dict-vocab-btn');
+  if (vocabBtn && found) {
+    vocabBtn.onclick = () => {
+      Vocab.add(lemma, phonetic, trans, currentArticleTitle);
+      vocabBtn.textContent = '✅ 已加入';
+      vocabBtn.disabled = true;
+    };
+  }
 }
 
 function hideDict() { dictPopup.classList.add('hidden'); }

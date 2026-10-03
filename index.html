@@ -72,18 +72,32 @@
     <input type="file" id="file-input" accept=".epub" class="hidden">
     <div class="book-grid" id="book-grid"></div>
 
-    <!-- 读书浮层 -->
+    <!-- 读书浮层（全屏阅读器） -->
     <div class="overlay hidden" id="book-overlay">
       <div class="overlay-panel book-panel">
-        <button class="overlay-close" id="book-close">✕</button>
-        <div class="book-header">
-          <div class="book-title" id="book-title"></div>
-          <div class="book-chapter-info" id="book-chapter-info"></div>
+        <div class="reader-topbar">
+          <button class="topbar-btn" id="book-close">✕</button>
+          <div class="topbar-title">
+            <div id="book-title"></div>
+            <div class="book-chapter-info" id="book-chapter-info"></div>
+          </div>
+          <button class="topbar-btn" id="font-dec">A-</button>
+          <button class="topbar-btn" id="font-inc">A+</button>
+          <button class="topbar-btn" id="book-toc-btn">☰</button>
         </div>
         <div class="book-content" id="book-content"></div>
         <div class="book-nav">
           <button class="btn" id="book-prev">← 上一章</button>
           <button class="btn" id="book-next">下一章 →</button>
+        </div>
+      </div>
+
+      <!-- 章节目录 -->
+      <div class="overlay hidden" id="toc-overlay">
+        <div class="overlay-panel toc-panel">
+          <button class="overlay-close" id="toc-close">✕</button>
+          <h2 class="section-title">目录</h2>
+          <div id="toc-list"></div>
         </div>
       </div>
     </div>

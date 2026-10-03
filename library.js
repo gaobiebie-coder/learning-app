@@ -1,6 +1,6 @@
 // ===== 书架模块：本地 epub 阅读器 =====
 // epub 文件只保存在浏览器 IndexedDB 里，不上传、不发布到任何服务器。
-// 点词翻译 / 整句翻译 / 生词本与阅读页共用同一套词典模块（reading.js）。
+// 点词翻译 / 整句翻译 / 整段翻译 / 生词本与阅读页共用词典模块（reading.js）。
 
 // ---------- IndexedDB ----------
 function openDB() {
@@ -51,7 +51,6 @@ async function parseEpub(zip) {
     .map((ir) => ir.getAttribute('idref'))
     .filter((id) => manifest[id]);
 
-  // 封面（可选）
   let cover = null;
   const metaCover = opf.querySelector('meta[name="cover"]');
   const coverEntry = Object.values(manifest).find((x) => x.props.includes('cover-image'))
@@ -70,18 +69,22 @@ async function parseEpub(zip) {
   };
 }
 
-function xhtmlToParagraphs(text) {
+// 章节内容解析为块：[{text, heading}]
+function xhtmlToBlocks(text) {
   const doc = new DOMParser().parseFromString(text, 'text/html');
   doc.querySelectorAll('script,style').forEach((n) => n.remove());
   const blocks = doc.querySelectorAll('p,h1,h2,h3,h4,h5,h6,blockquote,li');
-  let paras = [...blocks]
-    .map((b) => b.textContent.replace(/\s+/g, ' ').trim())
-    .filter((t) => t.length > 0);
-  if (!paras.length) {
+  let out = [...blocks]
+    .map((b) => ({
+      text: b.textContent.replace(/\s+/g, ' ').trim(),
+      heading: /^H[1-6]$/.test(b.tagName),
+    }))
+    .filter((b) => b.text.length > 0);
+  if (!out.length) {
     const t = doc.body ? doc.body.textContent.replace(/\s+/g, ' ').trim() : '';
-    paras = t ? [t] : [];
+    out = t ? [{ text: t, heading: false }] : [];
   }
-  return paras;
+  return out;
 }
 
 async function loadChapters(zip, info) {
@@ -90,17 +93,23 @@ async function loadChapters(zip, info) {
     const f = zip.file(info.opfDir + decodeURI(info.manifest[idref].href));
     if (!f) continue;
     try {
-      const paras = xhtmlToParagraphs(await f.async('text'));
-      if (paras.join('').length >= 200) chapters.push(paras); // 跳过封面/扉页等碎片
+      const blocks = xhtmlToBlocks(await f.async('text'));
+      if (blocks.map((b) => b.text).join('').length >= 200) chapters.push(blocks);
     } catch { /* 跳过坏章节 */ }
   }
   return chapters;
 }
 
+// 章节名：第一个短标题块，否则"第 X 章"
+function chapterTitle(blocks, idx) {
+  const h = blocks.find((b) => b.heading && b.text.length <= 60);
+  return h ? h.text : `第 ${idx + 1} 章`;
+}
+
 // ---------- 书架界面 ----------
 const bookGrid = document.getElementById('book-grid');
 const bookOverlay = document.getElementById('book-overlay');
-const bookCache = new Map(); // id -> { info, chapters }
+const bookCache = new Map();
 
 async function renderShelf() {
   const books = (await dbAll()).sort((a, b) => b.added - a.added);
@@ -151,6 +160,19 @@ document.getElementById('file-input').addEventListener('change', async (e) => {
   btn.textContent = '＋ 导入 epub 电子书';
 });
 
+// ---------- 字号 ----------
+let fontSize = Number(localStorage.getItem('reader-font-size')) || 17;
+function applyFontSize() {
+  document.getElementById('book-content').style.fontSize = fontSize + 'px';
+  localStorage.setItem('reader-font-size', fontSize);
+}
+document.getElementById('font-dec').addEventListener('click', () => {
+  fontSize = Math.max(13, fontSize - 1); applyFontSize();
+});
+document.getElementById('font-inc').addEventListener('click', () => {
+  fontSize = Math.min(26, fontSize + 1); applyFontSize();
+});
+
 // ---------- 阅读器 ----------
 let curBook = null; // { id, info, chapters, idx }
 
@@ -164,38 +186,41 @@ function setProgress(id, idx) {
   localStorage.setItem('book-progress', JSON.stringify(p));
 }
 
-function linkifyChapter(paras) {
+function renderChapter() {
+  const { info, chapters, idx } = curBook;
+  const blocks = chapters[idx];
   const sentences = [];
-  const html = paras.map((p) => {
-    const parts = p.split(/(?<=[.!?])\s+/);
-    return '<p>' + parts.map((s) => {
+  const html = blocks.map((b, bi) => {
+    const parts = b.text.split(/(?<=[.!?])\s+/);
+    const inner = parts.map((s) => {
       const si = sentences.length;
       sentences.push(s);
       return esc(s).replace(/[A-Za-z][A-Za-z'’-]*/g, (w) =>
         `<span class="w" data-s="${si}">${w}</span>`);
-    }).join(' ') + '</p>';
+    }).join(' ');
+    const tag = b.heading ? 'h3' : 'p';
+    return `<div class="parablock"><${tag}>${inner}</${tag}>`
+      + (b.heading ? '' : `<button class="p-trans" data-p="${bi}">译</button>`)
+      + `</div>`;
   }).join('');
-  return { html, sentences };
-}
+  currentSentences = sentences;
 
-function renderChapter() {
-  const { info, chapters, idx } = curBook;
-  const { html, sentences } = linkifyChapter(chapters[idx]);
-  currentSentences = sentences; // 共享给整句翻译（reading.js）
-  document.getElementById('book-title').textContent = info.title;
+  document.getElementById('book-title').textContent = chapterTitle(blocks, idx);
+  const pct = Math.round((idx + 1) / chapters.length * 100);
   document.getElementById('book-chapter-info').textContent =
-    `第 ${idx + 1} / ${chapters.length} 章`;
+    `${info.title} · ${idx + 1}/${chapters.length} · ${pct}%`;
   document.getElementById('book-content').innerHTML = html;
   document.getElementById('book-prev').disabled = idx === 0;
   document.getElementById('book-next').disabled = idx === chapters.length - 1;
-  document.querySelector('.book-panel').scrollTop = 0;
+  document.getElementById('book-content').scrollTop = 0;
+  applyFontSize();
   setProgress(curBook.id, idx);
 }
 
 async function openBook(id) {
-  document.getElementById('book-content').innerHTML = '<p class="hint center">加载中…</p>';
   document.getElementById('book-title').textContent = '';
   document.getElementById('book-chapter-info').textContent = '';
+  document.getElementById('book-content').innerHTML = '<p class="hint center">加载中…</p>';
   bookOverlay.classList.remove('hidden');
   try {
     if (!bookCache.has(id)) {
@@ -208,6 +233,7 @@ async function openBook(id) {
     }
     const { info, chapters } = bookCache.get(id);
     curBook = { id, info, chapters, idx: Math.min(getProgress(id), chapters.length - 1) };
+    currentArticleTitle = info.title; // 生词本出处
     renderChapter();
   } catch (err) {
     document.getElementById('book-content').innerHTML =
@@ -215,6 +241,67 @@ async function openBook(id) {
   }
 }
 
+// ---------- 目录 ----------
+document.getElementById('book-toc-btn').addEventListener('click', () => {
+  if (!curBook) return;
+  document.getElementById('toc-list').innerHTML = curBook.chapters.map((blocks, i) =>
+    `<button class="toc-item${i === curBook.idx ? ' active' : ''}" data-i="${i}">${esc(chapterTitle(blocks, i))}</button>`
+  ).join('');
+  document.getElementById('toc-overlay').classList.remove('hidden');
+});
+document.getElementById('toc-close').addEventListener('click', () => {
+  document.getElementById('toc-overlay').classList.add('hidden');
+});
+document.getElementById('toc-list').addEventListener('click', (e) => {
+  const item = e.target.closest('.toc-item');
+  if (!item || !curBook) return;
+  curBook.idx = Number(item.dataset.i);
+  renderChapter();
+  document.getElementById('toc-overlay').classList.add('hidden');
+});
+
+// ---------- 整段翻译 ----------
+async function translateLong(text) {
+  const sentences = text.split(/(?<=[.!?])\s+/);
+  const chunks = [];
+  let cur = '';
+  for (const s of sentences) {
+    if (cur && (cur + ' ' + s).length > 400) { chunks.push(cur); cur = s; }
+    else { cur = cur ? cur + ' ' + s : s; }
+  }
+  if (cur) chunks.push(cur);
+  const out = [];
+  for (const c of chunks) {
+    const r = await fetch(
+      'https://api.mymemory.translated.net/get?q=' + encodeURIComponent(c) + '&langpair=en|zh-CN');
+    const d = await r.json();
+    out.push((d.responseData && d.responseData.translatedText) || '');
+  }
+  return out.join(' ');
+}
+
+async function translateParagraph(btn) {
+  const blockEl = btn.closest('.parablock');
+  const existing = blockEl.querySelector('.trans-zh');
+  if (existing) { existing.remove(); btn.textContent = '译'; return; } // 再点收起
+  const text = curBook.chapters[curBook.idx][Number(btn.dataset.p)].text;
+  if (text.length < 3) return;
+  btn.disabled = true;
+  btn.textContent = '…';
+  try {
+    const zh = await translateLong(text);
+    const div = document.createElement('div');
+    div.className = 'trans-zh';
+    div.textContent = zh;
+    blockEl.appendChild(div);
+    btn.textContent = '收起';
+  } catch {
+    btn.textContent = '失败';
+  }
+  btn.disabled = false;
+}
+
+// ---------- 事件 ----------
 bookGrid.addEventListener('click', async (e) => {
   const del = e.target.closest('.book-del');
   if (del) {
@@ -233,9 +320,6 @@ document.getElementById('book-close').addEventListener('click', () => {
   bookOverlay.classList.add('hidden');
   hideDict();
 });
-bookOverlay.addEventListener('click', (e) => {
-  if (e.target.id === 'book-overlay') { bookOverlay.classList.add('hidden'); hideDict(); }
-});
 document.getElementById('book-prev').addEventListener('click', () => {
   if (curBook && curBook.idx > 0) { curBook.idx--; renderChapter(); }
 });
@@ -243,8 +327,10 @@ document.getElementById('book-next').addEventListener('click', () => {
   if (curBook && curBook.idx < curBook.chapters.length - 1) { curBook.idx++; renderChapter(); }
 });
 
-// 点词查词典（复用 reading.js 的 lookupWord / 词典弹窗）
+// 正文点击：单词 → 词典；译 → 整段翻译
 document.getElementById('book-content').addEventListener('click', (e) => {
+  const transBtn = e.target.closest('.p-trans');
+  if (transBtn) { translateParagraph(transBtn); return; }
   const w = e.target.closest('.w');
   if (w) lookupWord(w.textContent, Number(w.dataset.s));
 });
