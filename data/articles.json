@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-04 00:36 UTC",
+ "updated": "2026-10-05 00:55 UTC",
  "articles": [
+  {
+   "title": "Britain’s Greens have voted, shamefully, to say Zionism is racism",
+   "summary": "It is a damning moment for a political party with pretensions to power",
+   "link": "https://www.economist.com/leaders/2026/10/04/britains-greens-have-voted-shamefully-to-say-zionism-is-racism",
+   "section": "社论",
+   "date": "2026-10-04"
+  },
+  {
+   "title": "When gerrymandering meets a blue wave",
+   "summary": "The unexpected consequences of Republicans’ effort to redraw electoral maps",
+   "link": "https://www.economist.com/united-states/2026/10/04/when-gerrymandering-meets-a-blue-wave",
+   "section": "美国",
+   "date": "2026-10-04"
+  },
+  {
+   "title": "How India saved its tigers—and lions and rhinos and elephants",
+   "summary": "India’s wildlife-conservation success holds lessons for other environmental efforts",
+   "link": "https://www.economist.com/asia/2026/10/04/how-india-saved-its-tigers-and-lions-and-rhinos-and-elephants",
+   "section": "亚洲",
+   "date": "2026-10-04"
+  },
+  {
+   "title": "White Zimbabweans return to farming",
+   "summary": "Their return a generation after Robert Mugabe’s land grabs reflects the country’s potential—and its troubles",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/04/white-zimbabweans-return-to-farming",
+   "section": "中东与非洲",
+   "date": "2026-10-04"
+  },
   {
    "title": "Should you be using a tongue-scraper?",
    "summary": "There is another tool that will do the job just as well",
@@ -392,34 +420,6 @@
    "link": "https://www.economist.com/united-states/2026/09/26/the-climate-issue-newsletter-donald-trumps-least-favourite-thing",
    "section": "美国",
    "date": "2026-09-26"
-  },
-  {
-   "title": "Checks and Balance newsletter: Can Democrats win by fighting graft?",
-   "summary": "Steve Coll, visiting senior editor, on whether running against corruption still moves voters",
-   "link": "https://www.economist.com/united-states/2026/09/26/checks-and-balance-newsletter-can-democrats-win-by-fighting-graft",
-   "section": "美国",
-   "date": "2026-09-26"
-  },
-  {
-   "title": "Are weighted blankets really beneficial?",
-   "summary": "Measurable gains are modest, but many users report feeling better",
-   "link": "https://www.economist.com/science-and-technology/2026/09/25/are-weighted-blankets-really-beneficial",
-   "section": "科技",
-   "date": "2026-09-25"
-  },
-  {
-   "title": "America’s and China’s leaders indulge in pageantry as crises mount",
-   "summary": "Donald Trump and Xi Jinping squandered a chance to tackle the world’s gravest threats",
-   "link": "https://www.economist.com/international/2026/09/25/americas-and-chinas-leaders-indulge-in-pageantry-as-crises-mount",
-   "section": "国际",
-   "date": "2026-09-25"
-  },
-  {
-   "title": "The War Room newsletter: The Soviet Union’s greatest war reporter",
-   "summary": "Oliver Jones, a news editor, explores the legacy of Vasily Grossman",
-   "link": "https://www.economist.com/international/2026/09/25/the-war-room-newsletter-the-soviet-unions-greatest-war-reporter",
-   "section": "国际",
-   "date": "2026-09-25"
   }
  ]
 }
