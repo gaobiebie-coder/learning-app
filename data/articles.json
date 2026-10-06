@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-05 00:55 UTC",
+ "updated": "2026-10-06 02:17 UTC",
  "articles": [
+  {
+   "title": "Bartleby newsletter: How to fire a chicken into a jet engine",
+   "summary": "Andrew Palmer, our Bartleby columnist, reads up on testing regimes",
+   "link": "https://www.economist.com/business/2026/10/05/bartleby-newsletter-how-to-fire-a-chicken-into-a-jet-engine",
+   "section": "商业",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Record labels are in a spin over AI music",
+   "summary": "Should they fight upstart labs, or co-operate with them?",
+   "link": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
+   "section": "商业",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "The Nobel for medicine goes to lighting up the brain",
+   "summary": "Inventors of optogenetics get the gong",
+   "link": "https://www.economist.com/science-and-technology/2026/10/05/the-nobel-for-medicine-goes-to-lighting-up-the-brain",
+   "section": "科技",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Fifty years after the Cultural Revolution, China won’t talk about it",
+   "summary": "Keeping silent about the awful decade may not bury it",
+   "link": "https://www.economist.com/china/2026/10/05/fifty-years-after-the-cultural-revolution-china-wont-talk-about-it",
+   "section": "中国",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Checks and Balance newsletter: The new politics of Christianity",
+   "summary": "Charlotte Howard, our US editor, on the battle for America’s faithful",
+   "link": "https://www.economist.com/united-states/2026/10/05/checks-and-balance-newsletter-the-new-politics-of-christianity",
+   "section": "美国",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Germany and France want EU storm gates for China’s trade surge",
+   "summary": "A bold joint letter suggests confrontation looms with China",
+   "link": "https://www.economist.com/europe/2026/10/05/germany-and-france-want-eu-storm-gates-for-chinas-trade-surge",
+   "section": "欧洲",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "The War Room newsletter: Operation Vivaldi is wrong-footing Russia",
+   "summary": "Alex Turner, our defence editor, examines how a Ukrainian counter-offensive is faring",
+   "link": "https://www.economist.com/europe/2026/10/05/the-war-room-newsletter-operation-vivaldi-is-wrong-footing-russia",
+   "section": "欧洲",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Pedro Sánchez gambles on a snap election—and populist policies",
+   "summary": "Spain’s prime minister makes a last stand for the European left",
+   "link": "https://www.economist.com/europe/2026/10/05/pedro-sanchez-gambles-on-a-snap-election-and-populist-policies",
+   "section": "欧洲",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "A controversial new power grab in Pakistan",
+   "summary": "The powerful army chief wants to redraw the political map",
+   "link": "https://www.economist.com/asia/2026/10/05/a-controversial-new-power-grab-in-pakistan",
+   "section": "亚洲",
+   "date": "2026-10-05"
+  },
   {
    "title": "Britain’s Greens have voted, shamefully, to say Zionism is racism",
    "summary": "It is a damning moment for a political party with pretensions to power",
@@ -357,69 +420,6 @@
    "link": "https://www.economist.com/business/2026/09/28/big-laws-century-old-business-model-is-being-transformed",
    "section": "商业",
    "date": "2026-09-28"
-  },
-  {
-   "title": "Xi Jinping uses old festivals to boost the party’s image",
-   "summary": "But ancient traditions may not always bend to his will",
-   "link": "https://www.economist.com/china/2026/09/28/xi-jinping-uses-old-festivals-to-boost-the-partys-image",
-   "section": "中国",
-   "date": "2026-09-28"
-  },
-  {
-   "title": "Why MAGA hates and loves Europe",
-   "summary": "Three big reasons explain the New Right’s hostility to Europeans",
-   "link": "https://www.economist.com/europe/2026/09/28/why-maga-hates-and-loves-europe",
-   "section": "欧洲",
-   "date": "2026-09-28"
-  },
-  {
-   "title": "Artificial intelligence is coming for Israel’s voters",
-   "summary": "Governments and voters elsewhere should be watching",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/09/28/artificial-intelligence-is-coming-for-israels-voters",
-   "section": "中东与非洲",
-   "date": "2026-09-28"
-  },
-  {
-   "title": "European industry is doing better than you may think",
-   "summary": "The firms most exposed to China are suffering. But many are adapting",
-   "link": "https://www.economist.com/business/2026/09/27/european-industry-is-doing-better-than-you-may-think",
-   "section": "商业",
-   "date": "2026-09-27"
-  },
-  {
-   "title": "Alternatives to GPS are around the corner",
-   "summary": "Earth’s quantum field and signals from other satellites may prove more reliable",
-   "link": "https://www.economist.com/science-and-technology/2026/09/27/alternatives-to-gps-are-around-the-corner",
-   "section": "科技",
-   "date": "2026-09-27"
-  },
-  {
-   "title": "Can Jesus Christ sell moderates on Democrats?",
-   "summary": "Donald Trump’s faltering support among Christians creates an opportunity",
-   "link": "https://www.economist.com/united-states/2026/09/27/can-jesus-christ-sell-moderates-on-democrats",
-   "section": "美国",
-   "date": "2026-09-27"
-  },
-  {
-   "title": "Ireland is helping supply Russia’s war machine",
-   "summary": "The EU considers putting an Irish alumina refiner on its sanctions list",
-   "link": "https://www.economist.com/europe/2026/09/27/ireland-is-helping-supply-russias-war-machine",
-   "section": "欧洲",
-   "date": "2026-09-27"
-  },
-  {
-   "title": "Will Donald Trump meet Kim Jong Un again?",
-   "summary": "North Korea wants America to drop demands for disarmament",
-   "link": "https://www.economist.com/asia/2026/09/27/will-donald-trump-meet-kim-jong-un-again",
-   "section": "亚洲",
-   "date": "2026-09-27"
-  },
-  {
-   "title": "The Climate Issue newsletter: Donald Trump’s least favourite thing",
-   "summary": "Oliver Morton, our senior editor, runs the rule over American investment in clean energy",
-   "link": "https://www.economist.com/united-states/2026/09/26/the-climate-issue-newsletter-donald-trumps-least-favourite-thing",
-   "section": "美国",
-   "date": "2026-09-26"
   }
  ]
 }
