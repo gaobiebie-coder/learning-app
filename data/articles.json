@@ -1,6 +1,41 @@
 {
- "updated": "2026-10-06 02:17 UTC",
+ "updated": "2026-10-07 01:31 UTC",
  "articles": [
+  {
+   "title": "Brazil is a right-wing country now",
+   "summary": "The Bolsonaro clan promises to align with Donald Trump, and to attack democratic institutions",
+   "link": "https://www.economist.com/leaders/2026/10/06/brazil-is-a-right-wing-country-now",
+   "section": "社论",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "China wants to get inside your head",
+   "summary": "Brain-computer interfaces are the latest battleground in its tech rivalry with America",
+   "link": "https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head",
+   "section": "商业",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "A Nobel for the discovery of high-energy neutrinos",
+   "summary": "The ghostly particles shed light on the distant universe",
+   "link": "https://www.economist.com/science-and-technology/2026/10/06/a-nobel-for-the-discovery-of-high-energy-neutrinos",
+   "section": "科技",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "The plague may have escaped from a lab in Siberia",
+   "summary": "Russian secrecy means it is unclear how grave the threat is",
+   "link": "https://www.economist.com/europe/2026/10/06/the-plague-may-have-escaped-from-a-lab-in-siberia",
+   "section": "欧洲",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "Vladimir Putin and the pariah problem",
+   "summary": "Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense",
+   "link": "https://www.economist.com/international/2026/10/06/vladimir-putin-and-the-pariah-problem",
+   "section": "国际",
+   "date": "2026-10-06"
+  },
   {
    "title": "Bartleby newsletter: How to fire a chicken into a jet engine",
    "summary": "Andrew Palmer, our Bartleby columnist, reads up on testing regimes",
@@ -38,7 +73,7 @@
   },
   {
    "title": "Germany and France want EU storm gates for China’s trade surge",
-   "summary": "A bold joint letter suggests confrontation looms with China",
+   "summary": "A bold joint letter suggests confrontation looms",
    "link": "https://www.economist.com/europe/2026/10/05/germany-and-france-want-eu-storm-gates-for-chinas-trade-surge",
    "section": "欧洲",
    "date": "2026-10-05"
@@ -385,41 +420,6 @@
    "link": "https://www.economist.com/middle-east-and-africa/2026/09/29/has-iran-lost-its-grip-on-gulf-oil-exports",
    "section": "中东与非洲",
    "date": "2026-09-29"
-  },
-  {
-   "title": "Analysing Africa newsletter: The war everyone saw coming",
-   "summary": "Ethiopia’s latest civil war did not begin in a vacuum, writes Tom Gardner, our Africa correspondent",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/09/29/analysing-africa-newsletter-the-war-everyone-saw-coming",
-   "section": "中东与非洲",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "Democracy is stronger than it looks",
-   "summary": "Open societies have weathered murderous leftists and fascist radicals before",
-   "link": "https://www.economist.com/international/2026/09/29/democracy-is-stronger-than-it-looks",
-   "section": "国际",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "Plot Twist newsletter: George Lucas and the cult of the founder",
-   "summary": "Alexandra Suich Bass, our culture editor, toured the creator of Star Wars’s new billion-dollar galaxy",
-   "link": "https://www.economist.com/culture/2026/09/29/plot-twist-newsletter-george-lucas-and-the-cult-of-the-founder",
-   "section": "文化",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "In Evan Gershkovich’s new memoir, prison is a microcosm of Russia",
-   "summary": "His stint behind bars offers a window onto the country’s wartime soul",
-   "link": "https://www.economist.com/culture/2026/09/29/in-evan-gershkovichs-new-memoir-prison-is-a-microcosm-of-russia",
-   "section": "文化",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "Big Law’s century-old business model is being transformed",
-   "summary": "Leading firms are swooping on each other’s star partners",
-   "link": "https://www.economist.com/business/2026/09/28/big-laws-century-old-business-model-is-being-transformed",
-   "section": "商业",
-   "date": "2026-09-28"
   }
  ]
 }
