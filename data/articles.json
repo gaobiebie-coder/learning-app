@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-07 01:31 UTC",
+ "updated": "2026-10-08 01:55 UTC",
  "articles": [
+  {
+   "title": "OpenAI claims to have solved hundreds of long-standing maths problems",
+   "summary": "It is judgment day for mathematics",
+   "link": "https://www.economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems",
+   "section": "科技",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "Burglars could be identified from airborne DNA",
+   "summary": "Skin cells, dandruff and saliva are largely responsible",
+   "link": "https://www.economist.com/science-and-technology/2026/10/07/burglars-could-be-identified-from-airborne-dna",
+   "section": "科技",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "A Nobel for illuminating life’s asymmetry",
+   "summary": "And achieving a feat of chemical synthesis not seen for 4bn years",
+   "link": "https://www.economist.com/science-and-technology/2026/10/07/a-nobel-for-illuminating-lifes-asymmetry",
+   "section": "科技",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "How China manages its oil woes will have global repercussions",
+   "summary": "The crisis in Hormuz is beginning to take a toll",
+   "link": "https://www.economist.com/china/2026/10/07/how-china-manages-its-oil-woes-will-have-global-repercussions",
+   "section": "中国",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "Donald Trump’s untenable strategy for AI",
+   "summary": "The president’s desire to unleash the technology is running into political reality",
+   "link": "https://www.economist.com/united-states/2026/10/07/donald-trumps-untenable-strategy-for-ai",
+   "section": "美国",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "“The Social Reckoning” is a fatally earnest sequel to a classic",
+   "summary": "Facebook has become a softer target, making for a weaker satire than “The Social Network”",
+   "link": "https://www.economist.com/culture/2026/10/07/the-social-reckoning-is-a-fatally-earnest-sequel-to-a-classic",
+   "section": "文化",
+   "date": "2026-10-07"
+  },
   {
    "title": "Brazil is a right-wing country now",
    "summary": "The Bolsonaro clan promises to align with Donald Trump, and to attack democratic institutions",
@@ -16,9 +58,9 @@
    "date": "2026-10-06"
   },
   {
-   "title": "A Nobel for the discovery of high-energy neutrinos",
-   "summary": "The ghostly particles shed light on the distant universe",
-   "link": "https://www.economist.com/science-and-technology/2026/10/06/a-nobel-for-the-discovery-of-high-energy-neutrinos",
+   "title": "A Nobel for the strangest telescope ever built",
+   "summary": "It detects ghostly particles that shed light on the distant universe",
+   "link": "https://www.economist.com/science-and-technology/2026/10/06/a-nobel-for-the-strangest-telescope-ever-built",
    "section": "科技",
    "date": "2026-10-06"
   },
@@ -378,48 +420,6 @@
    "link": "https://www.economist.com/science-and-technology/2026/09/30/simulating-death-can-reduce-peoples-fear-of-dying",
    "section": "科技",
    "date": "2026-09-30"
-  },
-  {
-   "title": "It may soon be possible to create “mirror life”",
-   "summary": "Such research poses risks for humanity and the planet",
-   "link": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
-   "section": "科技",
-   "date": "2026-09-30"
-  },
-  {
-   "title": "In an AI crisis, would China answer the phone?",
-   "summary": "The Americans want a hotline but the Chinese have been cool in the past",
-   "link": "https://www.economist.com/china/2026/09/30/in-an-ai-crisis-would-china-answer-the-phone",
-   "section": "中国",
-   "date": "2026-09-30"
-  },
-  {
-   "title": "Bond markets whack France for fiscal irresponsibility",
-   "summary": "Political risk brings economic pain",
-   "link": "https://www.economist.com/europe/2026/09/30/bond-markets-whack-france-for-fiscal-irresponsibility",
-   "section": "欧洲",
-   "date": "2026-09-30"
-  },
-  {
-   "title": "How will AI philanthropy change development aid?",
-   "summary": "As Anthropic and its ilk join the donor class, they must avoid old pitfalls",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/09/30/how-will-ai-philanthropy-change-development-aid",
-   "section": "中东与非洲",
-   "date": "2026-09-30"
-  },
-  {
-   "title": "Putin’s new bombardment of Kyiv has a terrible logic",
-   "summary": "A Russian terror campaign aims to cripple the capital even before winter hits",
-   "link": "https://www.economist.com/europe/2026/09/29/putins-new-bombardment-of-kyiv-has-a-terrible-logic",
-   "section": "欧洲",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "Has Iran lost its grip on Gulf oil exports?",
-   "summary": "Exports through the Strait of Hormuz and beyond are soaring but prices remain stubbornly high",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/09/29/has-iran-lost-its-grip-on-gulf-oil-exports",
-   "section": "中东与非洲",
-   "date": "2026-09-29"
   }
  ]
 }
