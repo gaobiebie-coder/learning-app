@@ -1,6 +1,55 @@
 {
- "updated": "2026-10-09 02:09 UTC",
+ "updated": "2026-10-10 01:45 UTC",
  "articles": [
+  {
+   "title": "Do you need to walk 10,000 steps a day?",
+   "summary": "How fast you walk may be as important as how much",
+   "link": "https://www.economist.com/science-and-technology/2026/10/09/do-you-need-to-walk-10000-steps-a-day",
+   "section": "科技",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Checks and Balance newsletter: Plans to livestream an execution in America",
+   "summary": "John Prideaux, our executive editor, argues that making a spectacle of a Muslim gunman’s death is a deliberate political choice",
+   "link": "https://www.economist.com/united-states/2026/10/09/checks-and-balance-newsletter-plans-to-livestream-an-execution-in-america",
+   "section": "美国",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Professional sumo-wrestling comes to America",
+   "summary": "Meet the people betting Americans will swoon over Japan’s ancient pastime",
+   "link": "https://www.economist.com/united-states/2026/10/09/professional-sumo-wrestling-comes-to-america",
+   "section": "美国",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Italy’s politicians are obsessed with short skirts",
+   "summary": "A parliamentary fight over hemlines shows the battle of the sexes is still on",
+   "link": "https://www.economist.com/europe/2026/10/09/italys-politicians-are-obsessed-with-short-skirts",
+   "section": "欧洲",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "Belarus is becoming increasingly Russian",
+   "summary": "As the country stamps out its national heritage, its neighbour’s propaganda is taking over",
+   "link": "https://www.economist.com/interactive/europe/2026/10/09/belarus-is-becoming-increasingly-russian",
+   "section": "欧洲",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "How Donald Trump made America’s government dumber",
+   "summary": "DOGE was a huge missed opportunity",
+   "link": "https://www.economist.com/culture/2026/10/09/how-donald-trump-made-americas-government-dumber",
+   "section": "文化",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "What to watch this week",
+   "summary": "The best (and worst) recent films and television shows about tech",
+   "link": "https://www.economist.com/culture/2026/10/09/what-to-watch-this-week",
+   "section": "文化",
+   "date": "2026-10-09"
+  },
   {
    "title": "A no-rules approach to AI is mad politics and worse policy",
    "summary": "Do not let it rip",
@@ -30,9 +79,9 @@
    "date": "2026-10-08"
   },
   {
-   "title": "Turbulent bond markets threaten some countries more than others",
+   "title": "The countries most threatened by turbulent bond markets",
    "summary": "For those where interest rates outstrip economic growth, trouble looms",
-   "link": "https://www.economist.com/briefing/2026/10/08/turbulent-bond-markets-threaten-some-countries-more-than-others",
+   "link": "https://www.economist.com/briefing/2026/10/08/the-countries-most-threatened-by-turbulent-bond-markets",
    "section": "深度报道",
    "date": "2026-10-08"
   },
@@ -40,6 +89,13 @@
    "title": "The rise of the AI marketplace",
    "summary": "Businesses such as OpenRouter are thriving as companies try to cut token costs",
    "link": "https://www.economist.com/business/2026/10/08/the-rise-of-the-ai-marketplace",
+   "section": "商业",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "Football’s latest scandal inspires apathy rather than anger",
+   "summary": "That is dangerous for the game",
+   "link": "https://www.economist.com/business/2026/10/08/footballs-latest-scandal-inspires-apathy-rather-than-anger",
    "section": "商业",
    "date": "2026-10-08"
   },
@@ -115,7 +171,7 @@
   },
   {
    "title": "Europe’s lame-duck year could hardly come at a worse time",
-   "summary": "Elections will sap what little resolve Europe has to make tough decisions",
+   "summary": "Elections will sap what little resolve the continent has to make tough decisions",
    "link": "https://www.economist.com/europe/2026/10/08/europes-lame-duck-year-could-hardly-come-at-a-worse-time",
    "section": "欧洲",
    "date": "2026-10-08"
@@ -364,62 +420,6 @@
    "link": "https://www.economist.com/leaders/2026/10/04/britains-greens-have-voted-shamefully-to-say-zionism-is-racism",
    "section": "社论",
    "date": "2026-10-04"
-  },
-  {
-   "title": "When gerrymandering meets a blue wave",
-   "summary": "The unexpected consequences of Republicans’ effort to redraw electoral maps",
-   "link": "https://www.economist.com/united-states/2026/10/04/when-gerrymandering-meets-a-blue-wave",
-   "section": "美国",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "How India saved its tigers—and lions and rhinos and elephants",
-   "summary": "India’s wildlife-conservation success holds lessons for other environmental efforts",
-   "link": "https://www.economist.com/asia/2026/10/04/how-india-saved-its-tigers-and-lions-and-rhinos-and-elephants",
-   "section": "亚洲",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "White Zimbabweans return to farming",
-   "summary": "Their return a generation after Robert Mugabe’s land grabs reflects the country’s potential—and its troubles",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/04/white-zimbabweans-return-to-farming",
-   "section": "中东与非洲",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Should you be using a tongue-scraper?",
-   "summary": "Another tool will do the job just as well",
-   "link": "https://www.economist.com/science-and-technology/2026/10/02/should-you-be-using-a-tongue-scraper",
-   "section": "科技",
-   "date": "2026-10-02"
-  },
-  {
-   "title": "America’s grim record of failed executions",
-   "summary": "What happens when states combine ineptitude with the death penalty",
-   "link": "https://www.economist.com/united-states/2026/10/02/americas-grim-record-of-failed-executions",
-   "section": "美国",
-   "date": "2026-10-02"
-  },
-  {
-   "title": "Schoolyard protests are setting France ablaze",
-   "summary": "Six months from an election, the mood is tense",
-   "link": "https://www.economist.com/europe/2026/10/02/schoolyard-protests-are-setting-france-ablaze",
-   "section": "欧洲",
-   "date": "2026-10-02"
-  },
-  {
-   "title": "Middle East Dispatch newsletter: The new Judaism reshaping Israel",
-   "summary": "A radical shift is taking place at Jerusalem’s holiest site, writes Nicolas Pelham, our Middle East correspondent",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/02/middle-east-dispatch-newsletter-the-new-judaism-reshaping-israel",
-   "section": "中东与非洲",
-   "date": "2026-10-02"
-  },
-  {
-   "title": "What to watch this week",
-   "summary": "These films and TV shows are worth returning to",
-   "link": "https://www.economist.com/culture/2026/10/02/what-to-watch-this-week",
-   "section": "文化",
-   "date": "2026-10-02"
   }
  ]
 }
