@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10 01:45 UTC",
+ "updated": "2026-10-11 01:00 UTC",
  "articles": [
   {
    "title": "Do you need to walk 10,000 steps a day?",
@@ -37,8 +37,15 @@
    "date": "2026-10-09"
   },
   {
+   "title": "Plot Twist newsletter: Silicon Valley is taking over your screen",
+   "summary": "Alexandra Suich Bass, our culture editor, examines whether tech’s bad boys make for good viewing",
+   "link": "https://www.economist.com/culture/2026/10/09/plot-twist-newsletter-silicon-valley-is-taking-over-your-screen",
+   "section": "文化",
+   "date": "2026-10-09"
+  },
+  {
    "title": "How Donald Trump made America’s government dumber",
-   "summary": "DOGE was a huge missed opportunity",
+   "summary": "As Michael Lewis’s new book makes clear, DOGE was a huge missed opportunity",
    "link": "https://www.economist.com/culture/2026/10/09/how-donald-trump-made-americas-government-dumber",
    "section": "文化",
    "date": "2026-10-09"
@@ -413,13 +420,6 @@
    "link": "https://www.economist.com/asia/2026/10/05/a-controversial-new-power-grab-in-pakistan",
    "section": "亚洲",
    "date": "2026-10-05"
-  },
-  {
-   "title": "Britain’s Greens have voted, shamefully, to say Zionism is racism",
-   "summary": "It is a damning moment for a political party with pretensions to power",
-   "link": "https://www.economist.com/leaders/2026/10/04/britains-greens-have-voted-shamefully-to-say-zionism-is-racism",
-   "section": "社论",
-   "date": "2026-10-04"
   }
  ]
 }
