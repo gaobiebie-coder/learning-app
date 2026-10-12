@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-11 01:00 UTC",
+ "updated": "2026-10-12 01:19 UTC",
  "articles": [
+  {
+   "title": "The Jon Ossoff guide to being a Democrat",
+   "summary": "A rising star in Georgia pairs bland governing with hot rhetoric",
+   "link": "https://www.economist.com/united-states/2026/10/11/the-jon-ossoff-guide-to-being-a-democrat",
+   "section": "美国",
+   "date": "2026-10-11"
+  },
+  {
+   "title": "The limits of India’s diaspora power",
+   "summary": "As the West closes its doors, India must make staying home more attractive",
+   "link": "https://www.economist.com/asia/2026/10/11/the-limits-of-indias-diaspora-power",
+   "section": "亚洲",
+   "date": "2026-10-11"
+  },
+  {
+   "title": "Saudi Arabia is increasingly under siege",
+   "summary": "The Saudis have no good options against deadly strikes by Yemeni rebels",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/11/saudi-arabia-is-increasingly-under-siege",
+   "section": "中东与非洲",
+   "date": "2026-10-11"
+  },
   {
    "title": "Do you need to walk 10,000 steps a day?",
    "summary": "How fast you walk may be as important as how much",
@@ -398,27 +419,6 @@
    "summary": "A bold joint letter suggests confrontation looms with China",
    "link": "https://www.economist.com/europe/2026/10/05/germany-and-france-want-eu-storm-gates-for-chinas-trade-surge",
    "section": "欧洲",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "The War Room newsletter: Operation Vivaldi is wrong-footing Russia",
-   "summary": "Alex Turner, our defence editor, examines how a Ukrainian counter-offensive is faring",
-   "link": "https://www.economist.com/europe/2026/10/05/the-war-room-newsletter-operation-vivaldi-is-wrong-footing-russia",
-   "section": "欧洲",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "Pedro Sánchez gambles on a snap election—and populist policies",
-   "summary": "Spain’s prime minister makes a last stand for the European left",
-   "link": "https://www.economist.com/europe/2026/10/05/pedro-sanchez-gambles-on-a-snap-election-and-populist-policies",
-   "section": "欧洲",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "A controversial new power grab in Pakistan",
-   "summary": "The country’s army chief and de facto ruler wants to redraw the political map",
-   "link": "https://www.economist.com/asia/2026/10/05/a-controversial-new-power-grab-in-pakistan",
-   "section": "亚洲",
    "date": "2026-10-05"
   }
  ]
