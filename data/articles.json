@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-12 01:19 UTC",
+ "updated": "2026-10-13 03:03 UTC",
  "articles": [
+  {
+   "title": "Bartleby newsletter: Tiny workplace triumphs",
+   "summary": "Andrew Palmer, our Bartleby columnist, celebrates our readers’ finest micro-achievements",
+   "link": "https://www.economist.com/business/2026/10/12/bartleby-newsletter-tiny-workplace-triumphs",
+   "section": "商业",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "AI’s mathematics blitz pushes science into strange new territory",
+   "summary": "Other disciplines should take heed",
+   "link": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+   "section": "科技",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Chinese taxpayers now owe more. Is more owed to them?",
+   "summary": "Hidden levies are becoming visible",
+   "link": "https://www.economist.com/china/2026/10/12/chinese-taxpayers-now-owe-more-is-more-owed-to-them",
+   "section": "中国",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Russian men are fleeing before the army can grab them",
+   "summary": "Vladimir Putin looks poised for a huge wave of forced inductions",
+   "link": "https://www.economist.com/europe/2026/10/12/russian-men-are-fleeing-before-the-army-can-grab-them",
+   "section": "欧洲",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "Donald Trump is again threatening to cut off arms to Ukraine",
+   "summary": "His diesel deal with Russia may prove as illusory as his “energy ceasefire”",
+   "link": "https://www.economist.com/europe/2026/10/12/donald-trump-is-again-threatening-to-cut-off-arms-to-ukraine",
+   "section": "欧洲",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "“Musk” reminds you of how much you already know about Elon",
+   "summary": "It is hard to make a fresh documentary on a ubiquitous subject, Alex Gibney’s gruelling film shows",
+   "link": "https://www.economist.com/culture/2026/10/12/musk-reminds-you-of-how-much-you-already-know-about-elon",
+   "section": "文化",
+   "date": "2026-10-12"
+  },
   {
    "title": "The Jon Ossoff guide to being a Democrat",
    "summary": "A rising star in Georgia pairs bland governing with hot rhetoric",
@@ -378,48 +420,6 @@
    "link": "https://www.economist.com/international/2026/10/06/vladimir-putin-and-the-pariah-problem",
    "section": "国际",
    "date": "2026-10-06"
-  },
-  {
-   "title": "Bartleby newsletter: How to fire a chicken into a jet engine",
-   "summary": "Andrew Palmer, our Bartleby columnist, reads up on testing regimes",
-   "link": "https://www.economist.com/business/2026/10/05/bartleby-newsletter-how-to-fire-a-chicken-into-a-jet-engine",
-   "section": "商业",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "Record labels are in a spin over AI music",
-   "summary": "Should they fight upstart labs, or co-operate with them?",
-   "link": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
-   "section": "商业",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "The Nobel for medicine goes to lighting up the brain",
-   "summary": "Inventors of optogenetics get the gong",
-   "link": "https://www.economist.com/science-and-technology/2026/10/05/the-nobel-for-medicine-goes-to-lighting-up-the-brain",
-   "section": "科技",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "Fifty years after the Cultural Revolution, China won’t talk about it",
-   "summary": "Keeping silent about the awful decade may not bury it",
-   "link": "https://www.economist.com/china/2026/10/05/fifty-years-after-the-cultural-revolution-china-wont-talk-about-it",
-   "section": "中国",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "Checks and Balance newsletter: The new politics of Christianity",
-   "summary": "Charlotte Howard, our US editor, on the battle for America’s faithful",
-   "link": "https://www.economist.com/united-states/2026/10/05/checks-and-balance-newsletter-the-new-politics-of-christianity",
-   "section": "美国",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "Germany and France want EU storm gates for China’s trade surge",
-   "summary": "A bold joint letter suggests confrontation looms with China",
-   "link": "https://www.economist.com/europe/2026/10/05/germany-and-france-want-eu-storm-gates-for-chinas-trade-surge",
-   "section": "欧洲",
-   "date": "2026-10-05"
   }
  ]
 }
