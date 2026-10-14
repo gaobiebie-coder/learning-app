@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-13 03:03 UTC",
+ "updated": "2026-10-14 01:13 UTC",
  "articles": [
+  {
+   "title": "Elon Musk's foundation is opaque, miserly and self-serving",
+   "summary": "The world’s richest man disdains charity. His money is where his mouth is",
+   "link": "https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving",
+   "section": "商业",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "China is turning trash into treasure on a vast scale",
+   "summary": "EV batteries, especially, will help it secure supplies of critical minerals",
+   "link": "https://www.economist.com/china/2026/10/13/china-is-turning-trash-into-treasure-on-a-vast-scale",
+   "section": "中国",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "America’s election officials are ready for trouble",
+   "summary": "Donald Trump has failed to change voting rules. Cities and states are preparing for mischief anyway",
+   "link": "https://www.economist.com/united-states/2026/10/13/americas-election-officials-are-ready-for-trouble",
+   "section": "美国",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "Café Europa newsletter: Marco Rubio’s questionable history lesson",
+   "summary": "Matt Steinglass, our Europe editor, identifies the continent’s Spartans",
+   "link": "https://www.economist.com/europe/2026/10/13/cafe-europa-newsletter-marco-rubios-questionable-history-lesson",
+   "section": "欧洲",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "India’s government fails to crush Gen Z protests",
+   "summary": "The leader of the Cockroach party is detained and the internet shut down",
+   "link": "https://www.economist.com/asia/2026/10/13/indias-government-fails-to-crush-gen-z-protests",
+   "section": "亚洲",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "Middle East Dispatch: Flying through the Gulf is complicated",
+   "summary": "Gregg Carlstrom, our Middle East correspondent, looks at how war has affected aviation in the region",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/13/middle-east-dispatch-flying-through-the-gulf-is-complicated",
+   "section": "中东与非洲",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "Analysing Africa newsletter: A Nobel and ignoble day for the rule of law",
+   "summary": "Friday in South Africa brought a gobsmacking juxtaposition, writes John McDermott, our Chief Africa correspondent",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/13/analysing-africa-newsletter-a-nobel-and-ignoble-day-for-the-rule-of-law",
+   "section": "中东与非洲",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "The War Room newsletter: The curious case of firing squads",
+   "summary": "Alex Turner, our defence editor, looks at this anachronistic and peculiar form of execution",
+   "link": "https://www.economist.com/international/2026/10/13/the-war-room-newsletter-the-curious-case-of-firing-squads",
+   "section": "国际",
+   "date": "2026-10-13"
+  },
+  {
+   "title": "What’s behind the big interest in miniatures?",
+   "summary": "Nostalgia and a desire for control are fuelling a boom in small things",
+   "link": "https://www.economist.com/culture/2026/10/13/whats-behind-the-big-interest-in-miniatures",
+   "section": "文化",
+   "date": "2026-10-13"
+  },
   {
    "title": "Bartleby newsletter: Tiny workplace triumphs",
    "summary": "Andrew Palmer, our Bartleby columnist, celebrates our readers’ finest micro-achievements",
@@ -37,9 +100,9 @@
    "date": "2026-10-12"
   },
   {
-   "title": "“Musk” reminds you of how much you already know about Elon",
+   "title": "“Musk” reminds you how much you already know about Elon",
    "summary": "It is hard to make a fresh documentary on a ubiquitous subject, Alex Gibney’s gruelling film shows",
-   "link": "https://www.economist.com/culture/2026/10/12/musk-reminds-you-of-how-much-you-already-know-about-elon",
+   "link": "https://www.economist.com/culture/2026/10/12/musk-reminds-you-how-much-you-already-know-about-elon",
    "section": "文化",
    "date": "2026-10-12"
   },
@@ -310,6 +373,13 @@
    "date": "2026-10-08"
   },
   {
+   "title": "Nagging people to eat healthily does not work",
+   "summary": "Taxes, planning rules, limits on ads—anything to curb junk food",
+   "link": "https://www.economist.com/international/2026/10/08/nagging-people-to-eat-healthily-does-not-work",
+   "section": "国际",
+   "date": "2026-10-08"
+  },
+  {
    "title": "Anne Carson wins the Nobel prize in literature",
    "summary": "In verse, prose and translation, the Canadian writer has bent genres",
    "link": "https://www.economist.com/culture/2026/10/08/anne-carson-wins-the-nobel-prize-in-literature",
@@ -350,76 +420,6 @@
    "link": "https://www.economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems",
    "section": "科技",
    "date": "2026-10-07"
-  },
-  {
-   "title": "Burglars could be identified from airborne DNA",
-   "summary": "Skin cells, dandruff and saliva are largely responsible",
-   "link": "https://www.economist.com/science-and-technology/2026/10/07/burglars-could-be-identified-from-airborne-dna",
-   "section": "科技",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "A Nobel for illuminating life’s asymmetry",
-   "summary": "And achieving a feat of chemical synthesis not seen for 4bn years",
-   "link": "https://www.economist.com/science-and-technology/2026/10/07/a-nobel-for-illuminating-lifes-asymmetry",
-   "section": "科技",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "China’s oil tactics have been clever. Now the costs are mounting",
-   "summary": "The choices it faces will have global repercussions",
-   "link": "https://www.economist.com/china/2026/10/07/chinas-oil-tactics-have-been-clever-now-the-costs-are-mounting",
-   "section": "中国",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "Donald Trump’s untenable strategy for AI",
-   "summary": "The president’s desire to unleash the technology is running into political reality",
-   "link": "https://www.economist.com/united-states/2026/10/07/donald-trumps-untenable-strategy-for-ai",
-   "section": "美国",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "“The Social Reckoning” is a fatally earnest sequel to a classic",
-   "summary": "Facebook has become a softer target, making for a weaker satire than “The Social Network”",
-   "link": "https://www.economist.com/culture/2026/10/07/the-social-reckoning-is-a-fatally-earnest-sequel-to-a-classic",
-   "section": "文化",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "Brazil is a right-wing country now",
-   "summary": "The Bolsonaro clan promises to align with Donald Trump, and to attack democratic institutions",
-   "link": "https://www.economist.com/leaders/2026/10/06/brazil-is-a-right-wing-country-now",
-   "section": "社论",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "China wants to get inside your head",
-   "summary": "Brain-computer interfaces are the latest battleground in its tech rivalry with America",
-   "link": "https://www.economist.com/business/2026/10/06/china-wants-to-get-inside-your-head",
-   "section": "商业",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "A Nobel for the strangest telescope ever built",
-   "summary": "It detects ghostly particles that shed light on the distant universe",
-   "link": "https://www.economist.com/science-and-technology/2026/10/06/a-nobel-for-the-strangest-telescope-ever-built",
-   "section": "科技",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "The plague may have escaped from a lab in Siberia",
-   "summary": "Russian secrecy means it is unclear how grave the threat is",
-   "link": "https://www.economist.com/europe/2026/10/06/the-plague-may-have-escaped-from-a-lab-in-siberia",
-   "section": "欧洲",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "Vladimir Putin and the pariah problem",
-   "summary": "Emphasising the Russian leader’s wickedness must not come at Ukraine’s expense",
-   "link": "https://www.economist.com/international/2026/10/06/vladimir-putin-and-the-pariah-problem",
-   "section": "国际",
-   "date": "2026-10-06"
   }
  ]
 }
