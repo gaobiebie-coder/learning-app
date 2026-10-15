@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-14 01:13 UTC",
+ "updated": "2026-10-15 00:31 UTC",
  "articles": [
+  {
+   "title": "Hardly his finest hour",
+   "summary": "The president’s scheme to secure Russian diesel is wrong-headed and immoral",
+   "link": "https://www.economist.com/leaders/2026/10/14/hardly-his-finest-hour",
+   "section": "社论",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "The AI boom is threatened by an epidemic of unreliable numbers",
+   "summary": "Investors can no longer put their trust in data",
+   "link": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
+   "section": "商业",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Could AI help scientists with their paperwork?",
+   "summary": "Yes—but that amplifies existing problems",
+   "link": "https://www.economist.com/science-and-technology/2026/10/14/could-ai-help-scientists-with-their-paperwork",
+   "section": "科技",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "AI will make it possible to design and build organisms from scratch",
+   "summary": "Synthetic biology has arrived at last",
+   "link": "https://www.economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch",
+   "section": "科技",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "AI companies want to become frontier scientific researchers",
+   "summary": "Better AI models may be their reward",
+   "link": "https://www.economist.com/science-and-technology/2026/10/14/ai-companies-want-to-become-frontier-scientific-researchers",
+   "section": "科技",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Vivek Ramaswamy is too MAGA and not MAGA enough",
+   "summary": "A candidate once considered a rising star gets stuck in Ohio",
+   "link": "https://www.economist.com/united-states/2026/10/14/vivek-ramaswamy-is-too-maga-and-not-maga-enough",
+   "section": "美国",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Donald Trump is squeezing Ukraine’s military lifeline",
+   "summary": "To protect his Russian diesel deal, he appears to be withholding vital military intelligence",
+   "link": "https://www.economist.com/europe/2026/10/14/donald-trump-is-squeezing-ukraines-military-lifeline",
+   "section": "欧洲",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "European museums are seeing a spike in high-value art theft",
+   "summary": "Forget cat burglars. Today’s thieves smash, grab and run",
+   "link": "https://www.economist.com/europe/2026/10/14/european-museums-are-seeing-a-spike-in-high-value-art-theft",
+   "section": "欧洲",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "Can Asian governments prevent a food shock?",
+   "summary": "El Niño is hitting countries that are already dealing with an energy shock",
+   "link": "https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock",
+   "section": "亚洲",
+   "date": "2026-10-14"
+  },
+  {
+   "title": "With Elizabeth Holmes, can you ever really see everything?",
+   "summary": "A riveting new documentary, “You Can See Everything”, is Shakespearean in ambition and nuance",
+   "link": "https://www.economist.com/culture/2026/10/14/with-elizabeth-holmes-can-you-ever-really-see-everything",
+   "section": "文化",
+   "date": "2026-10-14"
+  },
   {
    "title": "Elon Musk's foundation is opaque, miserly and self-serving",
    "summary": "The world’s richest man disdains charity. His money is where his mouth is",
@@ -350,76 +420,6 @@
    "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/in-a-near-catastrophe-binyamin-netanyahu-sees-an-opportunity",
    "section": "中东与非洲",
    "date": "2026-10-08"
-  },
-  {
-   "title": "A grubby amnesty law highlights Lebanon’s sectarian divides",
-   "summary": "Thousands could walk free from prison. That will not fix a broken justice system",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/a-grubby-amnesty-law-highlights-lebanons-sectarian-divides",
-   "section": "中东与非洲",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "America’s blockade is breaking Iran’s economy",
-   "summary": "But not yet its regime",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/americas-blockade-is-breaking-irans-economy",
-   "section": "中东与非洲",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Ethiopia and Eritrea are on the brink of another conflict",
-   "summary": "As Eritrean forces advance in Tigray, all-out war with Ethiopia seems almost inevitable",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/08/ethiopia-and-eritrea-are-on-the-brink-of-another-conflict",
-   "section": "中东与非洲",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Nagging people to eat healthily does not work",
-   "summary": "Taxes, planning rules, limits on ads—anything to curb junk food",
-   "link": "https://www.economist.com/international/2026/10/08/nagging-people-to-eat-healthily-does-not-work",
-   "section": "国际",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Anne Carson wins the Nobel prize in literature",
-   "summary": "In verse, prose and translation, the Canadian writer has bent genres",
-   "link": "https://www.economist.com/culture/2026/10/08/anne-carson-wins-the-nobel-prize-in-literature",
-   "section": "文化",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Malcolm Gladwell and Harel Shapira are up in arms about guns",
-   "summary": "But can you be convinced of their views, if you are not already on their side?",
-   "link": "https://www.economist.com/culture/2026/10/08/malcolm-gladwell-and-harel-shapira-are-up-in-arms-about-guns",
-   "section": "文化",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Fancy a tour through the Middle East?",
-   "summary": "A new history of the region takes you across thousands of miles and more than a century",
-   "link": "https://www.economist.com/culture/2026/10/08/fancy-a-tour-through-the-middle-east",
-   "section": "文化",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Why your favourite bakery and coffee shop now sell tote bags",
-   "summary": "The business of merchandise is no longer a Mickey Mouse operation",
-   "link": "https://www.economist.com/culture/2026/10/08/why-your-favourite-bakery-and-coffee-shop-now-sell-tote-bags",
-   "section": "文化",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "Superstar podcasts are Silicon Valley’s way of talking to itself",
-   "summary": "But to much of the world, the sound is jarring",
-   "link": "https://www.economist.com/culture/2026/10/08/superstar-podcasts-are-silicon-valleys-way-of-talking-to-itself",
-   "section": "文化",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "OpenAI claims to have solved hundreds of long-standing maths problems",
-   "summary": "It is judgment day for mathematics",
-   "link": "https://www.economist.com/science-and-technology/2026/10/07/openai-claims-to-have-solved-hundreds-of-long-standing-maths-problems",
-   "section": "科技",
-   "date": "2026-10-07"
   }
  ]
 }
