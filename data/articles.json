@@ -1,6 +1,55 @@
 {
- "updated": "2026-10-18 00:02 UTC",
+ "updated": "2026-10-19 00:12 UTC",
  "articles": [
+  {
+   "title": "The AI industry’s gigantic debts are making investors nervous",
+   "summary": "Who will be left to pick up the bill in the event of a crash?",
+   "link": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
+   "section": "商业",
+   "date": "2026-10-18"
+  },
+  {
+   "title": "Republicans’ identity crisis in Texas",
+   "summary": "The old campaign messages aren’t working and the new ones are risky",
+   "link": "https://www.economist.com/united-states/2026/10/18/republicans-identity-crisis-in-texas",
+   "section": "美国",
+   "date": "2026-10-18"
+  },
+  {
+   "title": "Checks and Balance newsletter: Is political shame making a comeback?",
+   "summary": "Charlotte Howard, our US editor, reflects on a week of embarrassments at the White House",
+   "link": "https://www.economist.com/united-states/2026/10/18/checks-and-balance-newsletter-is-political-shame-making-a-comeback",
+   "section": "美国",
+   "date": "2026-10-18"
+  },
+  {
+   "title": "Expect violent protests to erupt in France again",
+   "summary": "No one is addressing the core problems that the country faces",
+   "link": "https://www.economist.com/europe/2026/10/18/expect-violent-protests-to-erupt-in-france-again",
+   "section": "欧洲",
+   "date": "2026-10-18"
+  },
+  {
+   "title": "As America abandons Ukraine, Europe stands alone",
+   "summary": "But Europeans cannot fully replace American support, and they face trouble at home",
+   "link": "https://www.economist.com/europe/2026/10/18/as-america-abandons-ukraine-europe-stands-alone",
+   "section": "欧洲",
+   "date": "2026-10-18"
+  },
+  {
+   "title": "Indians’ rights have been chipped away for decades",
+   "summary": "But interfering with the sanctity of elections is a step too far",
+   "link": "https://www.economist.com/asia/2026/10/18/indians-rights-have-been-chipped-away-for-decades",
+   "section": "亚洲",
+   "date": "2026-10-18"
+  },
+  {
+   "title": "Plot Twist Newsletter: Culture’s 20-year nostalgia rule",
+   "summary": "Tom Wainwright, our culture correspondent, on reliving the sights and sounds of youth",
+   "link": "https://www.economist.com/culture/2026/10/18/plot-twist-newsletter-cultures-20-year-nostalgia-rule",
+   "section": "文化",
+   "date": "2026-10-18"
+  },
   {
    "title": "Can joggers outrun injury?",
    "summary": "Patience when training goes the extra mile",
@@ -371,55 +420,6 @@
    "link": "https://www.economist.com/culture/2026/10/12/musk-reminds-you-how-much-you-already-know-about-elon",
    "section": "文化",
    "date": "2026-10-12"
-  },
-  {
-   "title": "The Jon Ossoff guide to being a Democrat",
-   "summary": "A rising star in Georgia pairs bland governing with hot rhetoric",
-   "link": "https://www.economist.com/united-states/2026/10/11/the-jon-ossoff-guide-to-being-a-democrat",
-   "section": "美国",
-   "date": "2026-10-11"
-  },
-  {
-   "title": "The limits of India’s diaspora power",
-   "summary": "As the West closes its doors, India must make staying home more attractive",
-   "link": "https://www.economist.com/asia/2026/10/11/the-limits-of-indias-diaspora-power",
-   "section": "亚洲",
-   "date": "2026-10-11"
-  },
-  {
-   "title": "Saudi Arabia is increasingly under siege",
-   "summary": "The Saudis have no good options against deadly strikes by Yemeni rebels",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/11/saudi-arabia-is-increasingly-under-siege",
-   "section": "中东与非洲",
-   "date": "2026-10-11"
-  },
-  {
-   "title": "Do you need to walk 10,000 steps a day?",
-   "summary": "How fast you walk may be as important as how much",
-   "link": "https://www.economist.com/science-and-technology/2026/10/09/do-you-need-to-walk-10000-steps-a-day",
-   "section": "科技",
-   "date": "2026-10-09"
-  },
-  {
-   "title": "Checks and Balance newsletter: Plans to livestream an execution in America",
-   "summary": "John Prideaux, our executive editor, argues that making a spectacle of a Muslim gunman’s death is a deliberate political choice",
-   "link": "https://www.economist.com/united-states/2026/10/09/checks-and-balance-newsletter-plans-to-livestream-an-execution-in-america",
-   "section": "美国",
-   "date": "2026-10-09"
-  },
-  {
-   "title": "Professional sumo wrestling comes to America",
-   "summary": "Meet the people betting Americans will swoon over Japan’s ancient pastime",
-   "link": "https://www.economist.com/united-states/2026/10/09/professional-sumo-wrestling-comes-to-america",
-   "section": "美国",
-   "date": "2026-10-09"
-  },
-  {
-   "title": "Italy’s politicians are obsessed with short skirts",
-   "summary": "A parliamentary fight over hemlines shows the battle of the sexes is still on",
-   "link": "https://www.economist.com/europe/2026/10/09/italys-politicians-are-obsessed-with-short-skirts",
-   "section": "欧洲",
-   "date": "2026-10-09"
   }
  ]
 }
