@@ -1,6 +1,55 @@
 {
- "updated": "2026-10-19 00:12 UTC",
+ "updated": "2026-10-20 01:05 UTC",
  "articles": [
+  {
+   "title": "Bartleby newsletter: Boomers, babies and bots",
+   "summary": "Andrew Palmer, our Bartleby columnist, rounds up three research papers that caught his eye",
+   "link": "https://www.economist.com/business/2026/10/19/bartleby-newsletter-boomers-babies-and-bots",
+   "section": "商业",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "America’s new era of private science",
+   "summary": "The future of innovation may be research outside universities",
+   "link": "https://www.economist.com/science-and-technology/2026/10/19/americas-new-era-of-private-science",
+   "section": "科技",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "Does China really prize AI speed over safety?",
+   "summary": "In full command of its own cyberspace, China wants the same for AI",
+   "link": "https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety",
+   "section": "中国",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "The War Room newsletter: Ukraine’s Starlink starvation is a warning",
+   "summary": "Satellite communications will underwrite future warfare, writes Alex Turner, our defence editor",
+   "link": "https://www.economist.com/europe/2026/10/19/the-war-room-newsletter-ukraines-starlink-starvation-is-a-warning",
+   "section": "欧洲",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "Everything is going wrong for Muhammad bin Salman",
+   "summary": "This is his annus horribilis",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman",
+   "section": "中东与非洲",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "Russia’s escalating information war in Africa",
+   "summary": "The Kremlin is betting it can sway public opinion on the continent",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/russias-escalating-information-war-in-africa",
+   "section": "中东与非洲",
+   "date": "2026-10-19"
+  },
+  {
+   "title": "The latest must-have movie memorabilia? Popcorn buckets",
+   "summary": "Novelty collectibles are lucrative for cinemas",
+   "link": "https://www.economist.com/culture/2026/10/19/the-latest-must-have-movie-memorabilia-popcorn-buckets",
+   "section": "文化",
+   "date": "2026-10-19"
+  },
   {
    "title": "The AI industry’s gigantic debts are making investors nervous",
    "summary": "Who will be left to pick up the bill in the event of a crash?",
@@ -30,9 +79,9 @@
    "date": "2026-10-18"
   },
   {
-   "title": "As America abandons Ukraine, Europe stands alone",
+   "title": "As America turns against Ukraine, Europe stands alone",
    "summary": "But Europeans cannot fully replace American support, and they face trouble at home",
-   "link": "https://www.economist.com/europe/2026/10/18/as-america-abandons-ukraine-europe-stands-alone",
+   "link": "https://www.economist.com/europe/2026/10/18/as-america-turns-against-ukraine-europe-stands-alone",
    "section": "欧洲",
    "date": "2026-10-18"
   },
@@ -371,55 +420,6 @@
    "link": "https://www.economist.com/international/2026/10/13/the-war-room-newsletter-the-curious-case-of-firing-squads",
    "section": "国际",
    "date": "2026-10-13"
-  },
-  {
-   "title": "What’s behind the big interest in miniatures?",
-   "summary": "Nostalgia and a desire for control are fuelling a boom in small things",
-   "link": "https://www.economist.com/culture/2026/10/13/whats-behind-the-big-interest-in-miniatures",
-   "section": "文化",
-   "date": "2026-10-13"
-  },
-  {
-   "title": "Bartleby newsletter: Tiny workplace triumphs",
-   "summary": "Andrew Palmer, our Bartleby columnist, celebrates our readers’ finest micro-achievements",
-   "link": "https://www.economist.com/business/2026/10/12/bartleby-newsletter-tiny-workplace-triumphs",
-   "section": "商业",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "AI’s transformation of mathematics is a turning point for science",
-   "summary": "Other disciplines should take heed",
-   "link": "https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science",
-   "section": "科技",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "China’s hidden levies are becoming more visible",
-   "summary": "Taxpayers now owe more. But is more owed to taxpayers?",
-   "link": "https://www.economist.com/china/2026/10/12/chinas-hidden-levies-are-becoming-more-visible",
-   "section": "中国",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "Russian men are fleeing before the army can grab them",
-   "summary": "Vladimir Putin looks poised for a huge wave of forced inductions",
-   "link": "https://www.economist.com/europe/2026/10/12/russian-men-are-fleeing-before-the-army-can-grab-them",
-   "section": "欧洲",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "Donald Trump is again threatening to cut off arms to Ukraine",
-   "summary": "His diesel deal with Russia may prove as illusory as his “energy ceasefire”",
-   "link": "https://www.economist.com/europe/2026/10/12/donald-trump-is-again-threatening-to-cut-off-arms-to-ukraine",
-   "section": "欧洲",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "“Musk” reminds you how much you already know about Elon",
-   "summary": "It is hard to make a fresh documentary on a ubiquitous subject, Alex Gibney’s gruelling film shows",
-   "link": "https://www.economist.com/culture/2026/10/12/musk-reminds-you-how-much-you-already-know-about-elon",
-   "section": "文化",
-   "date": "2026-10-12"
   }
  ]
 }
