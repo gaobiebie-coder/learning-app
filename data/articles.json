@@ -1,6 +1,55 @@
 {
- "updated": "2026-10-21 00:36 UTC",
+ "updated": "2026-10-22 00:41 UTC",
  "articles": [
+  {
+   "title": "Either AI or public debt could crash markets. But probably not both",
+   "summary": "If AI stocks collapse, bond yields will fall",
+   "link": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
+   "section": "社论",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "Is Netflix losing the plot?",
+   "summary": "The rise of YouTube has shifted the ground under the streamer’s feet",
+   "link": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
+   "section": "商业",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "How the 2010s remade business",
+   "summary": "The revolutionary decade deserves a revisionist eye",
+   "link": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
+   "section": "商业",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "The second may soon be redefined",
+   "summary": "Several atomic clocks are competing for the job",
+   "link": "https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined",
+   "section": "科技",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "Japan’s mission to Mars’s moons takes off",
+   "summary": "It will collect samples and search for signs of ancient life",
+   "link": "https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
+   "section": "科技",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "How France became ungovernable at home yet unstoppable in Brussels",
+   "summary": "The paradox of Parisian power",
+   "link": "https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels",
+   "section": "欧洲",
+   "date": "2026-10-21"
+  },
+  {
+   "title": "Are there too many art fairs?",
+   "summary": "Probably. But FOMO keeps collectors and dealers going to them",
+   "link": "https://www.economist.com/culture/2026/10/21/are-there-too-many-art-fairs",
+   "section": "文化",
+   "date": "2026-10-21"
+  },
   {
    "title": "AI-powered personal assistants could reshape the digital economy",
    "summary": "But they will first have to prove they are safe for users and helpful for businesses",
@@ -24,7 +73,7 @@
   },
   {
    "title": "Europe’s dependence on America in space is hard to escape",
-   "summary": "To reach autonomy in rockets and satellites, Europe needs more thrust",
+   "summary": "To reach autonomy in rockets and satellites, the continent needs more thrust",
    "link": "https://www.economist.com/europe/2026/10/20/europes-dependence-on-america-in-space-is-hard-to-escape",
    "section": "欧洲",
    "date": "2026-10-20"
@@ -58,9 +107,9 @@
    "date": "2026-10-20"
   },
   {
-   "title": "Donald Trump, human wrecking-ball",
-   "summary": "The world mostly loathes Trumpian foreign policy. It may not change that much",
-   "link": "https://www.economist.com/international/2026/10/20/donald-trump-human-wrecking-ball",
+   "title": "MAGA foreign policy is a mess. Democrats disagree on what comes next",
+   "summary": "Donald Trump’s yen for demolition has broken the “pendulum theory”",
+   "link": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
    "section": "国际",
    "date": "2026-10-20"
   },
@@ -370,55 +419,6 @@
    "summary": "Investors can no longer put their trust in data",
    "link": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
    "section": "商业",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Could AI help scientists with their paperwork?",
-   "summary": "Yes—but that amplifies existing problems",
-   "link": "https://www.economist.com/science-and-technology/2026/10/14/could-ai-help-scientists-with-their-paperwork",
-   "section": "科技",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "AI will make it possible to design and build organisms from scratch",
-   "summary": "Synthetic biology has arrived at last",
-   "link": "https://www.economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch",
-   "section": "科技",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "AI companies want to become frontier scientific researchers",
-   "summary": "Better AI models may be their reward",
-   "link": "https://www.economist.com/science-and-technology/2026/10/14/ai-companies-want-to-become-frontier-scientific-researchers",
-   "section": "科技",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Vivek Ramaswamy is too MAGA and not MAGA enough",
-   "summary": "A candidate once considered a rising star gets stuck in Ohio",
-   "link": "https://www.economist.com/united-states/2026/10/14/vivek-ramaswamy-is-too-maga-and-not-maga-enough",
-   "section": "美国",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Donald Trump is squeezing Ukraine’s military lifeline",
-   "summary": "To protect his Russian diesel deal, he appears to be withholding vital military intelligence",
-   "link": "https://www.economist.com/europe/2026/10/14/donald-trump-is-squeezing-ukraines-military-lifeline",
-   "section": "欧洲",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "European museums are seeing a spike in high-value art theft",
-   "summary": "Forget cat burglars. Today’s thieves smash, grab and run",
-   "link": "https://www.economist.com/europe/2026/10/14/european-museums-are-seeing-a-spike-in-high-value-art-theft",
-   "section": "欧洲",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "Can Asian governments prevent a food shock?",
-   "summary": "El Niño is hitting countries that are already dealing with an energy shock",
-   "link": "https://www.economist.com/asia/2026/10/14/can-asian-governments-prevent-a-food-shock",
-   "section": "亚洲",
    "date": "2026-10-14"
   }
  ]
