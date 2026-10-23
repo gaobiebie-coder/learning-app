@@ -1,6 +1,202 @@
 {
- "updated": "2026-10-22 00:41 UTC",
+ "updated": "2026-10-23 00:39 UTC",
  "articles": [
+  {
+   "title": "Indonesia’s populist president is losing his charm",
+   "summary": "Prabowo Subianto’s erratic policies are holding back his country",
+   "link": "https://www.economist.com/leaders/2026/10/22/indonesias-populist-president-is-losing-his-charm",
+   "section": "社论",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Saudi Arabia and the UAE are sowing chaos",
+   "summary": "Gulf powers should stop fuelling carnage in their backyard",
+   "link": "https://www.economist.com/leaders/2026/10/22/saudi-arabia-and-the-uae-are-sowing-chaos",
+   "section": "社论",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Europe must escape its reliance on American satellites",
+   "summary": "To do so it will have to drop old habits",
+   "link": "https://www.economist.com/leaders/2026/10/22/europe-must-escape-its-reliance-on-american-satellites",
+   "section": "社论",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "The agony of liberal Europe",
+   "summary": "Centrist rulers have fallen dangerously short—and are now paying the price",
+   "link": "https://www.economist.com/leaders/2026/10/22/the-agony-of-liberal-europe",
+   "section": "社论",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Emirati-Saudi rivalry is spurring bloodshed on a horrific scale",
+   "summary": "The rift is prolonging and deepening deadly wars in Sudan, Yemen and elsewhere",
+   "link": "https://www.economist.com/briefing/2026/10/22/emirati-saudi-rivalry-is-spurring-bloodshed-on-a-horrific-scale",
+   "section": "深度报道",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Multinational businesses are losing confidence in Indonesia",
+   "summary": "Its bountiful resources and vast population are attractive, but its government is a nightmare",
+   "link": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
+   "section": "商业",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "If AI displaces human workers, they will lose more than just pay",
+   "summary": "Work has value beyond the income it provides",
+   "link": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+   "section": "商业",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Is the internet still safe?",
+   "summary": "A string of cyber-security incidents has caused websites to go dark",
+   "link": "https://www.economist.com/science-and-technology/2026/10/22/is-the-internet-still-safe",
+   "section": "科技",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "China’s party elite gathers with purges and promotions in mind",
+   "summary": "Xi seeks new ways to curb corruption before a leadership shake-up",
+   "link": "https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind",
+   "section": "中国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "China wants to revive the spirit of the Long March",
+   "summary": "That means keeping in lockstep with Xi Jinping",
+   "link": "https://www.economist.com/china/2026/10/22/china-wants-to-revive-the-spirit-of-the-long-march",
+   "section": "中国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "City-hall socialists try to make populism pragmatic",
+   "summary": "Can leftist mayors be both radicals and realists?",
+   "link": "https://www.economist.com/united-states/2026/10/22/city-hall-socialists-try-to-make-populism-pragmatic",
+   "section": "美国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Donald Trump should love the new documentary about Elizabeth Holmes",
+   "summary": "But when will other Americans get tired of hearing that truth is a slippery thing?",
+   "link": "https://www.economist.com/united-states/2026/10/22/donald-trump-should-love-the-new-documentary-about-elizabeth-holmes",
+   "section": "美国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "The curious, predictable case of the fake poll",
+   "summary": "Incentives for fraudulent surveys are high and oversight lax",
+   "link": "https://www.economist.com/united-states/2026/10/22/the-curious-predictable-case-of-the-fake-poll",
+   "section": "美国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Why Gen-Z conservatives love Richard Nixon",
+   "summary": "The disgraced president’s revival highlights a generational split among conservatives",
+   "link": "https://www.economist.com/united-states/2026/10/22/why-gen-z-conservatives-love-richard-nixon",
+   "section": "美国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "How to share the wealth from AI? Alaska offers lessons",
+   "summary": "Divvying up the proceeds of a boom is harder than it looks",
+   "link": "https://www.economist.com/united-states/2026/10/22/how-to-share-the-wealth-from-ai-alaska-offers-lessons",
+   "section": "美国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "The midterms’ fundraising figures tell a surprising story",
+   "summary": "The money that matters most is flowing one way",
+   "link": "https://www.economist.com/united-states/2026/10/22/the-midterms-fundraising-figures-tell-a-surprising-story",
+   "section": "美国",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "The America-Ukraine link grows even spottier",
+   "summary": "The Starlink cut-offs were a test, and worse may follow",
+   "link": "https://www.economist.com/europe/2026/10/22/the-america-ukraine-link-grows-even-spottier",
+   "section": "欧洲",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Unruly protests have shaken Albania, Italy and beyond",
+   "summary": "Radicals are turning demos into riots—and usually hurting their causes",
+   "link": "https://www.economist.com/europe/2026/10/22/unruly-protests-have-shaken-albania-italy-and-beyond",
+   "section": "欧洲",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "America’s attack on the International Criminal Court is a headache for Japan",
+   "summary": "It’s hard to support international law when your main ally wants to destroy it",
+   "link": "https://www.economist.com/asia/2026/10/22/americas-attack-on-the-international-criminal-court-is-a-headache-for-japan",
+   "section": "亚洲",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Tackling stray dogs in Bhutan",
+   "summary": "A lively campaign in a small country shows what to do",
+   "link": "https://www.economist.com/asia/2026/10/22/tackling-stray-dogs-in-bhutan",
+   "section": "亚洲",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "India is pouring money and concrete into its border with China",
+   "summary": "Can roads and villages secure a state that China claims?",
+   "link": "https://www.economist.com/asia/2026/10/22/india-is-pouring-money-and-concrete-into-its-border-with-china",
+   "section": "亚洲",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Joseph Kabila moves against his successor in Congo",
+   "summary": "By seeking to unseat Félix Tshisekedi as president, he could upend politics",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/22/joseph-kabila-moves-against-his-successor-in-congo",
+   "section": "中东与非洲",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "A deeply divided Israel prepares to vote",
+   "summary": "Old political alliances are fraying but the outcome is still deeply uncertain",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/22/a-deeply-divided-israel-prepares-to-vote",
+   "section": "中东与非洲",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "The surprising popularity of AI",
+   "summary": "Unlike rich Westerners, many around the world feel hopeful about the technology",
+   "link": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
+   "section": "国际",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "How personal rivalries and clashes are shaping the AI race",
+   "summary": "A new book offers a rollicking tale of the people shaping Silicon Valley’s new obsession",
+   "link": "https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race",
+   "section": "文化",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Leadership lessons from Napoleon",
+   "summary": "How the French emperor’s management style ultimately led to his fall",
+   "link": "https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
+   "section": "文化",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "How Ella Langley two-stepped to the top of the charts",
+   "summary": "Country music is riding high, thanks to a new generation of stars and fans",
+   "link": "https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts",
+   "section": "文化",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "Are film critics as snooty and out of touch as people think?",
+   "summary": "We look at the data to find out",
+   "link": "https://www.economist.com/interactive/culture/2026/10/22/are-film-critics-as-snooty-and-out-of-touch-as-people-think",
+   "section": "文化",
+   "date": "2026-10-22"
+  },
   {
    "title": "Either AI or public debt could crash markets. But probably not both",
    "summary": "If AI stocks collapse, bond yields will fall",
@@ -51,9 +247,9 @@
    "date": "2026-10-21"
   },
   {
-   "title": "AI-powered personal assistants could reshape the digital economy",
+   "title": "Personal AI assistants could soon reshape the digital economy",
    "summary": "But they will first have to prove they are safe for users and helpful for businesses",
-   "link": "https://www.economist.com/business/2026/10/20/ai-powered-personal-assistants-could-reshape-the-digital-economy",
+   "link": "https://www.economist.com/business/2026/10/20/personal-ai-assistants-could-soon-reshape-the-digital-economy",
    "section": "商业",
    "date": "2026-10-20"
   },
@@ -107,9 +303,9 @@
    "date": "2026-10-20"
   },
   {
-   "title": "MAGA foreign policy is a mess. Democrats disagree on what comes next",
-   "summary": "Donald Trump’s yen for demolition has broken the “pendulum theory”",
-   "link": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
+   "title": "MAGA foreign policy is a mess",
+   "summary": "Democrats disagree on what comes next",
+   "link": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess",
    "section": "国际",
    "date": "2026-10-20"
   },
@@ -149,9 +345,9 @@
    "date": "2026-10-19"
   },
   {
-   "title": "Russia’s escalating information war in Africa",
+   "title": "Russia is escalating its information war in Africa",
    "summary": "The Kremlin is betting it can sway public opinion on the continent",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/russias-escalating-information-war-in-africa",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/russia-is-escalating-its-information-war-in-africa",
    "section": "中东与非洲",
    "date": "2026-10-19"
   },
@@ -184,9 +380,9 @@
    "date": "2026-10-18"
   },
   {
-   "title": "Expect violent protests to erupt in France again",
-   "summary": "No one is addressing the core problems that the country faces",
-   "link": "https://www.economist.com/europe/2026/10/18/expect-violent-protests-to-erupt-in-france-again",
+   "title": "France’s devastation and its aftermath",
+   "summary": "The violence will benefit the extremes",
+   "link": "https://www.economist.com/europe/2026/10/18/frances-devastation-and-its-aftermath",
    "section": "欧洲",
    "date": "2026-10-18"
   },
@@ -224,202 +420,6 @@
    "link": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
    "section": "社论",
    "date": "2026-10-15"
-  },
-  {
-   "title": "What if the machines take over science?",
-   "summary": "Artificial intelligence will require scholars to reinvent their disciplines",
-   "link": "https://www.economist.com/leaders/2026/10/15/what-if-the-machines-take-over-science",
-   "section": "社论",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Mark Carney shows middle powers how to handle a dangerous world",
-   "summary": "Canada is standing up to a bullying America",
-   "link": "https://www.economist.com/leaders/2026/10/15/mark-carney-shows-middle-powers-how-to-handle-a-dangerous-world",
-   "section": "社论",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Millennials’ success deserves a toast (not the avocado sort)",
-   "summary": "How a “lost generation” found itself",
-   "link": "https://www.economist.com/leaders/2026/10/15/millennials-success-deserves-a-toast-not-the-avocado-sort",
-   "section": "社论",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Donald Trump may save Canada",
-   "summary": "Can America’s bullying goad its northern neighbour out of its complacency?",
-   "link": "https://www.economist.com/briefing/2026/10/15/donald-trump-may-save-canada",
-   "section": "深度报道",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "When AI agents take matters into their own hands",
-   "summary": "Inside the Annapurna incident",
-   "link": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
-   "section": "商业",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "AI neolabs are raising huge sums. Most have little to show for it",
-   "summary": "Superstar researchers who branch out on their own need to start producing results",
-   "link": "https://www.economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
-   "section": "商业",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "SpaceX’s Starlink expansion is a bold gamble on the future",
-   "summary": "Elon Musk is betting that robotics will dramatically increase demand for connectivity",
-   "link": "https://www.economist.com/business/2026/10/15/spacexs-starlink-expansion-is-a-bold-gamble-on-the-future",
-   "section": "商业",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Is the semiconductor industry headed for an almighty crash?",
-   "summary": "There are reasons to believe a bust, if it comes, will be less vertiginous than the boom",
-   "link": "https://www.economist.com/business/2026/10/15/is-the-semiconductor-industry-headed-for-an-almighty-crash",
-   "section": "商业",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "China has captured the market for hobbyist 3D printers",
-   "summary": "Amid Western wariness, it is struggling to do the same with high-end machines",
-   "link": "https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers",
-   "section": "中国",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "China is channelling much more money to poor countries",
-   "summary": "It wants a greater say in organisations that hand it out",
-   "link": "https://www.economist.com/china/2026/10/15/china-is-channelling-much-more-money-to-poor-countries",
-   "section": "中国",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Republicans need to learn the Democrats’ bitter lesson of 2022",
-   "summary": "Even if they beat expectations in the midterms, their standard-bearer is an obstacle to their future",
-   "link": "https://www.economist.com/united-states/2026/10/15/republicans-need-to-learn-the-democrats-bitter-lesson-of-2022",
-   "section": "美国",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Donald Trump turns to Vladimir Putin for relief at the pump",
-   "summary": "But Russian diesel is unlikely to solve the president’s political problems",
-   "link": "https://www.economist.com/united-states/2026/10/15/donald-trump-turns-to-vladimir-putin-for-relief-at-the-pump",
-   "section": "美国",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "The impact of data-centre discontent",
-   "summary": "Democrats are capitalising on voters’ anxiety",
-   "link": "https://www.economist.com/united-states/2026/10/15/the-impact-of-data-centre-discontent",
-   "section": "美国",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Europe has lots of pleasant cities but too few that matter",
-   "summary": "A tale of too many cities",
-   "link": "https://www.economist.com/europe/2026/10/15/europe-has-lots-of-pleasant-cities-but-too-few-that-matter",
-   "section": "欧洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Portugal has limited immigration, and Spain may follow",
-   "summary": "The wave of immigrants in both countries looks politically unsustainable",
-   "link": "https://www.economist.com/europe/2026/10/15/portugal-has-limited-immigration-and-spain-may-follow",
-   "section": "欧洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Alice Weidel would pull the plug on German support for Ukraine",
-   "summary": "The populist-right politician says Ukraine has “already lost” against Russia and should sue for peace",
-   "link": "https://www.economist.com/europe/2026/10/15/alice-weidel-would-pull-the-plug-on-german-support-for-ukraine",
-   "section": "欧洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Two Japanese towns offer lessons for shrinking countries",
-   "summary": "Only some places can hope to grow; others must learn to manage decline",
-   "link": "https://www.economist.com/asia/2026/10/15/two-japanese-towns-offer-lessons-for-shrinking-countries",
-   "section": "亚洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Myanmar’s dictator tries diplomacy",
-   "summary": "He has a few cards to play",
-   "link": "https://www.economist.com/asia/2026/10/15/myanmars-dictator-tries-diplomacy",
-   "section": "亚洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "How to make African exports ethical again",
-   "summary": "The continent must reckon with a punishing green squeeze",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/how-to-make-african-exports-ethical-again",
-   "section": "中东与非洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Gen-Z Kenyans could determine William Ruto’s future",
-   "summary": "Young activists hope to deny the unpopular president a second term next year",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/gen-z-kenyans-could-determine-william-rutos-future",
-   "section": "中东与非洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "The expat voters who could help unseat Netanyahu",
-   "summary": "Large numbers of Israelis abroad are flying home to vote, many with an axe to grind",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/the-expat-voters-who-could-help-unseat-netanyahu",
-   "section": "中东与非洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Israel’s Arab parties could be the kingmakers in its election",
-   "summary": "They are eager to change the government",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/15/israels-arab-parties-could-be-the-kingmakers-in-its-election",
-   "section": "中东与非洲",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "How to survive a predatory world order",
-   "summary": "Middle powers face a new threat: Trump-Putin-Xi collusion",
-   "link": "https://www.economist.com/international/2026/10/15/how-to-survive-a-predatory-world-order",
-   "section": "国际",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "What to watch this week",
-   "summary": "The most captivating new documentaries",
-   "link": "https://www.economist.com/culture/2026/10/15/what-to-watch-this-week",
-   "section": "文化",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "How erectile dysfunction led a KGB spy into the arms of MI6",
-   "summary": "In “Redwood” Ben Macintyre shows how personal struggles help recruit informants",
-   "link": "https://www.economist.com/culture/2026/10/15/how-erectile-dysfunction-led-a-kgb-spy-into-the-arms-of-mi6",
-   "section": "文化",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Squeeze into those skinny jeans: millennial culture is back",
-   "summary": "A tech-powered 2000s revival represents the biggest nostalgia boom yet",
-   "link": "https://www.economist.com/culture/2026/10/15/squeeze-into-those-skinny-jeans-millennial-culture-is-back",
-   "section": "文化",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "Hardly his finest hour",
-   "summary": "Donald Trump’s scheme to secure Russian diesel is scandalous",
-   "link": "https://www.economist.com/leaders/2026/10/14/hardly-his-finest-hour",
-   "section": "社论",
-   "date": "2026-10-14"
-  },
-  {
-   "title": "The AI boom is threatened by an epidemic of unreliable numbers",
-   "summary": "Investors can no longer put their trust in data",
-   "link": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
-   "section": "商业",
-   "date": "2026-10-14"
   }
  ]
 }
