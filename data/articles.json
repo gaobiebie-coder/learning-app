@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-23 00:39 UTC",
+ "updated": "2026-10-24 00:41 UTC",
  "articles": [
+  {
+   "title": "Are some protein powders better than others?",
+   "summary": "Pure whey is the way to go",
+   "link": "https://www.economist.com/science-and-technology/2026/10/23/are-some-protein-powders-better-than-others",
+   "section": "科技",
+   "date": "2026-10-23"
+  },
+  {
+   "title": "What to watch this week",
+   "summary": "Three things that are wonderfully weird—and one that is just plain odd",
+   "link": "https://www.economist.com/culture/2026/10/23/what-to-watch-this-week",
+   "section": "文化",
+   "date": "2026-10-23"
+  },
   {
    "title": "Indonesia’s populist president is losing his charm",
    "summary": "Prabowo Subianto’s erratic policies are holding back his country",
@@ -406,20 +420,6 @@
    "link": "https://www.economist.com/culture/2026/10/18/plot-twist-newsletter-cultures-20-year-nostalgia-rule",
    "section": "文化",
    "date": "2026-10-18"
-  },
-  {
-   "title": "Can joggers outrun injury?",
-   "summary": "Patience when training goes the extra mile",
-   "link": "https://www.economist.com/science-and-technology/2026/10/16/can-joggers-outrun-injury",
-   "section": "科技",
-   "date": "2026-10-16"
-  },
-  {
-   "title": "America makes waves in Cuba",
-   "summary": "But it shouldn’t undermine the growth of the island’s private sector",
-   "link": "https://www.economist.com/leaders/2026/10/15/america-makes-waves-in-cuba",
-   "section": "社论",
-   "date": "2026-10-15"
   }
  ]
 }
