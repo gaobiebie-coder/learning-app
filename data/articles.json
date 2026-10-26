@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-25 00:20 UTC",
+ "updated": "2026-10-26 00:22 UTC",
  "articles": [
+  {
+   "title": "China increasingly depends on copying American AI",
+   "summary": "Model distillation infuriates America, but may end up holding China back",
+   "link": "https://www.economist.com/science-and-technology/2026/10/25/china-increasingly-depends-on-copying-american-ai",
+   "section": "科技",
+   "date": "2026-10-25"
+  },
+  {
+   "title": "The winners and losers of Trumponomics",
+   "summary": "The president promised to help ordinary Americans. He achieved something rather different",
+   "link": "https://www.economist.com/united-states/2026/10/25/the-winners-and-losers-of-trumponomics",
+   "section": "美国",
+   "date": "2026-10-25"
+  },
+  {
+   "title": "India has stabilised its currency. But at what cost?",
+   "summary": "The central bank is using ever harsher measures to keep the rupee below 100 to the dollar",
+   "link": "https://www.economist.com/asia/2026/10/25/india-has-stabilised-its-currency-but-at-what-cost",
+   "section": "亚洲",
+   "date": "2026-10-25"
+  },
+  {
+   "title": "Politics, not strategy, could mean more Israeli strikes on Iran",
+   "summary": "Elections in Israel and America are driving their leaders’ thinking",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/25/politics-not-strategy-could-mean-more-israeli-strikes-on-iran",
+   "section": "中东与非洲",
+   "date": "2026-10-25"
+  },
   {
    "title": "AI models may not be so opaque after all",
    "summary": "A glimmer of hope for those worried about AI safety",
@@ -87,7 +115,7 @@
   },
   {
    "title": "China’s party elite gathers with purges and promotions in mind",
-   "summary": "Xi seeks new ways to curb corruption before a leadership shake-up",
+   "summary": "Xi Jinping seeks new ways to curb corruption before a leadership shake-up",
    "link": "https://www.economist.com/china/2026/10/22/chinas-party-elite-gathers-with-purges-and-promotions-in-mind",
    "section": "中国",
    "date": "2026-10-22"
@@ -391,34 +419,6 @@
    "summary": "Who will be left to pick up the bill in the event of a crash?",
    "link": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
    "section": "商业",
-   "date": "2026-10-18"
-  },
-  {
-   "title": "Republicans’ identity crisis in Texas",
-   "summary": "The old campaign messages aren’t working and the new ones are risky",
-   "link": "https://www.economist.com/united-states/2026/10/18/republicans-identity-crisis-in-texas",
-   "section": "美国",
-   "date": "2026-10-18"
-  },
-  {
-   "title": "Checks and Balance newsletter: Is political shame making a comeback?",
-   "summary": "Charlotte Howard, our US editor, reflects on a week of embarrassments at the White House",
-   "link": "https://www.economist.com/united-states/2026/10/18/checks-and-balance-newsletter-is-political-shame-making-a-comeback",
-   "section": "美国",
-   "date": "2026-10-18"
-  },
-  {
-   "title": "France’s devastation and its aftermath",
-   "summary": "The violence will benefit the extremes",
-   "link": "https://www.economist.com/europe/2026/10/18/frances-devastation-and-its-aftermath",
-   "section": "欧洲",
-   "date": "2026-10-18"
-  },
-  {
-   "title": "As America turns against Ukraine, Europe stands alone",
-   "summary": "But Europeans cannot fully replace American support, and they face trouble at home",
-   "link": "https://www.economist.com/europe/2026/10/18/as-america-turns-against-ukraine-europe-stands-alone",
-   "section": "欧洲",
    "date": "2026-10-18"
   }
  ]
