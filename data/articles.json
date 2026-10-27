@@ -1,6 +1,76 @@
 {
- "updated": "2026-10-26 00:22 UTC",
+ "updated": "2026-10-27 01:28 UTC",
  "articles": [
+  {
+   "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
+   "summary": "The pressure is on Brazil’s re-elected president to avoid an economic slump",
+   "link": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
+   "section": "社论",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Don’t expect supersize profits from Anthropic any time soon",
+   "summary": "Lurking in its IPO prospectus are warnings of challenges ahead",
+   "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
+   "section": "商业",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Bartleby newsletter: In praise of praise",
+   "summary": "Andrew Palmer, our Bartleby columnist, thinks you did a great job today",
+   "link": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
+   "section": "商业",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Treatments for age-related infertility are being developed at last",
+   "summary": "Startups hope to improve IVF by revealing the biology of infertility",
+   "link": "https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
+   "section": "科技",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "China’s most successful Astroturf operation: grassroots football",
+   "summary": "Provincial leagues spur spending and a hometown renaissance",
+   "link": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
+   "section": "中国",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "The Economist is hiring a Video Editor",
+   "summary": "Join our editorial video department in New York",
+   "link": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
+   "section": "美国",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students",
+   "summary": "A leaderless protest movement hopes to turn the country into a true democracy",
+   "link": "https://www.economist.com/europe/2026/10/26/aleksandar-vucic-serbias-autocrat-loses-to-a-bunch-of-students",
+   "section": "欧洲",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Opinion newsletter: Why Indonesia is stuck at a roundabout",
+   "summary": "Simon Long, our editor-at-large, says that many of today’s problems are the same as those he wrote about two decades ago",
+   "link": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
+   "section": "亚洲",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "Russia has seized a Japanese journalist, freezing an icy relationship",
+   "summary": "Vladimir Putin could be angling for a prisoner swap",
+   "link": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship",
+   "section": "亚洲",
+   "date": "2026-10-26"
+  },
+  {
+   "title": "The Climate Issue newsletter: How slow can you go?",
+   "summary": "Oliver Morton, our planetary-affairs editor, laments the speed at which the IPCC delivers vital climatic stocktakes",
+   "link": "https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
+   "section": "国际",
+   "date": "2026-10-26"
+  },
   {
    "title": "China increasingly depends on copying American AI",
    "summary": "Model distillation infuriates America, but may end up holding China back",
@@ -350,76 +420,6 @@
    "link": "https://www.economist.com/middle-east-and-africa/2026/10/20/middle-east-dispatch-newsletter-why-lebanon-is-in-limbo",
    "section": "中东与非洲",
    "date": "2026-10-20"
-  },
-  {
-   "title": "Analysing Africa newsletter: Joseph Kabila’s gamble in eastern Congo",
-   "summary": "John McDermott, our chief Africa correspondent, explains why the former president is backing the M23 armed group",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/20/analysing-africa-newsletter-joseph-kabilas-gamble-in-eastern-congo",
-   "section": "中东与非洲",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "MAGA foreign policy is a mess. Democrats disagree on what comes next",
-   "summary": "Donald Trump’s yen for demolition has broken the “pendulum theory”",
-   "link": "https://www.economist.com/international/2026/10/20/maga-foreign-policy-is-a-mess-democrats-disagree-on-what-comes-next",
-   "section": "国际",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "Bartleby newsletter: Boomers, babies and bots",
-   "summary": "Andrew Palmer, our Bartleby columnist, rounds up three research papers that caught his eye",
-   "link": "https://www.economist.com/business/2026/10/19/bartleby-newsletter-boomers-babies-and-bots",
-   "section": "商业",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "America’s new era of private science",
-   "summary": "The future of innovation may be research outside universities",
-   "link": "https://www.economist.com/science-and-technology/2026/10/19/americas-new-era-of-private-science",
-   "section": "科技",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Does China really prize AI speed over safety?",
-   "summary": "In full command of its own cyberspace, China wants the same for AI",
-   "link": "https://www.economist.com/china/2026/10/19/does-china-really-prize-ai-speed-over-safety",
-   "section": "中国",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "The War Room newsletter: Ukraine’s Starlink starvation is a warning",
-   "summary": "Satellite communications will underwrite future warfare, writes Alex Turner, our defence editor",
-   "link": "https://www.economist.com/europe/2026/10/19/the-war-room-newsletter-ukraines-starlink-starvation-is-a-warning",
-   "section": "欧洲",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Everything is going wrong for Muhammad bin Salman",
-   "summary": "This is his annus horribilis",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman",
-   "section": "中东与非洲",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "Russia is escalating its information war in Africa",
-   "summary": "The Kremlin is betting it can sway public opinion on the continent",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/19/russia-is-escalating-its-information-war-in-africa",
-   "section": "中东与非洲",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "The latest must-have movie memorabilia? Popcorn buckets",
-   "summary": "Novelty collectibles are lucrative for cinemas",
-   "link": "https://www.economist.com/culture/2026/10/19/the-latest-must-have-movie-memorabilia-popcorn-buckets",
-   "section": "文化",
-   "date": "2026-10-19"
-  },
-  {
-   "title": "The AI industry’s gigantic debts are making investors nervous",
-   "summary": "Who will be left to pick up the bill in the event of a crash?",
-   "link": "https://www.economist.com/business/2026/10/18/the-ai-industrys-gigantic-debts-are-making-investors-nervous",
-   "section": "商业",
-   "date": "2026-10-18"
   }
  ]
 }
