@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-27 01:28 UTC",
+ "updated": "2026-10-28 01:20 UTC",
  "articles": [
+  {
+   "title": "Israeli voters have given Binyamin Netanyahu’s coalition a drubbing",
+   "summary": "His opponents will, nonetheless, probably struggle to form a government",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing",
+   "section": "中东与非洲",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "After its Odyssey, IMAX hits the big time",
+   "summary": "Its popularity reflects a shift in how audiences think about cinemas",
+   "link": "https://www.economist.com/business/2026/10/27/after-its-odyssey-imax-hits-the-big-time",
+   "section": "商业",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "American bosses are desperately trying to de-MAGAfy",
+   "summary": "Ahead of the midterms, corporations want to win back favour with the Democrats",
+   "link": "https://www.economist.com/business/2026/10/27/american-bosses-are-desperately-trying-to-de-magafy",
+   "section": "商业",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Kim Jong Un’s curious visit to China",
+   "summary": "North Korea’s dictator rebuilds ties with an old friend",
+   "link": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
+   "section": "中国",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "The War Room newsletter: The hot politics of missile-warning systems",
+   "summary": "Alex Turner, our defence editor, analyses whether America intentionally withheld intelligence from Ukraine",
+   "link": "https://www.economist.com/europe/2026/10/27/the-war-room-newsletter-the-hot-politics-of-missile-warning-systems",
+   "section": "欧洲",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Wanted: a researcher/news assistant in Tokyo",
+   "summary": "Work with the East Asia bureau of The Economist",
+   "link": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
+   "section": "亚洲",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Middle East Dispatch newsletter: Election day in Israel",
+   "summary": "Anshel Pfeffer, our Israel correspondent, on the mood across the country as people vote",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/27/middle-east-dispatch-newsletter-election-day-in-israel",
+   "section": "中东与非洲",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Donald Trump may love the Middle East to death",
+   "summary": "The folly of wanting a Middle East run by nationalist strongmen and made rich by global commerce",
+   "link": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
+   "section": "国际",
+   "date": "2026-10-27"
+  },
+  {
+   "title": "Once the heroes, ambitious outsiders have become TV villains",
+   "summary": "Call it the era of the talentless Mr Ripleys",
+   "link": "https://www.economist.com/culture/2026/10/27/once-the-heroes-ambitious-outsiders-have-become-tv-villains",
+   "section": "文化",
+   "date": "2026-10-27"
+  },
   {
    "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
    "summary": "The pressure is on Brazil’s re-elected president to avoid an economic slump",
@@ -9,9 +72,9 @@
    "date": "2026-10-26"
   },
   {
-   "title": "Don’t expect supersize profits from Anthropic any time soon",
+   "title": "Don’t expect supersize profits from Anthropic soon",
    "summary": "Lurking in its IPO prospectus are warnings of challenges ahead",
-   "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
+   "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
    "section": "商业",
    "date": "2026-10-26"
   },
@@ -357,69 +420,6 @@
    "link": "https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
    "section": "科技",
    "date": "2026-10-21"
-  },
-  {
-   "title": "How France became ungovernable at home yet unstoppable in Brussels",
-   "summary": "The paradox of Parisian power",
-   "link": "https://www.economist.com/europe/2026/10/21/how-france-became-ungovernable-at-home-yet-unstoppable-in-brussels",
-   "section": "欧洲",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Are there too many art fairs?",
-   "summary": "Probably. But FOMO keeps collectors and dealers going to them",
-   "link": "https://www.economist.com/culture/2026/10/21/are-there-too-many-art-fairs",
-   "section": "文化",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Personal AI assistants could soon reshape the digital economy",
-   "summary": "But they will first have to prove they are safe for users and helpful for businesses",
-   "link": "https://www.economist.com/business/2026/10/20/personal-ai-assistants-could-soon-reshape-the-digital-economy",
-   "section": "商业",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "China’s universities are rich. But they're getting squeezed",
-   "summary": "Researchers can’t escape a bleak economy",
-   "link": "https://www.economist.com/china/2026/10/20/chinas-universities-are-rich-but-theyre-getting-squeezed",
-   "section": "中国",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "Germany’s young conservatives are angry with their own party",
-   "summary": "Members are disappointed with Friedrich Merz, but pleased with themselves",
-   "link": "https://www.economist.com/europe/2026/10/20/germanys-young-conservatives-are-angry-with-their-own-party",
-   "section": "欧洲",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "Europe’s dependence on America in space is hard to escape",
-   "summary": "To reach autonomy in rockets and satellites, the continent needs more thrust",
-   "link": "https://www.economist.com/europe/2026/10/20/europes-dependence-on-america-in-space-is-hard-to-escape",
-   "section": "欧洲",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "Indonesia’s experiment with populism is wavering",
-   "summary": "How will Prabowo Subianto respond to crashing approval ratings?",
-   "link": "https://www.economist.com/asia/2026/10/20/indonesias-experiment-with-populism-is-wavering",
-   "section": "亚洲",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "Asia Bulletin newsletter: Russia’s Japanese hostage",
-   "summary": "Noah Sneider, our East Asia bureau chief, asks what Russia hopes to gain by arresting a Japanese journalist",
-   "link": "https://www.economist.com/asia/2026/10/20/asia-bulletin-newsletter-russias-japanese-hostage",
-   "section": "亚洲",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "Middle East Dispatch newsletter: Why Lebanon is in limbo",
-   "summary": "Fraser McIlwraith, our foreign correspondent, explains why talks between Israel and Lebanon are unlikely to yield productive results",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/20/middle-east-dispatch-newsletter-why-lebanon-is-in-limbo",
-   "section": "中东与非洲",
-   "date": "2026-10-20"
   }
  ]
 }
