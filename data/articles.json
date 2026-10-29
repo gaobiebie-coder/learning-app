@@ -1,11 +1,74 @@
 {
- "updated": "2026-10-28 01:20 UTC",
+ "updated": "2026-10-29 01:47 UTC",
  "articles": [
   {
-   "title": "Israeli voters have given Binyamin Netanyahu’s coalition a drubbing",
-   "summary": "His opponents will, nonetheless, probably struggle to form a government",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/israeli-voters-have-given-binyamin-netanyahus-coalition-a-drubbing",
+   "title": "Israel’s Jewish and Arab opposition parties should work together",
+   "summary": "If they want to dislodge Binyamin Netanyahu from office, they need to act fast",
+   "link": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
+   "section": "社论",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Weil’s collapse and the death of corporate loyalty",
+   "summary": "Superstar talent is alluring. It is also dangerous",
+   "link": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
+   "section": "商业",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "India’s ultra-cheap internet is about to get more expensive",
+   "summary": "Blame Jio, the country’s telecoms disrupter, going public",
+   "link": "https://www.economist.com/business/2026/10/28/indias-ultra-cheap-internet-is-about-to-get-more-expensive",
+   "section": "商业",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Why dogs catch yawns from their owners but not other dogs",
+   "summary": "Studies of wolves suggest the effect may be a result of domestication",
+   "link": "https://www.economist.com/science-and-technology/2026/10/28/why-dogs-catch-yawns-from-their-owners-but-not-other-dogs",
+   "section": "科技",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Our forecast of the midterms’ outcome",
+   "summary": "The auguries are good for Democrats",
+   "link": "https://www.economist.com/united-states/2026/10/28/our-forecast-of-the-midterms-outcome",
+   "section": "美国",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Another deadly train crash puts Spanish infrastructure in question",
+   "summary": "It is the second collision on the same line this year",
+   "link": "https://www.economist.com/europe/2026/10/28/another-deadly-train-crash-puts-spanish-infrastructure-in-question",
+   "section": "欧洲",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "South Africa’s “white party” looks for more black votes",
+   "summary": "Local elections will highlight the ANC’s steep decline and the role of race in politics",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/south-africas-white-party-looks-for-more-black-votes",
    "section": "中东与非洲",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Analysing Africa newsletter: A clash of civilisations in the Horn",
+   "summary": "Tom Gardner, our Africa correspondent, explains how “civilisational thinking” shapes conflicts in the region",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/analysing-africa-newsletter-a-clash-of-civilisations-in-the-horn",
+   "section": "中东与非洲",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Israel’s voters deny Binyamin Netanyahu a majority",
+   "summary": "His opponents will, nonetheless, probably struggle to form a government",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/10/28/israels-voters-deny-binyamin-netanyahu-a-majority",
+   "section": "中东与非洲",
+   "date": "2026-10-28"
+  },
+  {
+   "title": "Plot Twist newsletter: A special 200th edition",
+   "summary": "Rachel Lloyd our deputy culture editor, reflects on the history of newsletters",
+   "link": "https://www.economist.com/culture/2026/10/28/plot-twist-newsletter-a-special-200th-edition",
+   "section": "文化",
    "date": "2026-10-28"
   },
   {
@@ -357,69 +420,6 @@
    "link": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
    "section": "国际",
    "date": "2026-10-22"
-  },
-  {
-   "title": "How personal rivalries and clashes are shaping the AI race",
-   "summary": "A new book offers a rollicking tale of the people shaping Silicon Valley’s new obsession",
-   "link": "https://www.economist.com/culture/2026/10/22/how-personal-rivalries-and-clashes-are-shaping-the-ai-race",
-   "section": "文化",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "Leadership lessons from Napoleon",
-   "summary": "How the French emperor’s management style ultimately led to his fall",
-   "link": "https://www.economist.com/culture/2026/10/22/leadership-lessons-from-napoleon",
-   "section": "文化",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "How Ella Langley two-stepped to the top of the charts",
-   "summary": "Country music is riding high, thanks to a new generation of stars and fans",
-   "link": "https://www.economist.com/culture/2026/10/22/how-ella-langley-two-stepped-to-the-top-of-the-charts",
-   "section": "文化",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "Are film critics as snooty and out of touch as people think?",
-   "summary": "We look at the data to find out",
-   "link": "https://www.economist.com/interactive/culture/2026/10/22/are-film-critics-as-snooty-and-out-of-touch-as-people-think",
-   "section": "文化",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "Either AI or public debt could crash markets. But probably not both",
-   "summary": "If AI stocks collapse, bond yields will fall",
-   "link": "https://www.economist.com/leaders/2026/10/21/either-ai-or-public-debt-could-crash-markets-but-probably-not-both",
-   "section": "社论",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Is Netflix losing the plot?",
-   "summary": "The rise of YouTube has shifted the ground under the streamer’s feet",
-   "link": "https://www.economist.com/business/2026/10/21/is-netflix-losing-the-plot",
-   "section": "商业",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "How the 2010s remade business",
-   "summary": "The revolutionary decade deserves a revisionist eye",
-   "link": "https://www.economist.com/business/2026/10/21/how-the-2010s-remade-business",
-   "section": "商业",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "The second may soon be redefined",
-   "summary": "Several atomic clocks are competing for the job",
-   "link": "https://www.economist.com/science-and-technology/2026/10/21/the-second-may-soon-be-redefined",
-   "section": "科技",
-   "date": "2026-10-21"
-  },
-  {
-   "title": "Japan’s mission to Mars’s moons takes off",
-   "summary": "It will collect samples and search for signs of ancient life",
-   "link": "https://www.economist.com/science-and-technology/2026/10/21/japans-mission-to-marss-moons-takes-off",
-   "section": "科技",
-   "date": "2026-10-21"
   }
  ]
 }
