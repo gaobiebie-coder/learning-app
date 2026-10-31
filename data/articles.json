@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-30 01:57 UTC",
+ "updated": "2026-10-31 01:35 UTC",
  "articles": [
+  {
+   "title": "Is brown rice really healthier than white rice?",
+   "summary": "The scientific evidence goes against the grain",
+   "link": "https://www.economist.com/science-and-technology/2026/10/30/is-brown-rice-really-healthier-than-white-rice",
+   "section": "科技",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "The War Room newsletter: The best warplanes in history",
+   "summary": "Richard Cockett, a senior editor, straps in to examine the greatest aircraft of all time",
+   "link": "https://www.economist.com/international/2026/10/30/the-war-room-newsletter-the-best-warplanes-in-history",
+   "section": "国际",
+   "date": "2026-10-30"
+  },
   {
    "title": "Let China copy American AI",
    "summary": "Distillation annoys Anthropic and OpenAI. That is not reason enough to ban it",
@@ -405,20 +419,6 @@
    "summary": "Simon Long, our editor-at-large, says that many of today’s problems are the same as those he wrote about two decades ago",
    "link": "https://www.economist.com/asia/2026/10/26/opinion-newsletter-why-indonesia-is-stuck-at-a-roundabout",
    "section": "亚洲",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "Russia has seized a Japanese journalist",
-   "summary": "Vladimir Putin may be preparing for a prisoner exchange. Pressuring Japan also pleases China",
-   "link": "https://www.economist.com/asia/2026/10/26/russia-has-seized-a-japanese-journalist",
-   "section": "亚洲",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "The Climate Issue newsletter: How slow can you go?",
-   "summary": "Oliver Morton, our planetary-affairs editor, laments the speed at which the IPCC delivers vital climatic stocktakes",
-   "link": "https://www.economist.com/international/2026/10/26/the-climate-issue-newsletter-how-slow-can-you-go",
-   "section": "国际",
    "date": "2026-10-26"
   }
  ]
