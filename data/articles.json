@@ -1,6 +1,55 @@
 {
- "updated": "2026-11-01 01:08 UTC",
+ "updated": "2026-11-02 01:29 UTC",
  "articles": [
+  {
+   "title": "Hackers are running riot with AI. Its makers want to cash in",
+   "summary": "OpenAI and Anthropic spy a big opportunity in cyber-security",
+   "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+   "section": "商业",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "Hit podcasts reveal the angst of China’s youth",
+   "summary": "The government is getting twitchy about their growing popularity",
+   "link": "https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
+   "section": "中国",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "An unfolding disaster in Alaska could cost Democrats the Senate",
+   "summary": "The state has become the epicentre of election chicanery",
+   "link": "https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate",
+   "section": "美国",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "AI is disrupting the art of campaigning",
+   "summary": "Candidates are using the technology to crunch data—and carry out dirty tricks",
+   "link": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
+   "section": "美国",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "Poland’s fight over its constitutional court gets physical",
+   "summary": "Donald Tusk has deployed riot police to get his judges seated",
+   "link": "https://www.economist.com/europe/2026/11/01/polands-fight-over-its-constitutional-court-gets-physical",
+   "section": "欧洲",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "Cheap data is great for Indians but not for India’s reputation",
+   "summary": "The internet brings out the worst in everyone",
+   "link": "https://www.economist.com/asia/2026/11/01/cheap-data-is-great-for-indians-but-not-for-indias-reputation",
+   "section": "亚洲",
+   "date": "2026-11-01"
+  },
+  {
+   "title": "How the Houthis built their war machine",
+   "summary": "The rebels in Yemen are outgrowing their dependence on their patron",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/01/how-the-houthis-built-their-war-machine",
+   "section": "中东与非洲",
+   "date": "2026-11-01"
+  },
   {
    "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
    "summary": "Charlotte Howard, our US editor, on what to watch in the final days before the midterms",
@@ -371,55 +420,6 @@
    "link": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
    "section": "国际",
    "date": "2026-10-27"
-  },
-  {
-   "title": "Once the heroes, ambitious outsiders have become TV villains",
-   "summary": "Call it the era of the talentless Mr Ripleys",
-   "link": "https://www.economist.com/culture/2026/10/27/once-the-heroes-ambitious-outsiders-have-become-tv-villains",
-   "section": "文化",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "Markets are dismayed by Lula’s surprise win—and for good reason",
-   "summary": "The pressure is on Brazil’s re-elected president to avoid an economic slump",
-   "link": "https://www.economist.com/leaders/2026/10/26/markets-are-dismayed-by-lulas-surprise-win-and-for-good-reason",
-   "section": "社论",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "Don’t expect supersize profits from Anthropic soon",
-   "summary": "Lurking in its IPO prospectus are warnings of challenges ahead",
-   "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
-   "section": "商业",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "Bartleby newsletter: In praise of praise",
-   "summary": "Andrew Palmer, our Bartleby columnist, thinks you did a great job today",
-   "link": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
-   "section": "商业",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "Treatments for age-related infertility are being developed at last",
-   "summary": "Startups hope to improve IVF by revealing the biology of infertility",
-   "link": "https://www.economist.com/science-and-technology/2026/10/26/treatments-for-age-related-infertility-are-being-developed-at-last",
-   "section": "科技",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "China’s most successful Astroturf operation: grassroots football",
-   "summary": "Provincial leagues spur spending and a hometown renaissance",
-   "link": "https://www.economist.com/china/2026/10/26/chinas-most-successful-astroturf-operation-grassroots-football",
-   "section": "中国",
-   "date": "2026-10-26"
-  },
-  {
-   "title": "The Economist is hiring a Video Editor",
-   "summary": "Join our editorial video department in New York",
-   "link": "https://www.economist.com/united-states/2026/10/26/the-economist-is-hiring-a-video-editor",
-   "section": "美国",
-   "date": "2026-10-26"
   }
  ]
 }
