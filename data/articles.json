@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-02 01:29 UTC",
+ "updated": "2026-11-03 03:27 UTC",
  "articles": [
+  {
+   "title": "The quest for immortality has become serious business",
+   "summary": "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing",
+   "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+   "section": "商业",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "A new path to political power in China runs through state firms",
+   "summary": "China Inc has become a breeding ground for up-and-coming officials",
+   "link": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
+   "section": "中国",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "As voters head to the polls, Democrats bet that discontent will power their victory",
+   "summary": "Our latest forecast of the midterms’ outcome",
+   "link": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
+   "section": "美国",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "France’s unhappy countryside turns to the populist right",
+   "summary": "In long-suffering villages, Marine Le Pen has come to stand for hope",
+   "link": "https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right",
+   "section": "欧洲",
+   "date": "2026-11-02"
+  },
+  {
+   "title": "The fight for the soul of the Australian right",
+   "summary": "Can a special-forces veteran stop the rise of Pauline Hanson?",
+   "link": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
+   "section": "亚洲",
+   "date": "2026-11-02"
+  },
   {
    "title": "Hackers are running riot with AI. Its makers want to cash in",
    "summary": "OpenAI and Anthropic spy a big opportunity in cyber-security",
@@ -16,9 +51,9 @@
    "date": "2026-11-01"
   },
   {
-   "title": "An unfolding disaster in Alaska could cost Democrats the Senate",
-   "summary": "The state has become the epicentre of election chicanery",
-   "link": "https://www.economist.com/united-states/2026/11/01/an-unfolding-disaster-in-alaska-could-cost-democrats-the-senate",
+   "title": "Forget Michigan. A disaster in Alaska could cost Democrats the Senate",
+   "summary": "The northernmost state has become the epicentre of election chicanery",
+   "link": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
    "section": "美国",
    "date": "2026-11-01"
   },
@@ -384,41 +419,6 @@
    "summary": "Ahead of the midterms, corporations want to win back favour with the Democrats",
    "link": "https://www.economist.com/business/2026/10/27/american-bosses-are-desperately-trying-to-de-magafy",
    "section": "商业",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "Kim Jong Un’s curious visit to China",
-   "summary": "North Korea’s dictator rebuilds ties with an old friend",
-   "link": "https://www.economist.com/china/2026/10/27/kim-jong-uns-curious-visit-to-china",
-   "section": "中国",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "The War Room newsletter: The hot politics of missile-warning systems",
-   "summary": "Alex Turner, our defence editor, analyses whether America intentionally withheld intelligence from Ukraine",
-   "link": "https://www.economist.com/europe/2026/10/27/the-war-room-newsletter-the-hot-politics-of-missile-warning-systems",
-   "section": "欧洲",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "Wanted: a researcher/news assistant in Tokyo",
-   "summary": "Work with the East Asia bureau of The Economist",
-   "link": "https://www.economist.com/asia/2026/10/27/wanted-a-researchernews-assistant-in-tokyo",
-   "section": "亚洲",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "Middle East Dispatch newsletter: Election day in Israel",
-   "summary": "Anshel Pfeffer, our Israel correspondent, on the mood across the country as people vote",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/27/middle-east-dispatch-newsletter-election-day-in-israel",
-   "section": "中东与非洲",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "Donald Trump may love the Middle East to death",
-   "summary": "The folly of wanting a Middle East run by nationalist strongmen and made rich by global commerce",
-   "link": "https://www.economist.com/international/2026/10/27/donald-trump-may-love-the-middle-east-to-death",
-   "section": "国际",
    "date": "2026-10-27"
   }
  ]
