@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-04 02:19 UTC",
+ "updated": "2026-11-05 02:27 UTC",
  "articles": [
+  {
+   "title": "Bartleby newsletter: The case for scientific methods of decision-making",
+   "summary": "Andrew Palmer, our Bartleby columnist, explains why too many corporate leaders rely on gut instinct",
+   "link": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
+   "section": "商业",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "AI models can tinker with one another’s brains",
+   "summary": "For now, the tweaks are relatively small-scale",
+   "link": "https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains",
+   "section": "科技",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Drones don’t just blow up the enemy",
+   "summary": "They can also pick up on radio transmissions to identify future targets",
+   "link": "https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy",
+   "section": "科技",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "OpenAI’s approach to mathematics does not add up",
+   "summary": "Two months after the firm’s initial advances, its lack of transparency is still causing problems",
+   "link": "https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
+   "section": "科技",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Astronomers are mystified by little red dots in the sky",
+   "summary": "They could be the universe’s first supermassive black holes",
+   "link": "https://www.economist.com/science-and-technology/2026/11/04/astronomers-are-mystified-by-little-red-dots-in-the-sky",
+   "section": "科技",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "With an eye on America, China is beefing up its AI-controlled labs",
+   "summary": "By automating scientific research it hopes to strengthen its industrial muscle",
+   "link": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
+   "section": "中国",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "A political revolution in Texas",
+   "summary": "What will Democrats do with control of America’s most iconic red state?",
+   "link": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
+   "section": "美国",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "How Democrats will wield their new power",
+   "summary": "It will be hard to pass laws, but expect a torrent of investigations",
+   "link": "https://www.economist.com/united-states/2026/11/04/how-democrats-will-wield-their-new-power",
+   "section": "美国",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "A landslide for Democrats. A rebuke to Donald Trump",
+   "summary": "Republicans face a tumultuous new era",
+   "link": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
+   "section": "美国",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "The latest Ebola outbreak could be the worst ever",
+   "summary": "New cases in Kenya and Nigeria show that the outbreak is unchecked",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/04/the-latest-ebola-outbreak-could-be-the-worst-ever",
+   "section": "中东与非洲",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Explaining the popularity of Max Richter’s compositions",
+   "summary": "The classical composer manages to spin even serious subjects into gold",
+   "link": "https://www.economist.com/culture/2026/11/04/explaining-the-popularity-of-max-richters-compositions",
+   "section": "文化",
+   "date": "2026-11-04"
+  },
   {
    "title": "Besieged by war, Saudi Aramco continues to gush profits",
    "summary": "Higher oil prices comfortably make up for bombed facilities",
@@ -16,8 +93,8 @@
    "date": "2026-11-03"
   },
   {
-   "title": "Live briefing: will it be a blue wave?",
-   "summary": "Results, reactions and up-to-the-minute analysis from our editors and correspondents",
+   "title": "Recap: How Democrats took the House and Senate",
+   "summary": "Results, reactions and analysis from our editors and correspondents",
    "link": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
    "section": "美国",
    "date": "2026-11-03"
@@ -343,83 +420,6 @@
    "link": "https://www.economist.com/middle-east-and-africa/2026/10/29/senegal-tries-to-teach-more-children-in-their-first-language",
    "section": "中东与非洲",
    "date": "2026-10-29"
-  },
-  {
-   "title": "Saudi Arabia wants Iran to call off the Houthis and make a deal with America",
-   "summary": "But a summit meant to pressure the regime achieved little",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/29/saudi-arabia-wants-iran-to-call-off-the-houthis-and-make-a-deal-with-america",
-   "section": "中东与非洲",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Binyamin Netanyahu has not won, but nor has he lost",
-   "summary": "Refusing to work with the Arab parties may be his opponents’ undoing",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/10/29/binyamin-netanyahu-has-not-won-but-nor-has-he-lost",
-   "section": "中东与非洲",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "To understand African politics, just listen to the music",
-   "summary": "Artists have captured a continental spirit of revolt",
-   "link": "https://www.economist.com/interactive/international/2026/10/29/to-understand-african-politics-just-listen-to-the-music",
-   "section": "国际",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "What to watch this week",
-   "summary": "Need a break? Try one of these films or TV shows",
-   "link": "https://www.economist.com/culture/2026/10/29/what-to-watch-this-week",
-   "section": "文化",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Why this is a golden age for conspiracy theories",
-   "summary": "They flourish during periods of social and political upheaval",
-   "link": "https://www.economist.com/culture/2026/10/29/why-this-is-a-golden-age-for-conspiracy-theories",
-   "section": "文化",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "How Lebanon’s civil war shaped America’s rivalry with Iran",
-   "summary": "A new book argues a murder in 1984 can help you understand the Middle East today",
-   "link": "https://www.economist.com/culture/2026/10/29/how-lebanons-civil-war-shaped-americas-rivalry-with-iran",
-   "section": "文化",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "John Green, a hit young-adult author, is now writing for adults",
-   "summary": "His latest novel explores social-media stardom; his own career has tracked it, too",
-   "link": "https://www.economist.com/culture/2026/10/29/john-green-a-hit-young-adult-author-is-now-writing-for-adults",
-   "section": "文化",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Humans will never again create a project quite like Wikipedia",
-   "summary": "As it turns 25, one of the internet’s unlikeliest successes faces grave new threats",
-   "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-   "section": "文化",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "What the world’s most famous magician has to teach you",
-   "summary": "Hint: it does not involve handcuffs or a straitjacket",
-   "link": "https://www.economist.com/culture/2026/10/29/what-the-worlds-most-famous-magician-has-to-teach-you",
-   "section": "文化",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "Israel’s Jewish and Arab opposition parties should work together",
-   "summary": "If they want to dislodge Binyamin Netanyahu from office, they need to act fast",
-   "link": "https://www.economist.com/leaders/2026/10/28/israels-jewish-and-arab-opposition-parties-should-work-together",
-   "section": "社论",
-   "date": "2026-10-28"
-  },
-  {
-   "title": "Weil’s collapse and the death of corporate loyalty",
-   "summary": "Superstar talent is alluring. It is also dangerous",
-   "link": "https://www.economist.com/business/2026/10/28/weils-collapse-and-the-death-of-corporate-loyalty",
-   "section": "商业",
-   "date": "2026-10-28"
   }
  ]
 }
