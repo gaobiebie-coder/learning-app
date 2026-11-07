@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-06 02:25 UTC",
+ "updated": "2026-11-07 01:55 UTC",
  "articles": [
+  {
+   "title": "The Climate Issue newsletter: The world braces for an almighty El Niño",
+   "summary": "Rachel Dobbs, our news editor, explains why the worst is yet to come",
+   "link": "https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino",
+   "section": "科技",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "Is grip strength a useful indicator of health?",
+   "summary": "It is an attention-grabbing claim",
+   "link": "https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
+   "section": "科技",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "A generational upset in Los Angeles",
+   "summary": "Nithya Raman, a DSA city council member, will lead America’s second-largest city",
+   "link": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
+   "section": "美国",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "Republicans blame Israel for their defeat",
+   "summary": "The Democrats’ victory could accelerate the decline of the Israeli-American alliance",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat",
+   "section": "中东与非洲",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "What to watch this week",
+   "summary": "Switch on these films and TV shows to discover something new",
+   "link": "https://www.economist.com/culture/2026/11/06/what-to-watch-this-week",
+   "section": "文化",
+   "date": "2026-11-06"
+  },
   {
    "title": "England’s new ban on kinky porn will misfire",
    "summary": "Bans make moralists feel good, but will not work as planned",
@@ -41,13 +76,6 @@
    "summary": "Embattled at home, the president will look abroad. That is worrying for the world, but it is not clear what he can achieve—for good or ill",
    "link": "https://www.economist.com/briefing/2026/11/05/what-will-a-lame-duck-donald-trump-get-up-to-overseas",
    "section": "深度报道",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Markets realise they hate America’s blue wave",
-   "summary": "Investors worry that Democratic dominance will slow down the AI boom",
-   "link": "https://www.economist.com/business/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-   "section": "商业",
    "date": "2026-11-05"
   },
   {
@@ -391,34 +419,6 @@
    "summary": "OpenAI and Anthropic spy a big opportunity in cyber-security",
    "link": "https://www.economist.com/business/2026/11/01/as-hackers-run-riot-with-ai-its-makers-want-to-cash-in",
    "section": "商业",
-   "date": "2026-11-01"
-  },
-  {
-   "title": "Hit podcasts reveal the angst of China’s youth",
-   "summary": "The government is getting twitchy about their growing popularity",
-   "link": "https://www.economist.com/china/2026/11/01/hit-podcasts-reveal-the-angst-of-chinas-youth",
-   "section": "中国",
-   "date": "2026-11-01"
-  },
-  {
-   "title": "Forget Michigan. A disaster in Alaska could cost Democrats the Senate",
-   "summary": "The northernmost state has become the epicentre of election chicanery",
-   "link": "https://www.economist.com/united-states/2026/11/01/forget-michigan-a-disaster-in-alaska-could-cost-democrats-the-senate",
-   "section": "美国",
-   "date": "2026-11-01"
-  },
-  {
-   "title": "AI is disrupting the art of campaigning",
-   "summary": "Candidates are using the technology to crunch data—and carry out dirty tricks",
-   "link": "https://www.economist.com/united-states/2026/11/01/ai-is-disrupting-the-art-of-campaigning",
-   "section": "美国",
-   "date": "2026-11-01"
-  },
-  {
-   "title": "Will Poland’s war over the rule of law ever end?",
-   "summary": "Liberals and populists are locked in an eternal struggle over the courts",
-   "link": "https://www.economist.com/europe/2026/11/01/will-polands-war-over-the-rule-of-law-ever-end",
-   "section": "欧洲",
    "date": "2026-11-01"
   }
  ]
