@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-08 01:26 UTC",
+ "updated": "2026-11-09 01:43 UTC",
  "articles": [
+  {
+   "title": "YouTube’s dominance has Hollywood running scared",
+   "summary": "Studios and streamers alike are struggling to respond to its success",
+   "link": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
+   "section": "商业",
+   "date": "2026-11-08"
+  },
+  {
+   "title": "The fight over Republicans’ future has begun",
+   "summary": "After a staggering loss, the party is battling over whom to blame and how to move forward",
+   "link": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
+   "section": "美国",
+   "date": "2026-11-08"
+  },
+  {
+   "title": "Why Indians should have higher standards",
+   "summary": "“Good enough” is not good enough",
+   "link": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
+   "section": "亚洲",
+   "date": "2026-11-08"
+  },
+  {
+   "title": "Gadi Eisenkot has a chance to form a new government in Israel",
+   "summary": "Both his foes and his supposed allies may yet prevent him",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel",
+   "section": "中东与非洲",
+   "date": "2026-11-08"
+  },
   {
    "title": "Checks and Balance newsletter: What comes next after the midterms?",
    "summary": "Charlotte Howard, our US editor, on the rising political stars who could shape America’s future",
@@ -391,34 +419,6 @@
    "summary": "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing",
    "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
    "section": "商业",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "A new path to political power in China runs through state firms",
-   "summary": "China Inc has become a breeding ground for up-and-coming officials",
-   "link": "https://www.economist.com/china/2026/11/02/a-new-path-to-political-power-in-china-runs-through-state-firms",
-   "section": "中国",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "As voters head to the polls, Democrats bet that discontent will power their victory",
-   "summary": "Our latest forecast of the midterms’ outcome",
-   "link": "https://www.economist.com/united-states/2026/11/02/as-voters-head-to-the-polls-democrats-bet-that-discontent-will-power-their-victory",
-   "section": "美国",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "France’s unhappy countryside turns to the populist right",
-   "summary": "In long-suffering villages, Marine Le Pen has come to stand for hope",
-   "link": "https://www.economist.com/europe/2026/11/02/frances-unhappy-countryside-turns-to-the-populist-right",
-   "section": "欧洲",
-   "date": "2026-11-02"
-  },
-  {
-   "title": "The fight for the soul of the Australian right",
-   "summary": "Can a special-forces veteran stop the rise of Pauline Hanson?",
-   "link": "https://www.economist.com/asia/2026/11/02/the-fight-for-the-soul-of-the-australian-right",
-   "section": "亚洲",
    "date": "2026-11-02"
   }
  ]
