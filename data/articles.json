@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-09 01:43 UTC",
+ "updated": "2026-11-10 04:06 UTC",
  "articles": [
+  {
+   "title": "Bartleby newsletter: Can AI write newsletters",
+   "summary": "Andrew Palmer, our Bartleby columnist, has bad news for some email scribes",
+   "link": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
+   "section": "商业",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Can Nvidia’s boss survive a Chinese-spy controversy?",
+   "summary": "Jensen Huang is caught with his pants down",
+   "link": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
+   "section": "商业",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Scientists are finally starting to understand endometriosis",
+   "summary": "That should lead to quicker diagnosis and better treatment",
+   "link": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-finally-starting-to-understand-endometriosis",
+   "section": "科技",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Xi Jinping’s plan for a China-centric world order",
+   "summary": "A “community with a shared future” sounds soft, but is backed by muscle",
+   "link": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
+   "section": "中国",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "The future of Trumponomics: compromise or failure",
+   "summary": "How the art of the deal may yet prevail over the art of denial",
+   "link": "https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
+   "section": "美国",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "The War Room newsletter: How long will Pete Hegseth last?",
+   "summary": "“Democrats, and a handful of Republicans, want the former Fox News host’s well-gelled head,” writes Samuel Beal, our Washington correspondent",
+   "link": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
+   "section": "美国",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Donald Trump is in a hurry for peace in Ukraine. Vladimir Putin is not",
+   "summary": "American-brokered talks may help Russia prolong the war",
+   "link": "https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
+   "section": "欧洲",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Café Europa newsletter: Democratic wins or no, Europe is over America",
+   "summary": "Matt Steinglass, our Europe editor, offers a view of the midterms from Amsterdam",
+   "link": "https://www.economist.com/europe/2026/11/09/cafe-europa-newsletter-democratic-wins-or-no-europe-is-over-america",
+   "section": "欧洲",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "At 50, “Rocky” isn’t as good as you remember. It’s better",
+   "summary": "Why Sylvester Stallone’s boxing parable is about more than the violent sport",
+   "link": "https://www.economist.com/culture/2026/11/09/at-50-rocky-isnt-as-good-as-you-remember-its-better",
+   "section": "文化",
+   "date": "2026-11-09"
+  },
   {
    "title": "YouTube’s dominance has Hollywood running scared",
    "summary": "Studios and streamers alike are struggling to respond to its success",
@@ -357,69 +420,6 @@
    "link": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
    "section": "中国",
    "date": "2026-11-03"
-  },
-  {
-   "title": "Recap: How Democrats took the House and Senate",
-   "summary": "Results, reactions and analysis from our editors and correspondents",
-   "link": "https://www.economist.com/united-states/2026/11/03/midterms-coverage",
-   "section": "美国",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "US midterms 2026: live results",
-   "summary": "Follow all the races in the Senate and the House of Representatives",
-   "link": "https://www.economist.com/interactive/2026/us-midterms/results/summary",
-   "section": "美国",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "Café Europa newsletter: The story of Russia’s last free newspaper",
-   "summary": "Matt Steinglass, our Europe editor, meets the larger-than-life character behind Novaya Gazeta",
-   "link": "https://www.economist.com/europe/2026/11/03/cafe-europa-newsletter-the-story-of-russias-last-free-newspaper",
-   "section": "欧洲",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "Middle East Dispatch newsletter: How Palestinians voted in Israel’s election",
-   "summary": "Nicolas Pelham, our Middle East correspondent, looks at the Palestinians choosing participation over confrontation",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/03/middle-east-dispatch-newsletter-how-palestinians-voted-in-israels-election",
-   "section": "中东与非洲",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "Hackers are exploiting Africa’s digital identities",
-   "summary": "Governments are embracing new databases. So are criminals",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/03/hackers-are-exploiting-africas-digital-identities",
-   "section": "中东与非洲",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "Fear united Europe. Nationalism may tear it apart",
-   "summary": "Donald Trump and Vladimir Putin made Europe serious about its own defences. That may not last",
-   "link": "https://www.economist.com/international/2026/11/03/fear-united-europe-nationalism-may-tear-it-apart",
-   "section": "国际",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "What goes on behind the doors of Claridge’s?",
-   "summary": "A new book gives readers a key card to the storied hotel’s past",
-   "link": "https://www.economist.com/culture/2026/11/03/what-goes-on-behind-the-doors-of-claridges",
-   "section": "文化",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "Plot Twist newsletter: Winston Churchill and the power of hobbies",
-   "summary": "Alexandra Suich Bass, our Culture editor, paints a picture of the most pleasurable pastimes",
-   "link": "https://www.economist.com/culture/2026/11/03/plot-twist-newsletter-winston-churchill-and-the-power-of-hobbies",
-   "section": "文化",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "The quest for immortality has become serious business",
-   "summary": "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing",
-   "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
-   "section": "商业",
-   "date": "2026-11-02"
   }
  ]
 }
