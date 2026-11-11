@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-10 04:06 UTC",
+ "updated": "2026-11-11 01:55 UTC",
  "articles": [
+  {
+   "title": "American workers face a surge in health costs",
+   "summary": "Employer-sponsored insurance, the backbone of American coverage, is becoming more frail",
+   "link": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
+   "section": "美国",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Europe has been living beyond its means. Now the bills are due",
+   "summary": "It accounts for half the world’s social spending, but its fractured politics make cuts difficult",
+   "link": "https://www.economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due",
+   "section": "欧洲",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Inside America’s first new submarine base abroad for 53 years",
+   "summary": "AUKUS is beginning to make waves on Australia’s west coast",
+   "link": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
+   "section": "亚洲",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Global bullies have turned uncertainty into a weapon",
+   "summary": "America and China see profit in keeping the whole world on edge",
+   "link": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
+   "section": "国际",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Civilisation has collapsed in England, and other odd ideas",
+   "summary": "“The End of Everything”, a sci-fi tale by M. John Harrison, wins the Booker prize",
+   "link": "https://www.economist.com/culture/2026/11/10/civilisation-has-collapsed-in-england-and-other-odd-ideas",
+   "section": "文化",
+   "date": "2026-11-10"
+  },
   {
    "title": "Bartleby newsletter: Can AI write newsletters",
    "summary": "Andrew Palmer, our Bartleby columnist, has bad news for some email scribes",
@@ -27,13 +62,6 @@
    "summary": "A “community with a shared future” sounds soft, but is backed by muscle",
    "link": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
    "section": "中国",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "The future of Trumponomics: compromise or failure",
-   "summary": "How the art of the deal may yet prevail over the art of denial",
-   "link": "https://www.economist.com/united-states/2026/11/09/the-future-of-trumponomics-compromise-or-failure",
-   "section": "美国",
    "date": "2026-11-09"
   },
   {
@@ -392,34 +420,6 @@
    "link": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
    "section": "美国",
    "date": "2026-11-04"
-  },
-  {
-   "title": "The latest Ebola outbreak could be the worst ever",
-   "summary": "New cases in Kenya and Nigeria show that the outbreak is unchecked",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/04/the-latest-ebola-outbreak-could-be-the-worst-ever",
-   "section": "中东与非洲",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "Explaining the popularity of Max Richter’s compositions",
-   "summary": "The classical composer manages to spin even serious subjects into gold",
-   "link": "https://www.economist.com/culture/2026/11/04/explaining-the-popularity-of-max-richters-compositions",
-   "section": "文化",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "Besieged by war, Saudi Aramco continues to gush profits",
-   "summary": "Higher oil prices comfortably make up for bombed facilities",
-   "link": "https://www.economist.com/business/2026/11/03/besieged-by-war-saudi-aramco-continues-to-gush-profits",
-   "section": "商业",
-   "date": "2026-11-03"
-  },
-  {
-   "title": "Wanted: a news researcher in Beijing",
-   "summary": "Work with the Beijing bureau of The Economist",
-   "link": "https://www.economist.com/china/2026/11/03/wanted-a-news-researcher-in-beijing",
-   "section": "中国",
-   "date": "2026-11-03"
   }
  ]
 }
