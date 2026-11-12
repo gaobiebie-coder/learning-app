@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-11 01:55 UTC",
+ "updated": "2026-11-12 02:58 UTC",
  "articles": [
+  {
+   "title": "Quebec’s strategic maple-syrup reserve is running dry",
+   "summary": "The province’s cartel is losing its grip",
+   "link": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
+   "section": "商业",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Despite recent misses, political polling is more accurate than ever",
+   "summary": "But elections in America and Brazil illustrate how hard the task is becoming",
+   "link": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
+   "section": "国际",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Jensen Huang must resign",
+   "summary": "And his should not be the only head to roll",
+   "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+   "section": "社论",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "There has never been a corporate scandal like the Huang affair",
+   "summary": "A journey through the annals of company crises",
+   "link": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-corporate-scandal-like-the-huang-affair",
+   "section": "商业",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "The company behind Barbie wants to be an entertainment giant",
+   "summary": "But Mattel remains a struggling toymaker",
+   "link": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
+   "section": "商业",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "AI has proved that a theory underpinning fundamental physics is trustworthy",
+   "summary": "The key insights appear to have come from human physicists",
+   "link": "https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
+   "section": "科技",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Cameras in space could help spot invasive plants on Earth",
+   "summary": "The trick lies in how the leaves of different species reflect light",
+   "link": "https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth",
+   "section": "科技",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "The blood-brain barrier may contribute to cognitive function",
+   "summary": "Studies in mice suggest it is more sophisticated than once thought",
+   "link": "https://www.economist.com/science-and-technology/2026/11/11/the-blood-brain-barrier-may-contribute-to-cognitive-function",
+   "section": "科技",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Xi Jinping’s chief ideologue is worried",
+   "summary": "Wang Huning describes threats to the Communist Party and country",
+   "link": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
+   "section": "中国",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Democrats’ strategy for ending the war in Iran",
+   "summary": "An unsuccessful attempt to impeach Pete Hegseth is a sign of more trouble ahead",
+   "link": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
+   "section": "美国",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Indonesia’s vice-president resigns, escalating a destabilising feud",
+   "summary": "It could pit the country’s army and police against each other",
+   "link": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
+   "section": "亚洲",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Middle East Dispatch newsletter: An unintended Saudi road trip",
+   "summary": "Gregg Carlstrom, our Middle East correspondent, recounts how his car journey across the Gulf offered him a different perspective on the war",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/11/middle-east-dispatch-newsletter-an-unintended-saudi-road-trip",
+   "section": "中东与非洲",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "How X-rated content shaped the internet",
+   "summary": "A peep under the covers of the online porn industry",
+   "link": "https://www.economist.com/culture/2026/11/11/how-x-rated-content-shaped-the-internet",
+   "section": "文化",
+   "date": "2026-11-11"
+  },
   {
    "title": "American workers face a surge in health costs",
    "summary": "Employer-sponsored insurance, the backbone of American coverage, is becoming more frail",
@@ -329,97 +420,6 @@
    "link": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
    "section": "国际",
    "date": "2026-11-05"
-  },
-  {
-   "title": "What is it like to be a newborn?",
-   "summary": "Nobody can quite say. But a new book tries to figure it out",
-   "link": "https://www.economist.com/culture/2026/11/05/what-is-it-like-to-be-a-newborn",
-   "section": "文化",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Is childlessness contagious?",
-   "summary": "A new book offers some surprising reasons people aren’t having children",
-   "link": "https://www.economist.com/culture/2026/11/05/is-childlessness-contagious",
-   "section": "文化",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Is it time to end the era of remote work?",
-   "summary": "A new book makes a case for getting out of your tracksuit and into your officewear",
-   "link": "https://www.economist.com/culture/2026/11/05/is-it-time-to-end-the-era-of-remote-work",
-   "section": "文化",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Chinese tech helps repressive African governments crush dissent",
-   "summary": "A fascinating new book investigates the cause and effects of China’s investment in Africa",
-   "link": "https://www.economist.com/culture/2026/11/05/chinese-tech-helps-repressive-african-governments-crush-dissent",
-   "section": "文化",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Bartleby newsletter: The case for scientific methods of decision-making",
-   "summary": "Andrew Palmer, our Bartleby columnist, explains why too many corporate leaders rely on gut instinct",
-   "link": "https://www.economist.com/business/2026/11/04/bartleby-newsletter-the-case-for-scientific-methods-of-decision-making",
-   "section": "商业",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "AI models can tinker with one another’s brains",
-   "summary": "For now, the tweaks are relatively small-scale",
-   "link": "https://www.economist.com/science-and-technology/2026/11/04/ai-models-can-tinker-with-one-anothers-brains",
-   "section": "科技",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "Drones don’t just blow up the enemy",
-   "summary": "They can also pick up on radio transmissions to identify future targets",
-   "link": "https://www.economist.com/science-and-technology/2026/11/04/drones-dont-just-blow-up-the-enemy",
-   "section": "科技",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "OpenAI’s approach to mathematics does not add up",
-   "summary": "Two months after the firm’s initial advances, its lack of transparency is still causing problems",
-   "link": "https://www.economist.com/science-and-technology/2026/11/04/openais-approach-to-mathematics-does-not-add-up",
-   "section": "科技",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "Astronomers are mystified by little red dots in the sky",
-   "summary": "They could be the universe’s first supermassive black holes",
-   "link": "https://www.economist.com/science-and-technology/2026/11/04/astronomers-are-mystified-by-little-red-dots-in-the-sky",
-   "section": "科技",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "With an eye on America, China is beefing up its AI-controlled labs",
-   "summary": "By automating scientific research it hopes to strengthen its industrial muscle",
-   "link": "https://www.economist.com/china/2026/11/04/with-an-eye-on-america-china-is-beefing-up-its-ai-controlled-labs",
-   "section": "中国",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "A political revolution in Texas",
-   "summary": "What will Democrats do with control of America’s most iconic red state?",
-   "link": "https://www.economist.com/united-states/2026/11/04/a-political-revolution-in-texas",
-   "section": "美国",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "How the Democrats will wield their power",
-   "summary": "The party has control of Congress, at last. Now it must govern",
-   "link": "https://www.economist.com/united-states/2026/11/04/how-the-democrats-will-wield-their-power",
-   "section": "美国",
-   "date": "2026-11-04"
-  },
-  {
-   "title": "A landslide for Democrats. A rebuke to Donald Trump",
-   "summary": "Republicans face a tumultuous new era",
-   "link": "https://www.economist.com/united-states/2026/11/04/a-landslide-for-democrats-a-rebuke-to-donald-trump",
-   "section": "美国",
-   "date": "2026-11-04"
   }
  ]
 }
