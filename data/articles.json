@@ -1,11 +1,179 @@
 {
- "updated": "2026-11-12 02:58 UTC",
+ "updated": "2026-11-13 02:37 UTC",
  "articles": [
+  {
+   "title": "China's emissions are falling. Thank self-interest",
+   "summary": "And its technology is helping others fight climate change, too",
+   "link": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
+   "section": "社论",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "To triumph in show business, take a lo-fi or hi-fi approach",
+   "summary": "Skydance is stuck in the dangerous middle ground",
+   "link": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
+   "section": "社论",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "South Africans are giving up on Nelson Mandela’s party. Good",
+   "summary": "The decline of the African National Congress shows that democracy is working",
+   "link": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
+   "section": "社论",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Why you should expect an AI crash",
+   "summary": "But not necessarily a financial cataclysm",
+   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+   "section": "社论",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Can the AI boom make enough money to sustain itself?",
+   "summary": "Wall Street has started to worry",
+   "link": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
+   "section": "深度报道",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Jensen Huang is out. His successor has the toughest job in tech",
+   "summary": "A company built around one man must now learn to run without him",
+   "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+   "section": "商业",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "The panic over personalised pricing is overdone",
+   "summary": "Lawmakers are getting ahead of themselves",
+   "link": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
+   "section": "商业",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Everything is going wrong for SoftBank",
+   "summary": "Masayoshi Son’s all-in bet on AI is looking shaky",
+   "link": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
+   "section": "商业",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "A franchise revolution is stirring in China",
+   "summary": "It is bringing buzzy retail brands to every corner of the country—and beyond",
+   "link": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
+   "section": "商业",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
+   "summary": "His affair will bring lasting damage to the company",
+   "link": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
+   "section": "商业",
+   "date": "2026-11-12"
+  },
   {
    "title": "Quebec’s strategic maple-syrup reserve is running dry",
    "summary": "The province’s cartel is losing its grip",
    "link": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
    "section": "商业",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Ted Plafker, a stalwart of our China coverage, has died",
+   "summary": "He was a giant among Western journalists in the country",
+   "link": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
+   "section": "中国",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "China’s exports of clean tech to South-East Asia are soaring",
+   "summary": "Unlike in the European Union, governments don’t fret about the influx",
+   "link": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
+   "section": "中国",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "China’s carbon-dioxide emissions have begun to fall",
+   "summary": "Its progress with electrification has been a big help",
+   "link": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
+   "section": "中国",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Donald Trump has an unusual chance to make progress",
+   "summary": "He also has an unusual gift for blowing such chances",
+   "link": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
+   "section": "美国",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "An emerging consensus on trans politics",
+   "summary": "Voters want neither trans kids playing girls’ sports, nor politicians obsessed with it",
+   "link": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
+   "section": "美国",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "How Florida withstood a blue wave",
+   "summary": "The quintessential swing state of 2000 is the bastion of Republicanism in 2026",
+   "link": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
+   "section": "美国",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "How navigating red tape became the European way of life",
+   "summary": "Life in the small-print continent",
+   "link": "https://www.economist.com/europe/2026/11/12/how-navigating-red-tape-became-the-european-way-of-life",
+   "section": "欧洲",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Spain’s rail crashes are a grim backdrop to the election",
+   "summary": "Once a source of national pride, high-speed rail now causes anguish",
+   "link": "https://www.economist.com/europe/2026/11/12/spains-rail-crashes-are-a-grim-backdrop-to-the-election",
+   "section": "欧洲",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "A judo champion enters the presidential race in France",
+   "summary": "His rivals are watching warily",
+   "link": "https://www.economist.com/europe/2026/11/12/a-judo-champion-enters-the-presidential-race-in-france",
+   "section": "欧洲",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Can anyone fix the China-Japan relationship?",
+   "summary": "The two countries need a go-between. Donald Trump is not an ideal option",
+   "link": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
+   "section": "亚洲",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "The Japanese region where “eight-testicle women” outdo men",
+   "summary": "It’s a matter of sake and hard work",
+   "link": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
+   "section": "亚洲",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Welcome to Africa’s treason belt",
+   "summary": "Why African autocrats favour lawfare to stymie opponents",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/welcome-to-africas-treason-belt",
+   "section": "中东与非洲",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Jordan is worried about a resurgence in jihadism",
+   "summary": "The war in Iran is helping to fuel it",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/jordan-is-worried-about-a-resurgence-in-jihadism",
+   "section": "中东与非洲",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Africa’s solar revolution is vast and speedy",
+   "summary": "Zimbabwe shows that official statistics probably underestimate its scale",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+   "section": "中东与非洲",
    "date": "2026-11-12"
   },
   {
@@ -16,16 +184,51 @@
    "date": "2026-11-12"
   },
   {
-   "title": "Jensen Huang must resign",
-   "summary": "And his should not be the only head to roll",
-   "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+   "title": "What to watch this week",
+   "summary": "There are feuds and fights in our latest recommendations",
+   "link": "https://www.economist.com/culture/2026/11/12/what-to-watch-this-week",
+   "section": "文化",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Why small dogs are so easy to love—and hate",
+   "summary": "Petite pups were the first modern pets, a new book argues",
+   "link": "https://www.economist.com/culture/2026/11/12/why-small-dogs-are-so-easy-to-love-and-hate",
+   "section": "文化",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "The curious case of the surgeon who inspired Sherlock Holmes",
+   "summary": "Joseph Bell, Arthur Conan Doyle’s professor, had an extraordinary gift for deduction",
+   "link": "https://www.economist.com/culture/2026/11/12/the-curious-case-of-the-surgeon-who-inspired-sherlock-holmes",
+   "section": "文化",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Plague, gruel and bad teeth: why do people idealise the olden days?",
+   "summary": "A rip-roaring rebuttal of the idea that progress is a myth",
+   "link": "https://www.economist.com/culture/2026/11/12/plague-gruel-and-bad-teeth-why-do-people-idealise-the-olden-days",
+   "section": "文化",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "“Ramayana”, India’s biggest film, turns a Hindu god into a star",
+   "summary": "But it won’t become the global phenomenon many hope",
+   "link": "https://www.economist.com/culture/2026/11/12/ramayana-indias-biggest-film-turns-a-hindu-god-into-a-star",
+   "section": "文化",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Jensen Huang must go",
+   "summary": "His should not be the only head to roll",
+   "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
    "section": "社论",
    "date": "2026-11-11"
   },
   {
-   "title": "There has never been a corporate scandal like the Huang affair",
-   "summary": "A journey through the annals of company crises",
-   "link": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-corporate-scandal-like-the-huang-affair",
+   "title": "There has never been a scandal like the Jensen Huang affair",
+   "summary": "A journey through the annals of corporate crises",
+   "link": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
    "section": "商业",
    "date": "2026-11-11"
   },
@@ -142,9 +345,9 @@
    "date": "2026-11-09"
   },
   {
-   "title": "Scientists are finally starting to understand endometriosis",
+   "title": "Scientists are at last starting to understand endometriosis",
    "summary": "That should lead to quicker diagnosis and better treatment",
-   "link": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-finally-starting-to-understand-endometriosis",
+   "link": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-at-last-starting-to-understand-endometriosis",
    "section": "科技",
    "date": "2026-11-09"
   },
@@ -164,7 +367,7 @@
   },
   {
    "title": "Donald Trump is in a hurry for peace in Ukraine. Vladimir Putin is not",
-   "summary": "American-brokered talks may help Russia prolong the war",
+   "summary": "The American-brokered talks leave many questions unanswered",
    "link": "https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
    "section": "欧洲",
    "date": "2026-11-09"
@@ -217,209 +420,6 @@
    "link": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
    "section": "美国",
    "date": "2026-11-07"
-  },
-  {
-   "title": "The Climate Issue newsletter: The world braces for an almighty El Niño",
-   "summary": "Rachel Dobbs, our news editor, explains why the worst is yet to come",
-   "link": "https://www.economist.com/science-and-technology/2026/11/06/the-climate-issue-newsletter-the-world-braces-for-an-almighty-el-nino",
-   "section": "科技",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "Is grip strength a useful indicator of health?",
-   "summary": "It is an attention-grabbing claim",
-   "link": "https://www.economist.com/science-and-technology/2026/11/06/is-grip-strength-a-useful-indicator-of-health",
-   "section": "科技",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "A generational upset in Los Angeles",
-   "summary": "Nithya Raman, a DSA city council member, will lead America’s second-largest city",
-   "link": "https://www.economist.com/united-states/2026/11/06/a-generational-upset-in-los-angeles",
-   "section": "美国",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "Republicans blame Israel for their defeat",
-   "summary": "The Democrats’ victory could accelerate the decline of the Israeli-American alliance",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/06/republicans-blame-israel-for-their-defeat",
-   "section": "中东与非洲",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "What to watch this week",
-   "summary": "Switch on these films and TV shows to discover something new",
-   "link": "https://www.economist.com/culture/2026/11/06/what-to-watch-this-week",
-   "section": "文化",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "England’s new ban on kinky porn will misfire",
-   "summary": "Bans make moralists feel good, but will not work as planned",
-   "link": "https://www.economist.com/leaders/2026/11/05/englands-new-ban-on-kinky-porn-will-misfire",
-   "section": "社论",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Patients are acting more like consumers. Good",
-   "summary": "Health care cannot be an ordinary market. But it could be much more like one",
-   "link": "https://www.economist.com/leaders/2026/11/05/patients-are-acting-more-like-consumers-good",
-   "section": "社论",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "The world must act to stop a cyber-disaster",
-   "summary": "Governments should make sure defenders have better models than attackers do",
-   "link": "https://www.economist.com/leaders/2026/11/05/the-world-must-act-to-stop-a-cyber-disaster",
-   "section": "社论",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "El Salvador’s gangbuster tries his luck in Haiti",
-   "summary": "The status quo is so dire Nayib Bukele might improve it. But the risks are huge",
-   "link": "https://www.economist.com/leaders/2026/11/05/el-salvadors-gangbuster-tries-his-luck-in-haiti",
-   "section": "社论",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Donald Trump’s humiliation offers America an opportunity",
-   "summary": "Voters demand a new way of doing things in Washington. Let them have it",
-   "link": "https://www.economist.com/leaders/2026/11/05/donald-trumps-humiliation-offers-america-an-opportunity",
-   "section": "社论",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "What will a lame-duck Donald Trump get up to overseas?",
-   "summary": "Embattled at home, the president will look abroad. That is worrying for the world, but it is not clear what he can achieve—for good or ill",
-   "link": "https://www.economist.com/briefing/2026/11/05/what-will-a-lame-duck-donald-trump-get-up-to-overseas",
-   "section": "深度报道",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "America’s copper giant has big dreams—but cautious plans",
-   "summary": "Freeport-McMoRan’s strategy hints at doubts that prices will continue to rise",
-   "link": "https://www.economist.com/business/2026/11/05/americas-copper-giant-has-big-dreams-but-cautious-plans",
-   "section": "商业",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart?",
-   "summary": "The proposed merger shows the danger that delivery startups face",
-   "link": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
-   "section": "商业",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "The break-up of CVS marks a turning point in American health care",
-   "summary": "The trend towards vertical integration may soon reverse",
-   "link": "https://www.economist.com/business/2026/11/05/the-break-up-of-cvs-marks-a-turning-point-in-american-health-care",
-   "section": "商业",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Is curiosity all it’s cooked up to be?",
-   "summary": "A quality that everyone lauds has its complexities",
-   "link": "https://www.economist.com/business/2026/11/05/is-curiosity-all-its-cooked-up-to-be",
-   "section": "商业",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Firms are racing to protect themselves from AI cyber threats",
-   "summary": "Hackers have unleashed a devastating wave of attacks. More may follow",
-   "link": "https://www.economist.com/business/2026/11/05/firms-are-racing-to-protect-themselves-from-ai-cyber-threats",
-   "section": "商业",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "China and Taiwan are fighting over Sun Yat-sen",
-   "summary": "The 160th birthday of the nationalist revolutionary will be unusually fraught",
-   "link": "https://www.economist.com/china/2026/11/05/china-and-taiwan-are-fighting-over-sun-yat-sen",
-   "section": "中国",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "The Democrats have won the biggest congressional landslide in 50 years",
-   "summary": "Black, Hispanic and young voters helped power the party’s victory",
-   "link": "https://www.economist.com/united-states/2026/11/05/the-democrats-have-won-the-biggest-congressional-landslide-in-50-years",
-   "section": "美国",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "The prairie fire behind the Democrats’ big win",
-   "summary": "Wins in Iowa and Kansas revived the left’s rural populism",
-   "link": "https://www.economist.com/united-states/2026/11/05/the-prairie-fire-behind-the-democrats-big-win",
-   "section": "美国",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Republicans are in for a brutal presidential contest",
-   "summary": "And Democrats suddenly have a unifying agenda",
-   "link": "https://www.economist.com/united-states/2026/11/05/republicans-are-in-for-a-brutal-presidential-contest",
-   "section": "美国",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Hero or liability? The debate over Abdul El-Sayed",
-   "summary": "Michigan’s pugnacious populist wants to shake up the Democratic Party",
-   "link": "https://www.economist.com/united-states/2026/11/05/hero-or-liability-the-debate-over-abdul-el-sayed",
-   "section": "美国",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "The leftists who want to seize Berlin’s apartments",
-   "summary": "Die Linke’s radicalism makes it hard for it to form a coalition",
-   "link": "https://www.economist.com/europe/2026/11/05/the-leftists-who-want-to-seize-berlins-apartments",
-   "section": "欧洲",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "War-battered Ukraine risks a demographic collapse",
-   "summary": "Birth rates are plunging and Russia is celebrating",
-   "link": "https://www.economist.com/europe/2026/11/05/war-battered-ukraine-risks-a-demographic-collapse",
-   "section": "欧洲",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Japan prepares for its next natural disaster",
-   "summary": "Its new agency has plenty to do before a catastrophe strikes",
-   "link": "https://www.economist.com/asia/2026/11/05/japan-prepares-for-its-next-natural-disaster",
-   "section": "亚洲",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Dead Starlink terminals in Myanmar are getting people killed",
-   "summary": "Has Elon Musk taken another war zone offline?",
-   "link": "https://www.economist.com/asia/2026/11/05/dead-starlink-terminals-in-myanmar-are-getting-people-killed",
-   "section": "亚洲",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Asia Bulletin newsletter: Pushing back against populism in Australia and New Zealand",
-   "summary": "Aaron Connelly, Asia diplomatic editor, takes a look at two very different millennial politicians leading the fight",
-   "link": "https://www.economist.com/asia/2026/11/05/asia-bulletin-newsletter-pushing-back-against-populism-in-australia-and-new-zealand",
-   "section": "亚洲",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Gulf states brace for war with Iran—again",
-   "summary": "Their air defences are dangerously depleted",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/05/gulf-states-brace-for-war-with-iran-again",
-   "section": "中东与非洲",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "America’s allies oppose more war in Iran. They may not get a say",
-   "summary": "Economies are shrinking and a deal remains elusive",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/05/americas-allies-oppose-more-war-in-iran-they-may-not-get-a-say",
-   "section": "中东与非洲",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "The digital world is making Islam more diverse",
-   "summary": "Muslims are young, online and playing by their own rules",
-   "link": "https://www.economist.com/international/2026/11/05/the-digital-world-is-making-islam-more-diverse",
-   "section": "国际",
-   "date": "2026-11-05"
   }
  ]
 }
