@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-13 02:37 UTC",
+ "updated": "2026-11-14 02:25 UTC",
  "articles": [
+  {
+   "title": "Should women sync their lifestyle to their menstrual cycle?",
+   "summary": "What works for one woman may not suit another",
+   "link": "https://www.economist.com/science-and-technology/2026/11/13/should-women-sync-their-lifestyle-to-their-menstrual-cycle",
+   "section": "科技",
+   "date": "2026-11-13"
+  },
+  {
+   "title": "The Jensen Huang scandal reaches Donald Trump’s cabinet",
+   "summary": "Howard Lutnick, the commerce secretary, is in the firing line",
+   "link": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
+   "section": "美国",
+   "date": "2026-11-13"
+  },
+  {
+   "title": "Teaching kids to think for themselves in the age of AI",
+   "summary": "The Economist Educational Foundation helps schoolchildren around the world make sense of the news",
+   "link": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
+   "section": "国际",
+   "date": "2026-11-13"
+  },
   {
    "title": "China's emissions are falling. Thank self-interest",
    "summary": "And its technology is helping others fight climate change, too",
@@ -399,27 +420,6 @@
    "link": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
    "section": "美国",
    "date": "2026-11-08"
-  },
-  {
-   "title": "Why Indians should have higher standards",
-   "summary": "“Good enough” is not good enough",
-   "link": "https://www.economist.com/asia/2026/11/08/why-indians-should-have-higher-standards",
-   "section": "亚洲",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Gadi Eisenkot has a chance to form a new government in Israel",
-   "summary": "Both his foes and his supposed allies may yet prevent him",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/08/gadi-eisenkot-has-a-chance-to-form-a-new-government-in-israel",
-   "section": "中东与非洲",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Checks and Balance newsletter: What comes next after the midterms?",
-   "summary": "Charlotte Howard, our US editor, on the rising political stars who could shape America’s future",
-   "link": "https://www.economist.com/united-states/2026/11/07/checks-and-balance-newsletter-what-comes-next-after-the-midterms",
-   "section": "美国",
-   "date": "2026-11-07"
   }
  ]
 }
