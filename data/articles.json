@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-14 02:25 UTC",
+ "updated": "2026-11-15 01:54 UTC",
  "articles": [
+  {
+   "title": "The Bottom Line newsletter: Nvidia will never be the same",
+   "summary": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
+   "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+   "section": "商业",
+   "date": "2026-11-14"
+  },
+  {
+   "title": "Checks and Balance newsletter: What do ballot initiatives tell us about America?",
+   "summary": "John Prideaux, our executive editor, explains why they can be used to take the pulse of the country",
+   "link": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
+   "section": "美国",
+   "date": "2026-11-14"
+  },
   {
    "title": "Should women sync their lifestyle to their menstrual cycle?",
    "summary": "What works for one woman may not suit another",
@@ -406,20 +420,6 @@
    "link": "https://www.economist.com/culture/2026/11/09/at-50-rocky-isnt-as-good-as-you-remember-its-better",
    "section": "文化",
    "date": "2026-11-09"
-  },
-  {
-   "title": "YouTube’s dominance has Hollywood running scared",
-   "summary": "Studios and streamers alike are struggling to respond to its success",
-   "link": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
-   "section": "商业",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "The fight over Republicans’ future has begun",
-   "summary": "After a staggering loss, the party is battling over whom to blame and how to move forward",
-   "link": "https://www.economist.com/united-states/2026/11/08/the-fight-over-republicans-future-has-begun",
-   "section": "美国",
-   "date": "2026-11-08"
   }
  ]
 }
