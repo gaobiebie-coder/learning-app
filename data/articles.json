@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-15 01:54 UTC",
+ "updated": "2026-11-16 02:05 UTC",
  "articles": [
+  {
+   "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+   "summary": "Coding agents are big business. But what comes next?",
+   "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+   "section": "商业",
+   "date": "2026-11-15"
+  },
+  {
+   "title": "SpaceX achieves another historic first",
+   "summary": "It has caught the second stage of its Starship rocket",
+   "link": "https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
+   "section": "科技",
+   "date": "2026-11-15"
+  },
+  {
+   "title": "Donald Trump will get a warm welcome in the Philippines",
+   "summary": "He almost skipped about the only country that still adores him",
+   "link": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
+   "section": "亚洲",
+   "date": "2026-11-15"
+  },
+  {
+   "title": "Iran is functioning without a supreme leader",
+   "summary": "Six men from a council of generals and bureaucrats now dominate decision making",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
+   "section": "中东与非洲",
+   "date": "2026-11-15"
+  },
   {
    "title": "The Bottom Line newsletter: Nvidia will never be the same",
    "summary": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
@@ -391,34 +419,6 @@
    "summary": "A “community with a shared future” sounds soft, but is backed by muscle",
    "link": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
    "section": "中国",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "The War Room newsletter: How long will Pete Hegseth last?",
-   "summary": "“Democrats, and a handful of Republicans, want the former Fox News host’s well-gelled head,” writes Samuel Beal, our Washington correspondent",
-   "link": "https://www.economist.com/united-states/2026/11/09/the-war-room-newsletter-how-long-will-pete-hegseth-last",
-   "section": "美国",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Donald Trump is in a hurry for peace in Ukraine. Vladimir Putin is not",
-   "summary": "The American-brokered talks leave many questions unanswered",
-   "link": "https://www.economist.com/europe/2026/11/09/donald-trump-is-in-a-hurry-for-peace-in-ukraine-vladimir-putin-is-not",
-   "section": "欧洲",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Café Europa newsletter: Democratic wins or no, Europe is over America",
-   "summary": "Matt Steinglass, our Europe editor, offers a view of the midterms from Amsterdam",
-   "link": "https://www.economist.com/europe/2026/11/09/cafe-europa-newsletter-democratic-wins-or-no-europe-is-over-america",
-   "section": "欧洲",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "At 50, “Rocky” isn’t as good as you remember. It’s better",
-   "summary": "Why Sylvester Stallone’s boxing parable is about more than the violent sport",
-   "link": "https://www.economist.com/culture/2026/11/09/at-50-rocky-isnt-as-good-as-you-remember-its-better",
-   "section": "文化",
    "date": "2026-11-09"
   }
  ]
