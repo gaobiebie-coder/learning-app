@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-16 02:05 UTC",
+ "updated": "2026-11-17 04:28 UTC",
  "articles": [
+  {
+   "title": "Trump Inc is in free fall",
+   "summary": "Investors are souring on anything with ties to the president and his family",
+   "link": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
+   "section": "商业",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
+   "summary": "Andrew Palmer, our Bartleby columnist, writes about the benefits of “skip-level meetings”",
+   "link": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
+   "section": "商业",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "A lone protester highlights the pain from China’s property bust",
+   "summary": "“Excavator man” will not spark a popular movement, but his actions expose a deep malaise",
+   "link": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
+   "section": "中国",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "Barack Obama’s acolytes are coming to power",
+   "summary": "As Democrats consider their next steps, a new cohort offers post-partisan rhetoric and populist policy",
+   "link": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
+   "section": "美国",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "Bangladesh is no longer a development superstar",
+   "summary": "Corruption has led its banks to the verge of insolvency",
+   "link": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
+   "section": "亚洲",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "The War Room newsletter: Will America or Iran blink first?",
+   "summary": "Alex Turner, our defence editor, on why neither side can end the stalemate",
+   "link": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
+   "section": "国际",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "Good evening, Mr Bond. We’ve been expecting you",
+   "summary": "A new James Bond has finally been cast. Is Robert Pattinson right for the role?",
+   "link": "https://www.economist.com/culture/2026/11/16/good-evening-mr-bond-weve-been-expecting-you",
+   "section": "文化",
+   "date": "2026-11-16"
+  },
+  {
+   "title": "Understanding the world through a wine glass",
+   "summary": "A definitive new history offers you Pliny the Elder as wine critic and other memorable anecdotes",
+   "link": "https://www.economist.com/culture/2026/11/16/understanding-the-world-through-a-wine-glass",
+   "section": "文化",
+   "date": "2026-11-16"
+  },
   {
    "title": "Anthropic’s giant IPO puts the heat on OpenAI",
    "summary": "Coding agents are big business. But what comes next?",
@@ -364,62 +420,6 @@
    "link": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
    "section": "美国",
    "date": "2026-11-10"
-  },
-  {
-   "title": "Europe has been living beyond its means. Now the bills are due",
-   "summary": "It accounts for half the world’s social spending, but its fractured politics make cuts difficult",
-   "link": "https://www.economist.com/europe/2026/11/10/europe-has-been-living-beyond-its-means-now-the-bills-are-due",
-   "section": "欧洲",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Inside America’s first new submarine base abroad for 53 years",
-   "summary": "AUKUS is beginning to make waves on Australia’s west coast",
-   "link": "https://www.economist.com/asia/2026/11/10/inside-americas-first-new-submarine-base-abroad-for-53-years",
-   "section": "亚洲",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Global bullies have turned uncertainty into a weapon",
-   "summary": "America and China see profit in keeping the whole world on edge",
-   "link": "https://www.economist.com/international/2026/11/10/global-bullies-have-turned-uncertainty-into-a-weapon",
-   "section": "国际",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Civilisation has collapsed in England, and other odd ideas",
-   "summary": "“The End of Everything”, a sci-fi tale by M. John Harrison, wins the Booker prize",
-   "link": "https://www.economist.com/culture/2026/11/10/civilisation-has-collapsed-in-england-and-other-odd-ideas",
-   "section": "文化",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Bartleby newsletter: Can AI write newsletters",
-   "summary": "Andrew Palmer, our Bartleby columnist, has bad news for some email scribes",
-   "link": "https://www.economist.com/business/2026/11/09/bartleby-newsletter-can-ai-write-newsletters",
-   "section": "商业",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Can Nvidia’s boss survive a Chinese-spy controversy?",
-   "summary": "Jensen Huang is caught with his pants down",
-   "link": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
-   "section": "商业",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Scientists are at last starting to understand endometriosis",
-   "summary": "That should lead to quicker diagnosis and better treatment",
-   "link": "https://www.economist.com/science-and-technology/2026/11/09/scientists-are-at-last-starting-to-understand-endometriosis",
-   "section": "科技",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Xi Jinping’s plan for a China-centric world order",
-   "summary": "A “community with a shared future” sounds soft, but is backed by muscle",
-   "link": "https://www.economist.com/china/2026/11/09/xi-jinpings-plan-for-a-china-centric-world-order",
-   "section": "中国",
-   "date": "2026-11-09"
   }
  ]
 }
