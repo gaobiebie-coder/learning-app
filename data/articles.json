@@ -1,6 +1,55 @@
 {
- "updated": "2026-11-17 04:28 UTC",
+ "updated": "2026-11-18 03:42 UTC",
  "articles": [
+  {
+   "title": "Jensen Huang’s departure will cause lasting damage to Nvidia",
+   "summary": "The full toll will only become clear with time",
+   "link": "https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
+   "section": "商业",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "The next stop for Europe’s failed asylum-seekers: Rwanda",
+   "summary": "The plan is the latest sign of hardening migration policy across the continent",
+   "link": "https://www.economist.com/europe/2026/11/17/the-next-stop-for-europes-failed-asylum-seekers-rwanda",
+   "section": "欧洲",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "Asia Bulletin newsletter: Xi, Trump, Putin and a theme park",
+   "summary": "Jeremy Page, Chief China correspondent, on why Shenzhen is China’s window on the world",
+   "link": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
+   "section": "亚洲",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "Middle East Dispatch: Where is Gaza’s board of peace?",
+   "summary": "Nick Pelham, our Middle East correspondent, on Gaza’s stalled reconstruction",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/middle-east-dispatch-where-is-gazas-board-of-peace",
+   "section": "中东与非洲",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "Climate change is making some African deserts greener",
+   "summary": "That could help farmers but will also bring dangerous floods",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
+   "section": "中东与非洲",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "Analysing Africa newsletter: Why Kenya’s Rift Valley is underwater",
+   "summary": "Tom Gardner, our Africa correspondent, on the mystery of Kenya’s rising lakes",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/analysing-africa-newsletter-why-kenyas-rift-valley-is-underwater",
+   "section": "中东与非洲",
+   "date": "2026-11-17"
+  },
+  {
+   "title": "The incredible shrinking legacy of Donald J Trump",
+   "summary": "A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America",
+   "link": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
+   "section": "国际",
+   "date": "2026-11-17"
+  },
   {
    "title": "Trump Inc is in free fall",
    "summary": "Investors are souring on anything with ties to the president and his family",
@@ -371,55 +420,6 @@
    "link": "https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth",
    "section": "科技",
    "date": "2026-11-11"
-  },
-  {
-   "title": "The blood-brain barrier may contribute to cognitive function",
-   "summary": "Studies in mice suggest it is more sophisticated than once thought",
-   "link": "https://www.economist.com/science-and-technology/2026/11/11/the-blood-brain-barrier-may-contribute-to-cognitive-function",
-   "section": "科技",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Xi Jinping’s chief ideologue is worried",
-   "summary": "Wang Huning describes threats to the Communist Party and country",
-   "link": "https://www.economist.com/china/2026/11/11/xi-jinpings-chief-ideologue-is-worried",
-   "section": "中国",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Democrats’ strategy for ending the war in Iran",
-   "summary": "An unsuccessful attempt to impeach Pete Hegseth is a sign of more trouble ahead",
-   "link": "https://www.economist.com/united-states/2026/11/11/democrats-strategy-for-ending-the-war-in-iran",
-   "section": "美国",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Indonesia’s vice-president resigns, escalating a destabilising feud",
-   "summary": "It could pit the country’s army and police against each other",
-   "link": "https://www.economist.com/asia/2026/11/11/indonesias-vice-president-resigns-escalating-a-destabilising-feud",
-   "section": "亚洲",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Middle East Dispatch newsletter: An unintended Saudi road trip",
-   "summary": "Gregg Carlstrom, our Middle East correspondent, recounts how his car journey across the Gulf offered him a different perspective on the war",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/11/middle-east-dispatch-newsletter-an-unintended-saudi-road-trip",
-   "section": "中东与非洲",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "How X-rated content shaped the internet",
-   "summary": "A peep under the covers of the online porn industry",
-   "link": "https://www.economist.com/culture/2026/11/11/how-x-rated-content-shaped-the-internet",
-   "section": "文化",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "American workers face a surge in health costs",
-   "summary": "Employer-sponsored insurance, the backbone of American coverage, is becoming more frail",
-   "link": "https://www.economist.com/united-states/2026/11/10/american-workers-face-a-surge-in-health-costs",
-   "section": "美国",
-   "date": "2026-11-10"
   }
  ]
 }
