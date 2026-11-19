@@ -1,11 +1,74 @@
 {
- "updated": "2026-11-18 03:42 UTC",
+ "updated": "2026-11-19 03:26 UTC",
  "articles": [
   {
-   "title": "Jensen Huang’s departure will cause lasting damage to Nvidia",
-   "summary": "The full toll will only become clear with time",
-   "link": "https://www.economist.com/business/2026/11/18/jensen-huangs-departure-will-cause-lasting-damage-to-nvidia",
+   "title": "America must get serious about Chinese chip spying",
+   "summary": "The Jensen Huang affair exposes an AI underworld",
+   "link": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
+   "section": "社论",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Corporate spin-offs are getting out of control",
+   "summary": "Some are enormously successful, but certainly not all",
+   "link": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
    "section": "商业",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Just how central should one person be to an organisation?",
+   "summary": "From founder mode to bounder mode",
+   "link": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
+   "section": "商业",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Nvidia’s roaring results can’t hide its troubles",
+   "summary": "Jensen Huang’s departure will cause lasting damage",
+   "link": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
+   "section": "商业",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "LLMs are developing filthy mouths",
+   "summary": "More challenging tasks may be to blame",
+   "link": "https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths",
+   "section": "科技",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Some grasshoppers fly like butterflies to mislead predators",
+   "summary": "It is a rare example of motion-related mimicry",
+   "link": "https://www.economist.com/science-and-technology/2026/11/18/some-grasshoppers-fly-like-butterflies-to-mislead-predators",
+   "section": "科技",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "America has slashed funding for biomedical science abroad",
+   "summary": "It has also weakened oversight of how future grants are spent",
+   "link": "https://www.economist.com/science-and-technology/2026/11/18/america-has-slashed-funding-for-biomedical-science-abroad",
+   "section": "科技",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "The return of measles in America",
+   "summary": "Reversing an absurd, unnecessary failure will be expensive and slow",
+   "link": "https://www.economist.com/united-states/2026/11/18/the-return-of-measles-in-america",
+   "section": "美国",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "Russia and Ukraine are bombing bridges. Who’s winning?",
+   "summary": "A setback for Russia in Crimea, but damage in Kyiv may matter more",
+   "link": "https://www.economist.com/europe/2026/11/18/russia-and-ukraine-are-bombing-bridges-whos-winning",
+   "section": "欧洲",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
+   "summary": "Studios face shrinking incentives to make top-tier titles",
+   "link": "https://www.economist.com/culture/2026/11/18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming",
+   "section": "文化",
    "date": "2026-11-18"
   },
   {
@@ -44,7 +107,7 @@
    "date": "2026-11-17"
   },
   {
-   "title": "The incredible shrinking legacy of Donald J Trump",
+   "title": "The incredible shrinking legacy of Donald J. Trump",
    "summary": "A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America",
    "link": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
    "section": "国际",
@@ -357,69 +420,6 @@
    "link": "https://www.economist.com/culture/2026/11/12/what-to-watch-this-week",
    "section": "文化",
    "date": "2026-11-12"
-  },
-  {
-   "title": "Why small dogs are so easy to love—and hate",
-   "summary": "Petite pups were the first modern pets, a new book argues",
-   "link": "https://www.economist.com/culture/2026/11/12/why-small-dogs-are-so-easy-to-love-and-hate",
-   "section": "文化",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "The curious case of the surgeon who inspired Sherlock Holmes",
-   "summary": "Joseph Bell, Arthur Conan Doyle’s professor, had an extraordinary gift for deduction",
-   "link": "https://www.economist.com/culture/2026/11/12/the-curious-case-of-the-surgeon-who-inspired-sherlock-holmes",
-   "section": "文化",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Plague, gruel and bad teeth: why do people idealise the olden days?",
-   "summary": "A rip-roaring rebuttal of the idea that progress is a myth",
-   "link": "https://www.economist.com/culture/2026/11/12/plague-gruel-and-bad-teeth-why-do-people-idealise-the-olden-days",
-   "section": "文化",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "“Ramayana”, India’s biggest film, turns a Hindu god into a star",
-   "summary": "But it won’t become the global phenomenon many hope",
-   "link": "https://www.economist.com/culture/2026/11/12/ramayana-indias-biggest-film-turns-a-hindu-god-into-a-star",
-   "section": "文化",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Jensen Huang must go",
-   "summary": "His should not be the only head to roll",
-   "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-go",
-   "section": "社论",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "There has never been a scandal like the Jensen Huang affair",
-   "summary": "A journey through the annals of corporate crises",
-   "link": "https://www.economist.com/business/2026/11/11/there-has-never-been-a-scandal-like-the-jensen-huang-affair",
-   "section": "商业",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "The company behind Barbie wants to be an entertainment giant",
-   "summary": "But Mattel remains a struggling toymaker",
-   "link": "https://www.economist.com/business/2026/11/11/the-company-behind-barbie-wants-to-be-an-entertainment-giant",
-   "section": "商业",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "AI has proved that a theory underpinning fundamental physics is trustworthy",
-   "summary": "The key insights appear to have come from human physicists",
-   "link": "https://www.economist.com/science-and-technology/2026/11/11/ai-has-proved-that-a-theory-underpinning-fundamental-physics-is-trustworthy",
-   "section": "科技",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Cameras in space could help spot invasive plants on Earth",
-   "summary": "The trick lies in how the leaves of different species reflect light",
-   "link": "https://www.economist.com/science-and-technology/2026/11/11/cameras-in-space-could-help-spot-invasive-plants-on-earth",
-   "section": "科技",
-   "date": "2026-11-11"
   }
  ]
 }
