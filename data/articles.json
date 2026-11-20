@@ -1,6 +1,244 @@
 {
- "updated": "2026-11-19 03:26 UTC",
+ "updated": "2026-11-20 03:13 UTC",
  "articles": [
+  {
+   "title": "America’s neglect of global science is backfiring",
+   "summary": "The Trump administration’s reforms have overcorrected for past mistakes",
+   "link": "https://www.economist.com/leaders/2026/11/19/americas-neglect-of-global-science-is-backfiring",
+   "section": "社论",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Can Britannia rule the waves again?",
+   "summary": "A risky bet that could transform the nature of sea power",
+   "link": "https://www.economist.com/leaders/2026/11/19/can-britannia-rule-the-waves-again",
+   "section": "社论",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Bangladesh, an underappreciated success, faces an economic crisis",
+   "summary": "A newish government must fix the country’s banks",
+   "link": "https://www.economist.com/leaders/2026/11/19/bangladesh-an-underappreciated-success-faces-an-economic-crisis",
+   "section": "社论",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Deeper collusion between hostile powers threatens the West",
+   "summary": "China, Russia, Iran and North Korea are bent on making a world safe for autocrats",
+   "link": "https://www.economist.com/leaders/2026/11/19/deeper-collusion-between-hostile-powers-threatens-the-west",
+   "section": "社论",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "How China continues to evade America’s tech-export rules",
+   "summary": "And is also developing a semiconductor industry to render them moot",
+   "link": "https://www.economist.com/briefing/2026/11/19/how-china-continues-to-evade-americas-tech-export-rules",
+   "section": "深度报道",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Anthropic soars, but it may soon be back, cap in hand",
+   "summary": "The biggest IPO of all time is just a start",
+   "link": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+   "section": "商业",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "The world’s carmakers are revving up in America",
+   "summary": "Donald Trump’s policies are only part of the explanation",
+   "link": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
+   "section": "商业",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "The global south’s smartphone king goes big on AI",
+   "summary": "Faced with stiffening competition and rising costs, Transsion plans its next act",
+   "link": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
+   "section": "商业",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Jensen Huang’s fall is bad news for Silicon Valley’s accelerationists",
+   "summary": "Already their movement was on the back foot",
+   "link": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+   "section": "商业",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "China’s prison for the elite is massively expanding",
+   "summary": "Its list of inmates past and present is a Who’s Who of Chinese politics",
+   "link": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
+   "section": "中国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "China’s Buddhists are releasing animals where they do not belong",
+   "summary": "It is ruffling feathers in the Communist Party",
+   "link": "https://www.economist.com/china/2026/11/19/chinas-buddhists-are-releasing-animals-where-they-do-not-belong",
+   "section": "中国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "China’s efforts to strengthen its safety net fuel public anger",
+   "summary": "People don’t want to pay into an unequal system they don’t trust",
+   "link": "https://www.economist.com/china/2026/11/19/chinas-efforts-to-strengthen-its-safety-net-fuel-public-anger",
+   "section": "中国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Donald Trump’s love of “conquest” is more self-defeating than ever",
+   "summary": "Yet Marco Rubio and others continue to celebrate it",
+   "link": "https://www.economist.com/united-states/2026/11/19/donald-trumps-love-of-conquest-is-more-self-defeating-than-ever",
+   "section": "美国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "A layered fight over a marginal commodity",
+   "summary": "Free-market purists want to legalise onion-futures trading",
+   "link": "https://www.economist.com/united-states/2026/11/19/a-layered-fight-over-a-marginal-commodity",
+   "section": "美国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "America’s most respected jurist was never on the Supreme Court",
+   "summary": "Richard Posner was a different kind of conservative judge",
+   "link": "https://www.economist.com/united-states/2026/11/19/americas-most-respected-jurist-was-never-on-the-supreme-court",
+   "section": "美国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "A fight over chips is roiling Donald Trump’s cabinet",
+   "summary": "Will Howard Lutnick be offered up as a sacrificial lamb?",
+   "link": "https://www.economist.com/united-states/2026/11/19/a-fight-over-chips-is-roiling-donald-trumps-cabinet",
+   "section": "美国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "What is causing America’s recent outages",
+   "summary": "Frenzied preparations for cyber-attacks are creating their own risks",
+   "link": "https://www.economist.com/united-states/2026/11/19/what-is-causing-americas-recent-outages",
+   "section": "美国",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "How Ukraine brought out the EU’s stubborn streak",
+   "summary": "Europe is proving remarkably hard to exhaust",
+   "link": "https://www.economist.com/europe/2026/11/19/how-ukraine-brought-out-the-eus-stubborn-streak",
+   "section": "欧洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Andrej Babis tries to curtail public broadcasting",
+   "summary": "Hundreds of thousands protested in the biggest demonstration since the fall of communism",
+   "link": "https://www.economist.com/europe/2026/11/19/andrej-babis-tries-to-curtail-public-broadcasting",
+   "section": "欧洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Why French politicians write so many books",
+   "summary": "In a country of keen readers, books offer a good way to keep people talking about you",
+   "link": "https://www.economist.com/europe/2026/11/19/why-french-politicians-write-so-many-books",
+   "section": "欧洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "A scandal causes problems for Recep Tayyip Erdogan",
+   "summary": "It’s inching closer to the Turkish president’s inner circle",
+   "link": "https://www.economist.com/europe/2026/11/19/a-scandal-causes-problems-for-recep-tayyip-erdogan",
+   "section": "欧洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Myanmar’s regime is convicted of genocide",
+   "summary": "The International Court of Justice rules that Myanmar set out to destroy the Rohingyas",
+   "link": "https://www.economist.com/asia/2026/11/19/myanmars-regime-is-convicted-of-genocide",
+   "section": "亚洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Thailand’s fertility rate is collapsing",
+   "summary": "As with China, it is at levels elsewhere seen only in much richer ones",
+   "link": "https://www.economist.com/asia/2026/11/19/thailands-fertility-rate-is-collapsing",
+   "section": "亚洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "China is kicking up a fuss over a Japanese spy show",
+   "summary": "Even though its own tellies are full of anti-Japanese content",
+   "link": "https://www.economist.com/asia/2026/11/19/china-is-kicking-up-a-fuss-over-a-japanese-spy-show",
+   "section": "亚洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "India feeds the world, but its methane emissions are heating it",
+   "summary": "Rice farming and cattle are both to blame",
+   "link": "https://www.economist.com/asia/2026/11/19/india-feeds-the-world-but-its-methane-emissions-are-heating-it",
+   "section": "亚洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Neither America nor Iran has the means to end the war",
+   "summary": "From fridges to tankers, both sides are reduced to pinpricks",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/19/neither-america-nor-iran-has-the-means-to-end-the-war",
+   "section": "中东与非洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Israel claims its “dual-use” policy is a necessary protection",
+   "summary": "To Gazans it feels very much like collective punishment",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/19/israel-claims-its-dual-use-policy-is-a-necessary-protection",
+   "section": "中东与非洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "The hunt for Sudan’s looted heritage",
+   "summary": "Priceless antiquities stolen in the war could take decades to recover",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/19/the-hunt-for-sudans-looted-heritage",
+   "section": "中东与非洲",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "A new axis of malice threatens the global order",
+   "summary": "Russia, China, Iran and North Korea are co-operating like never before",
+   "link": "https://www.economist.com/interactive/international/2026/11/19/a-new-axis-of-malice-threatens-the-global-order",
+   "section": "国际",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "What to watch this week",
+   "summary": "Dictators, spies and shootings feature on our list",
+   "link": "https://www.economist.com/culture/2026/11/19/what-to-watch-this-week",
+   "section": "文化",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "The best video games of 2026",
+   "summary": "Play as Bond or a crook, a mountaineer or a penguin",
+   "link": "https://www.economist.com/culture/2026/11/19/the-best-video-games-of-2026",
+   "section": "文化",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Why there are so many bizarre national days",
+   "summary": "National Hermit Day, anyone? Or National Button Day?",
+   "link": "https://www.economist.com/culture/2026/11/19/why-there-are-so-many-bizarre-national-days",
+   "section": "文化",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "The most important economics mind you’ve never heard of",
+   "summary": "Maria Edgeworth thought literature could help teach economics, as a new book shows",
+   "link": "https://www.economist.com/culture/2026/11/19/the-most-important-economics-mind-youve-never-heard-of",
+   "section": "文化",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "The oddball who founded UPS—and changed the world",
+   "summary": "James Casey’s obsession with efficiency helped make next-day delivery possible",
+   "link": "https://www.economist.com/culture/2026/11/19/the-oddball-who-founded-ups-and-changed-the-world",
+   "section": "文化",
+   "date": "2026-11-19"
+  },
   {
    "title": "America must get serious about Chinese chip spying",
    "summary": "The Jensen Huang affair exposes an AI underworld",
@@ -108,7 +346,7 @@
   },
   {
    "title": "The incredible shrinking legacy of Donald J. Trump",
-   "summary": "A three-way summit with Vladimir Putin and Xi Jinping in China will diminish America",
+   "summary": "A three-way summit with Vladimir Putin and Xi Jinping in China diminished America",
    "link": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
    "section": "国际",
    "date": "2026-11-17"
@@ -164,7 +402,7 @@
   },
   {
    "title": "Understanding the world through a wine glass",
-   "summary": "A definitive new history offers you Pliny the Elder as wine critic and other memorable anecdotes",
+   "summary": "A full-bodied history offers you Pliny the Elder as wine critic and other memorable anecdotes",
    "link": "https://www.economist.com/culture/2026/11/16/understanding-the-world-through-a-wine-glass",
    "section": "文化",
    "date": "2026-11-16"
@@ -182,244 +420,6 @@
    "link": "https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
    "section": "科技",
    "date": "2026-11-15"
-  },
-  {
-   "title": "Donald Trump will get a warm welcome in the Philippines",
-   "summary": "He almost skipped about the only country that still adores him",
-   "link": "https://www.economist.com/asia/2026/11/15/donald-trump-will-get-a-warm-welcome-in-the-philippines",
-   "section": "亚洲",
-   "date": "2026-11-15"
-  },
-  {
-   "title": "Iran is functioning without a supreme leader",
-   "summary": "Six men from a council of generals and bureaucrats now dominate decision making",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
-   "section": "中东与非洲",
-   "date": "2026-11-15"
-  },
-  {
-   "title": "The Bottom Line newsletter: Nvidia will never be the same",
-   "summary": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
-   "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
-   "section": "商业",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "Checks and Balance newsletter: What do ballot initiatives tell us about America?",
-   "summary": "John Prideaux, our executive editor, explains why they can be used to take the pulse of the country",
-   "link": "https://www.economist.com/united-states/2026/11/14/checks-and-balance-newsletter-what-do-ballot-initiatives-tell-us-about-america",
-   "section": "美国",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "Should women sync their lifestyle to their menstrual cycle?",
-   "summary": "What works for one woman may not suit another",
-   "link": "https://www.economist.com/science-and-technology/2026/11/13/should-women-sync-their-lifestyle-to-their-menstrual-cycle",
-   "section": "科技",
-   "date": "2026-11-13"
-  },
-  {
-   "title": "The Jensen Huang scandal reaches Donald Trump’s cabinet",
-   "summary": "Howard Lutnick, the commerce secretary, is in the firing line",
-   "link": "https://www.economist.com/united-states/2026/11/13/the-jensen-huang-scandal-reaches-donald-trumps-cabinet",
-   "section": "美国",
-   "date": "2026-11-13"
-  },
-  {
-   "title": "Teaching kids to think for themselves in the age of AI",
-   "summary": "The Economist Educational Foundation helps schoolchildren around the world make sense of the news",
-   "link": "https://www.economist.com/international/2026/11/13/teaching-kids-to-think-for-themselves-in-the-age-of-ai",
-   "section": "国际",
-   "date": "2026-11-13"
-  },
-  {
-   "title": "China's emissions are falling. Thank self-interest",
-   "summary": "And its technology is helping others fight climate change, too",
-   "link": "https://www.economist.com/leaders/2026/11/12/chinas-emissions-are-falling-thank-self-interest",
-   "section": "社论",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "To triumph in show business, take a lo-fi or hi-fi approach",
-   "summary": "Skydance is stuck in the dangerous middle ground",
-   "link": "https://www.economist.com/leaders/2026/11/12/to-triumph-in-show-business-take-a-lo-fi-or-hi-fi-approach",
-   "section": "社论",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "South Africans are giving up on Nelson Mandela’s party. Good",
-   "summary": "The decline of the African National Congress shows that democracy is working",
-   "link": "https://www.economist.com/leaders/2026/11/12/south-africans-are-giving-up-on-nelson-mandelas-party-good",
-   "section": "社论",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Why you should expect an AI crash",
-   "summary": "But not necessarily a financial cataclysm",
-   "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-   "section": "社论",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Can the AI boom make enough money to sustain itself?",
-   "summary": "Wall Street has started to worry",
-   "link": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
-   "section": "深度报道",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Jensen Huang is out. His successor has the toughest job in tech",
-   "summary": "A company built around one man must now learn to run without him",
-   "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-   "section": "商业",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "The panic over personalised pricing is overdone",
-   "summary": "Lawmakers are getting ahead of themselves",
-   "link": "https://www.economist.com/business/2026/11/12/the-panic-over-personalised-pricing-is-overdone",
-   "section": "商业",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Everything is going wrong for SoftBank",
-   "summary": "Masayoshi Son’s all-in bet on AI is looking shaky",
-   "link": "https://www.economist.com/business/2026/11/12/everything-is-going-wrong-for-softbank",
-   "section": "商业",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "A franchise revolution is stirring in China",
-   "summary": "It is bringing buzzy retail brands to every corner of the country—and beyond",
-   "link": "https://www.economist.com/business/2026/11/12/a-franchise-revolution-is-stirring-in-china",
-   "section": "商业",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Jensen Huang’s recklessness leaves Nvidia with no good options",
-   "summary": "His affair will bring lasting damage to the company",
-   "link": "https://www.economist.com/business/2026/11/12/jensen-huangs-recklessness-leaves-nvidia-with-no-good-options",
-   "section": "商业",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Quebec’s strategic maple-syrup reserve is running dry",
-   "summary": "The province’s cartel is losing its grip",
-   "link": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
-   "section": "商业",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Ted Plafker, a stalwart of our China coverage, has died",
-   "summary": "He was a giant among Western journalists in the country",
-   "link": "https://www.economist.com/china/2026/11/12/ted-plafker-a-stalwart-of-our-china-coverage-has-died",
-   "section": "中国",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "China’s exports of clean tech to South-East Asia are soaring",
-   "summary": "Unlike in the European Union, governments don’t fret about the influx",
-   "link": "https://www.economist.com/china/2026/11/12/chinas-exports-of-clean-tech-to-south-east-asia-are-soaring",
-   "section": "中国",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "China’s carbon-dioxide emissions have begun to fall",
-   "summary": "Its progress with electrification has been a big help",
-   "link": "https://www.economist.com/china/2026/11/12/chinas-carbon-dioxide-emissions-have-begun-to-fall",
-   "section": "中国",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Donald Trump has an unusual chance to make progress",
-   "summary": "He also has an unusual gift for blowing such chances",
-   "link": "https://www.economist.com/united-states/2026/11/12/donald-trump-has-an-unusual-chance-to-make-progress",
-   "section": "美国",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "An emerging consensus on trans politics",
-   "summary": "Voters want neither trans kids playing girls’ sports, nor politicians obsessed with it",
-   "link": "https://www.economist.com/united-states/2026/11/12/an-emerging-consensus-on-trans-politics",
-   "section": "美国",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "How Florida withstood a blue wave",
-   "summary": "The quintessential swing state of 2000 is the bastion of Republicanism in 2026",
-   "link": "https://www.economist.com/united-states/2026/11/12/how-florida-withstood-a-blue-wave",
-   "section": "美国",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "How navigating red tape became the European way of life",
-   "summary": "Life in the small-print continent",
-   "link": "https://www.economist.com/europe/2026/11/12/how-navigating-red-tape-became-the-european-way-of-life",
-   "section": "欧洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Spain’s rail crashes are a grim backdrop to the election",
-   "summary": "Once a source of national pride, high-speed rail now causes anguish",
-   "link": "https://www.economist.com/europe/2026/11/12/spains-rail-crashes-are-a-grim-backdrop-to-the-election",
-   "section": "欧洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "A judo champion enters the presidential race in France",
-   "summary": "His rivals are watching warily",
-   "link": "https://www.economist.com/europe/2026/11/12/a-judo-champion-enters-the-presidential-race-in-france",
-   "section": "欧洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Can anyone fix the China-Japan relationship?",
-   "summary": "The two countries need a go-between. Donald Trump is not an ideal option",
-   "link": "https://www.economist.com/asia/2026/11/12/can-anyone-fix-the-china-japan-relationship",
-   "section": "亚洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "The Japanese region where “eight-testicle women” outdo men",
-   "summary": "It’s a matter of sake and hard work",
-   "link": "https://www.economist.com/asia/2026/11/12/the-japanese-region-where-eight-testicle-women-outdo-men",
-   "section": "亚洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Welcome to Africa’s treason belt",
-   "summary": "Why African autocrats favour lawfare to stymie opponents",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/welcome-to-africas-treason-belt",
-   "section": "中东与非洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Jordan is worried about a resurgence in jihadism",
-   "summary": "The war in Iran is helping to fuel it",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/jordan-is-worried-about-a-resurgence-in-jihadism",
-   "section": "中东与非洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Africa’s solar revolution is vast and speedy",
-   "summary": "Zimbabwe shows that official statistics probably underestimate its scale",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
-   "section": "中东与非洲",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Despite recent misses, political polling is more accurate than ever",
-   "summary": "But elections in America and Brazil illustrate how hard the task is becoming",
-   "link": "https://www.economist.com/international/2026/11/12/despite-recent-misses-political-polling-is-more-accurate-than-ever",
-   "section": "国际",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "What to watch this week",
-   "summary": "There are feuds and fights in our latest recommendations",
-   "link": "https://www.economist.com/culture/2026/11/12/what-to-watch-this-week",
-   "section": "文化",
-   "date": "2026-11-12"
   }
  ]
 }
