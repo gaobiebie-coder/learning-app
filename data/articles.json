@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-20 03:13 UTC",
+ "updated": "2026-11-21 03:12 UTC",
  "articles": [
+  {
+   "title": "AI may have solved the most important problem in mathematics",
+   "summary": "Humans spent 167 years trying to prove the Riemann hypothesis",
+   "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+   "section": "科技",
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Are some salts healthier than others?",
+   "summary": "The claim has more than a grain of truth",
+   "link": "https://www.economist.com/science-and-technology/2026/11/20/are-some-salts-healthier-than-others",
+   "section": "科技",
+   "date": "2026-11-20"
+  },
   {
    "title": "America’s neglect of global science is backfiring",
    "summary": "The Trump administration’s reforms have overcorrected for past mistakes",
@@ -406,20 +420,6 @@
    "link": "https://www.economist.com/culture/2026/11/16/understanding-the-world-through-a-wine-glass",
    "section": "文化",
    "date": "2026-11-16"
-  },
-  {
-   "title": "Anthropic’s giant IPO puts the heat on OpenAI",
-   "summary": "Coding agents are big business. But what comes next?",
-   "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-   "section": "商业",
-   "date": "2026-11-15"
-  },
-  {
-   "title": "SpaceX achieves another historic first",
-   "summary": "It has caught the second stage of its Starship rocket",
-   "link": "https://www.economist.com/science-and-technology/2026/11/15/spacex-achieves-another-historic-first",
-   "section": "科技",
-   "date": "2026-11-15"
   }
  ]
 }
