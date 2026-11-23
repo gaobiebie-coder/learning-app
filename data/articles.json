@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-22 02:14 UTC",
+ "updated": "2026-11-23 02:44 UTC",
  "articles": [
+  {
+   "title": "Democrats will struggle with a state-level revolution",
+   "summary": "Reversing Republican policies is harder than it looks",
+   "link": "https://www.economist.com/united-states/2026/11/22/democrats-will-struggle-with-a-state-level-revolution",
+   "section": "美国",
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Spain’s election will be a referendum on Pedro Sánchez",
+   "summary": "Despite a booming economy Spaniards are feeling discontented",
+   "link": "https://www.economist.com/europe/2026/11/22/spains-election-will-be-a-referendum-on-pedro-sanchez",
+   "section": "欧洲",
+   "date": "2026-11-22"
+  },
+  {
+   "title": "The Gandhi dynasty suffers for India",
+   "summary": "And India suffers the Gandhi dynasty",
+   "link": "https://www.economist.com/asia/2026/11/22/the-gandhi-dynasty-suffers-for-india",
+   "section": "亚洲",
+   "date": "2026-11-22"
+  },
+  {
+   "title": "The messy breakdown of the UN’s latest climate conference",
+   "summary": "The parties could not even agree on whether to mention fossil fuels in the summary text",
+   "link": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-latest-climate-conference",
+   "section": "国际",
+   "date": "2026-11-22"
+  },
   {
    "title": "Checks and Balance newsletter: The crowded field for 2028",
    "summary": "Charlotte Howard, our US editor, on how presidential hopefuls are trying to stand out",
@@ -9,9 +37,9 @@
    "date": "2026-11-21"
   },
   {
-   "title": "AI may have solved the most important problem in mathematics",
-   "summary": "Humans spent 167 years trying to prove the Riemann hypothesis",
-   "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+   "title": "AI has conquered mathematics’ greatest challenge",
+   "summary": "The Riemann hypothesis has fallen. Where does mathematics, and AI, go from here?",
+   "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-has-conquered-mathematics-greatest-challenge",
    "section": "科技",
    "date": "2026-11-20"
   },
@@ -391,34 +419,6 @@
    "summary": "“Excavator man” will not spark a popular movement, but his actions expose a deep malaise",
    "link": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
    "section": "中国",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "Barack Obama’s acolytes are coming to power",
-   "summary": "As Democrats consider their next steps, a new cohort offers post-partisan rhetoric and populist policy",
-   "link": "https://www.economist.com/united-states/2026/11/16/barack-obamas-acolytes-are-coming-to-power",
-   "section": "美国",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "Bangladesh is no longer a development superstar",
-   "summary": "Corruption has led its banks to the verge of insolvency",
-   "link": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
-   "section": "亚洲",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "The War Room newsletter: Will America or Iran blink first?",
-   "summary": "Alex Turner, our defence editor, on why neither side can end the stalemate",
-   "link": "https://www.economist.com/international/2026/11/16/the-war-room-newsletter-will-america-or-iran-blink-first",
-   "section": "国际",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "Good evening, Mr Bond. We’ve been expecting you",
-   "summary": "A new James Bond has finally been cast. Is Robert Pattinson right for the role?",
-   "link": "https://www.economist.com/culture/2026/11/16/good-evening-mr-bond-weve-been-expecting-you",
-   "section": "文化",
    "date": "2026-11-16"
   }
  ]
