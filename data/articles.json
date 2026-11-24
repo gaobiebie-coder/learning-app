@@ -1,6 +1,55 @@
 {
- "updated": "2026-11-23 02:44 UTC",
+ "updated": "2026-11-24 06:01 UTC",
  "articles": [
+  {
+   "title": "How the manosphere cashes in on male insecurity",
+   "summary": "Behind the controversial influencers lies a web of troubling sponsorship deals",
+   "link": "https://www.economist.com/business/2026/11/23/how-the-manosphere-cashes-in-on-male-insecurity",
+   "section": "商业",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Jensen Huang returns. But Nvidia will never be the same",
+   "summary": "He now faces a hostile Congress, rattled employees and wary business partners",
+   "link": "https://www.economist.com/business/2026/11/23/jensen-huang-returns-but-nvidia-will-never-be-the-same",
+   "section": "商业",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Bartleby newsletter: Valley mentality",
+   "summary": "Andrew Palmer, Bartleby columnist, asks why people who think that AI might have terrible outcomes persist in developing it",
+   "link": "https://www.economist.com/business/2026/11/23/bartleby-newsletter-valley-mentality",
+   "section": "商业",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Does a crummy economy threaten China’s social contract?",
+   "summary": "The Communist Party’s quest for legitimacy is about much more than growth",
+   "link": "https://www.economist.com/china/2026/11/23/does-a-crummy-economy-threaten-chinas-social-contract",
+   "section": "中国",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "The world’s back office aims to become a “deep-tech” powerhouse",
+   "summary": "Why Bangalore’s next reincarnation depends on the government in Delhi",
+   "link": "https://www.economist.com/asia/2026/11/23/the-worlds-back-office-aims-to-become-a-deep-tech-powerhouse",
+   "section": "亚洲",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "The unlikely winner from war in the Gulf",
+   "summary": "Amid the conflict, one Middle Eastern country is enjoying a fragile economic boom",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/23/the-unlikely-winner-from-war-in-the-gulf",
+   "section": "中东与非洲",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Johnny Depp is back as Scrooge, patron saint of second chances",
+   "summary": "The churlish, cherished miser is the ghost of Christmas past, present and future",
+   "link": "https://www.economist.com/culture/2026/11/23/johnny-depp-is-back-as-scrooge-patron-saint-of-second-chances",
+   "section": "文化",
+   "date": "2026-11-23"
+  },
   {
    "title": "Democrats will struggle with a state-level revolution",
    "summary": "Reversing Republican policies is harder than it looks",
@@ -23,9 +72,9 @@
    "date": "2026-11-22"
   },
   {
-   "title": "The messy breakdown of the UN’s latest climate conference",
+   "title": "The messy breakdown of the UN’s climate conference",
    "summary": "The parties could not even agree on whether to mention fossil fuels in the summary text",
-   "link": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-latest-climate-conference",
+   "link": "https://www.economist.com/international/2026/11/22/the-messy-breakdown-of-the-uns-climate-conference",
    "section": "国际",
    "date": "2026-11-22"
   },
@@ -371,55 +420,6 @@
    "link": "https://www.economist.com/asia/2026/11/17/asia-bulletin-newsletter-xi-trump-putin-and-a-theme-park",
    "section": "亚洲",
    "date": "2026-11-17"
-  },
-  {
-   "title": "Middle East Dispatch: Where is Gaza’s board of peace?",
-   "summary": "Nick Pelham, our Middle East correspondent, on Gaza’s stalled reconstruction",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/middle-east-dispatch-where-is-gazas-board-of-peace",
-   "section": "中东与非洲",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "Climate change is making some African deserts greener",
-   "summary": "That could help farmers but will also bring dangerous floods",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/climate-change-is-making-some-african-deserts-greener",
-   "section": "中东与非洲",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "Analysing Africa newsletter: Why Kenya’s Rift Valley is underwater",
-   "summary": "Tom Gardner, our Africa correspondent, on the mystery of Kenya’s rising lakes",
-   "link": "https://www.economist.com/middle-east-and-africa/2026/11/17/analysing-africa-newsletter-why-kenyas-rift-valley-is-underwater",
-   "section": "中东与非洲",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "The incredible shrinking legacy of Donald J. Trump",
-   "summary": "A three-way summit with Vladimir Putin and Xi Jinping in China diminished America",
-   "link": "https://www.economist.com/international/2026/11/17/the-incredible-shrinking-legacy-of-donald-j-trump",
-   "section": "国际",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "Trump Inc is in free fall",
-   "summary": "Investors are souring on anything with ties to the president and his family",
-   "link": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
-   "section": "商业",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "Bartleby newsletter: Why you weren’t invited to that meeting",
-   "summary": "Andrew Palmer, our Bartleby columnist, writes about the benefits of “skip-level meetings”",
-   "link": "https://www.economist.com/business/2026/11/16/bartleby-newsletter-why-you-werent-invited-to-that-meeting",
-   "section": "商业",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "A lone protester highlights the pain from China’s property bust",
-   "summary": "“Excavator man” will not spark a popular movement, but his actions expose a deep malaise",
-   "link": "https://www.economist.com/china/2026/11/16/a-lone-protester-highlights-the-pain-from-chinas-property-bust",
-   "section": "中国",
-   "date": "2026-11-16"
   }
  ]
 }
