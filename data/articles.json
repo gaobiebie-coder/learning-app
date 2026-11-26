@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-25 04:53 UTC",
+ "updated": "2026-11-26 04:08 UTC",
  "articles": [
+  {
+   "title": "Britain needs to cut its mental-health benefits bill",
+   "summary": "Too many people are getting cash intended for the most disabled",
+   "link": "https://www.economist.com/leaders/2026/11/25/britain-needs-to-cut-its-mental-health-benefits-bill",
+   "section": "社论",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Jensen Huang’s bail-out will not be the AI boom’s last",
+   "summary": "His return has done little to quell Wall Street’s terror",
+   "link": "https://www.economist.com/business/2026/11/25/jensen-huangs-bail-out-will-not-be-the-ai-booms-last",
+   "section": "商业",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "For most mothers, mental health improves after birth",
+   "summary": "Many are told to expect the worst",
+   "link": "https://www.economist.com/science-and-technology/2026/11/25/for-most-mothers-mental-health-improves-after-birth",
+   "section": "科技",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Why mathematicians must rely on machines to check new results",
+   "summary": "Many AI-powered proofs are too big for humans to digest",
+   "link": "https://www.economist.com/science-and-technology/2026/11/25/why-mathematicians-must-rely-on-machines-to-check-new-results",
+   "section": "科技",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Nuclear-arms control is on hold until China catches up",
+   "summary": "Donald Trump’s hopes of progress in Shenzhen were always delusional",
+   "link": "https://www.economist.com/china/2026/11/25/nuclear-arms-control-is-on-hold-until-china-catches-up",
+   "section": "中国",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Do Americans have a right to own assault rifles?",
+   "summary": "The Supreme Court is poised to rule on state bans",
+   "link": "https://www.economist.com/united-states/2026/11/25/do-americans-have-a-right-to-own-assault-rifles",
+   "section": "美国",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Tourists are starting to return to Syria",
+   "summary": "The government risks putting them off",
+   "link": "https://www.economist.com/middle-east-and-africa/2026/11/25/tourists-are-starting-to-return-to-syria",
+   "section": "中东与非洲",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "The rich world’s sexual recession is getting worse",
+   "summary": "Exhaustion is just one of the culprits",
+   "link": "https://www.economist.com/international/2026/11/25/the-rich-worlds-sexual-recession-is-getting-worse",
+   "section": "国际",
+   "date": "2026-11-25"
+  },
   {
    "title": "Jensen Huang and the age of impunity",
    "summary": "Silicon Valley and Donald Trump share a disturbing view of power",
@@ -364,62 +420,6 @@
    "link": "https://www.economist.com/culture/2026/11/19/the-best-video-games-of-2026",
    "section": "文化",
    "date": "2026-11-19"
-  },
-  {
-   "title": "Why there are so many bizarre national days",
-   "summary": "National Hermit Day, anyone? Or National Button Day?",
-   "link": "https://www.economist.com/culture/2026/11/19/why-there-are-so-many-bizarre-national-days",
-   "section": "文化",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "The most important economics mind you’ve never heard of",
-   "summary": "Maria Edgeworth thought literature could help teach economics, as a new book shows",
-   "link": "https://www.economist.com/culture/2026/11/19/the-most-important-economics-mind-youve-never-heard-of",
-   "section": "文化",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "The oddball who founded UPS—and changed the world",
-   "summary": "James Casey’s obsession with efficiency helped make next-day delivery possible",
-   "link": "https://www.economist.com/culture/2026/11/19/the-oddball-who-founded-ups-and-changed-the-world",
-   "section": "文化",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "America must get serious about Chinese chip spying",
-   "summary": "The Jensen Huang affair exposes an AI underworld",
-   "link": "https://www.economist.com/leaders/2026/11/18/america-must-get-serious-about-chinese-chip-spying",
-   "section": "社论",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Corporate spin-offs are getting out of control",
-   "summary": "Some are enormously successful, but certainly not all",
-   "link": "https://www.economist.com/business/2026/11/18/corporate-spin-offs-are-getting-out-of-control",
-   "section": "商业",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Just how central should one person be to an organisation?",
-   "summary": "From founder mode to bounder mode",
-   "link": "https://www.economist.com/business/2026/11/18/just-how-central-should-one-person-be-to-an-organisation",
-   "section": "商业",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Nvidia’s roaring results can’t hide its troubles",
-   "summary": "Jensen Huang’s departure will cause lasting damage",
-   "link": "https://www.economist.com/business/2026/11/18/nvidias-roaring-results-cant-hide-its-troubles",
-   "section": "商业",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "LLMs are developing filthy mouths",
-   "summary": "More challenging tasks may be to blame",
-   "link": "https://www.economist.com/science-and-technology/2026/11/18/llms-are-developing-filthy-mouths",
-   "section": "科技",
-   "date": "2026-11-18"
   }
  ]
 }
