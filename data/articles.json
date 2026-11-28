@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-27 04:14 UTC",
+ "updated": "2026-11-28 03:53 UTC",
  "articles": [
+  {
+   "title": "How much cardio exercise is too much?",
+   "summary": "Overdoing it can affect your heart, but doesn’t seem to kill you",
+   "link": "https://www.economist.com/science-and-technology/2026/11/27/how-much-cardio-exercise-is-too-much",
+   "section": "科技",
+   "date": "2026-11-27"
+  },
+  {
+   "title": "The War Room newsletter: The best armies in history",
+   "summary": "Richard Cockett, one of our senior editors, makes a short list of the best fighting forces in history",
+   "link": "https://www.economist.com/international/2026/11/27/the-war-room-newsletter-the-best-armies-in-history",
+   "section": "国际",
+   "date": "2026-11-27"
+  },
+  {
+   "title": "What to watch this week",
+   "summary": "Our list offers alluring protagonists, from stuntmen to satirists",
+   "link": "https://www.economist.com/culture/2026/11/27/what-to-watch-this-week",
+   "section": "文化",
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Why museums are lending out precious artefacts",
+   "summary": "Is loan diplomacy an alternative to restitution?",
+   "link": "https://www.economist.com/culture/2026/11/27/why-museums-are-lending-out-precious-artefacts",
+   "section": "文化",
+   "date": "2026-11-27"
+  },
   {
    "title": "Young people are having less sex. Blame helicopter parenting",
    "summary": "Overprotective parents are slowing the growing-up process",
@@ -9,9 +37,9 @@
    "date": "2026-11-26"
   },
   {
-   "title": "How Democrats and Donald Trump can make it easier to build",
-   "summary": "Lawmakers should back a bill that slashes red tape",
-   "link": "https://www.economist.com/leaders/2026/11/26/how-democrats-and-donald-trump-can-make-it-easier-to-build",
+   "title": "America needs to slash red tape and build",
+   "summary": "What Democrats and Donald Trump must do",
+   "link": "https://www.economist.com/leaders/2026/11/26/america-needs-to-slash-red-tape-and-build",
    "section": "社论",
    "date": "2026-11-26"
   },
@@ -170,9 +198,9 @@
    "date": "2026-11-25"
   },
   {
-   "title": "For most mothers, mental health improves after birth",
+   "title": "Having a baby is less bad for mental health than many realise",
    "summary": "Many are told to expect the worst",
-   "link": "https://www.economist.com/science-and-technology/2026/11/25/for-most-mothers-mental-health-improves-after-birth",
+   "link": "https://www.economist.com/science-and-technology/2026/11/25/having-a-baby-is-less-bad-for-mental-health-than-many-realise",
    "section": "科技",
    "date": "2026-11-25"
   },
@@ -391,34 +419,6 @@
    "summary": "And is also developing a semiconductor industry to render them moot",
    "link": "https://www.economist.com/briefing/2026/11/19/how-china-continues-to-evade-americas-tech-export-rules",
    "section": "深度报道",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Anthropic soars, but it may soon be back, cap in hand",
-   "summary": "The biggest IPO of all time is just a start",
-   "link": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
-   "section": "商业",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "The world’s carmakers are revving up in America",
-   "summary": "Donald Trump’s policies are only part of the explanation",
-   "link": "https://www.economist.com/business/2026/11/19/the-worlds-carmakers-are-revving-up-in-america",
-   "section": "商业",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "The global south’s smartphone king goes big on AI",
-   "summary": "Faced with stiffening competition and rising costs, Transsion plans its next act",
-   "link": "https://www.economist.com/business/2026/11/19/the-global-souths-smartphone-king-goes-big-on-ai",
-   "section": "商业",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Jensen Huang’s fall is bad news for Silicon Valley’s accelerationists",
-   "summary": "Already their movement was on the back foot",
-   "link": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
-   "section": "商业",
    "date": "2026-11-19"
   }
  ]
